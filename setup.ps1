@@ -1,6 +1,8 @@
 # Allow Remote Signed Packages
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned -Force
 
+# Update Help Files
+Update-Help -Force
 
 # Install Chocolatey
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
@@ -9,7 +11,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 # Install Programs
 cinst git.install --params "/NoAutoCrlf /NoShellIntegration /GitOnlyOnPath" -y
 cinst vscode --params "/NoDesktopIcon /NoContextMenuFiles /NoContextMenuFolders" -y
-cinst 7zip.install googlechrome autohotkey.portable notepadplusplus.install conemu vim postman docker steam -y
+cinst 7zip.install googlechrome autohotkey.portable notepadplusplus.install conemu vim postman docker steam nvm -y
 cinst visualstudio2017professional --package-parameters "--locale en-US" -y
 cinst visualstudio2017-workload-manageddesktop visualstudio2017-workload-netcoretools visualstudio2017-workload-netweb visualstudio2017-workload-visualstudioextension -y
 
@@ -28,6 +30,11 @@ Install-Module PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
 # Setup Git
 git config --global user.email lhsperez@gmail.com
 git config --global user.name "Luiz Strobelt"
+
+
+# Setup Node
+nvm install latest
+nvm use (nvm list)
 
 
 # Setup PowerShell config
