@@ -18,6 +18,7 @@ cinst visualstudio2017-workload-manageddesktop visualstudio2017-workload-netcore
 Install-Module -Name PowerShellGet -Force
 Import-Module PowerShellGet
 Install-Module -Name PSReadLine -AllowPrerelease -Force -SkipPublisherCheck
+Install-Module z --AllowClobber -Force -SkipPublisherCheck
 Install-Module posh-git -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module oh-my-posh -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module DockerCompletion -Scope CurrentUser -Force -SkipPublisherCheck
