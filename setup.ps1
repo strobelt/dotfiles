@@ -11,7 +11,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 # Install Programs
 cinst git.install --params "/NoAutoCrlf /NoShellIntegration /GitOnlyOnPath" -y
 cinst vscode --params "/NoDesktopIcon /NoContextMenuFiles /NoContextMenuFolders" -y
-cinst 7zip.install googlechrome autohotkey.portable notepadplusplus.install conemu vim postman docker-for-windows steam nvm -y
+cinst autohotkey.install --params="'/DefaultVer:U64'"
+cinst 7zip.install googlechrome notepadplusplus.install conemu vim postman docker-for-windows steam nvm -y
 cinst visualstudio2017professional --package-parameters "--locale en-US" -y
 cinst visualstudio2017-workload-manageddesktop visualstudio2017-workload-netcoretools visualstudio2017-workload-netweb visualstudio2017-workload-visualstudioextension -y
 
@@ -35,6 +36,11 @@ git config --global user.name "Luiz Strobelt"
 # Setup Node
 nvm install latest
 nvm use (nvm list)
+
+
+# Setup AutHotkey
+$ScriptPath = Split-Path$MyInvocation.MyCommand.Path
+& "$ScriptPath\autohotkeyScripts\setup.ps1"
 
 
 # Setup PowerShell config
