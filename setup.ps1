@@ -23,22 +23,21 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 cinst git.install --params "/NoAutoCrlf /NoShellIntegration /GitOnlyOnPath" -y
 cinst vscode --params "/NoDesktopIcon /NoContextMenuFiles /NoContextMenuFolders" -y
 cinst autohotkey.install --params="'/DefaultVer:U64'" -y
-cinst 7zip conemu vim docker-for-windows microsoft-teams firacode dbeaver googlechrome notepadplusplus.install postman sourcetree nvm -y
+cinst vivaldi 7zip conemu vim docker-for-windows microsoft-teams firacode dbeaver googlechrome notepadplusplus.install postman sourcetree nvm -y
 
 
-# Reload Environemtn Variables
+# Reload Environment Variables
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
 
 
 # Configure ConEmu
 Install-Module -Name PowerShellGet -Force
 Import-Module PowerShellGet
-Install-Module -Name PSReadLine -AllowPrerelease -Force -SkipPublisherCheck
+Install-Module PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module z -Force -SkipPublisherCheck
 Install-Module posh-git -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module oh-my-posh -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module DockerCompletion -Scope CurrentUser -Force -SkipPublisherCheck
-Install-Module PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
 
 
 # Setup Git
