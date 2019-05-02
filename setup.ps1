@@ -23,7 +23,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 cinst git.install --params "/NoAutoCrlf /NoShellIntegration /GitOnlyOnPath" -y
 cinst vscode --params "/NoDesktopIcon /NoContextMenuFiles /NoContextMenuFolders" -y
 cinst autohotkey.install --params="'/DefaultVer:U64'" -y
-cinst vivaldi 7zip conemu vim docker-for-windows microsoft-teams firacode dbeaver googlechrome notepadplusplus.install postman sourcetree nvm -y
+cinst vivaldi 7zip conemu vim docker-for-windows microsoft-teams firacode dbeaver googlechrome notepadplusplus.install postman sourcetree nvm yarn -y
 
 
 # Reload Environment Variables
