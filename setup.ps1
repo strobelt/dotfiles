@@ -23,7 +23,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 cinst git.install --params "/NoAutoCrlf /NoShellIntegration /GitOnlyOnPath" -y
 cinst vscode --params "/NoDesktopIcon /NoContextMenuFiles /NoContextMenuFolders" -y
 cinst autohotkey.install --params="'/DefaultVer:U64'" -y
-cinst vivaldi 7zip conemu vim docker-for-windows microsoft-teams firacode dbeaver googlechrome notepadplusplus.install postman sourcetree nvm yarn -y
+cinst firefox-dev --params "/l:en-GB /RemoveDistributionDir" -y
+cinst 7zip vim docker-for-windows microsoft-teams firacode sourcetree nvm microsoft-windows-terminal -y
 
 
 # Reload Environment Variables
@@ -49,6 +50,8 @@ git config --system core.longpaths true
 # Configures Windows to accept longer file paths
 New-Item -Path "HKLM:SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -Force
 
+# Refresh Environment
+refreshenv
 
 # Setup Node
 nvm install latest
