@@ -23,19 +23,18 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 cinst git.install --params "/NoAutoCrlf /NoShellIntegration /GitOnlyOnPath" -y
 cinst vscode --params "/NoDesktopIcon /NoContextMenuFiles /NoContextMenuFolders" -y
 cinst autohotkey.install --params="'/DefaultVer:U64'" -y
-cinst firefox-dev --params "/l:en-GB /RemoveDistributionDir" -y
-cinst 7zip vim docker-for-windows microsoft-teams firacode sourcetree nvm microsoft-windows-terminal -y
+cinst 7zip vim microsoft-teams firacode sourcetree nvm microsoft-windows-terminal -y
 
 
 # Reload Environment Variables
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path", "Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path", "User")
 
 
-# Configure ConEmu
+# Configure Terminal
 Install-Module -Name PowerShellGet -Force
 Import-Module PowerShellGet
 Install-Module PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
-Install-Module z -Force -SkipPublisherCheck
+Install-Module z -Force -SkipPublisherCheck -AllowClobber
 Install-Module posh-git -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module oh-my-posh -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module DockerCompletion -Scope CurrentUser -Force -SkipPublisherCheck
@@ -59,7 +58,7 @@ nvm use (nvm list)
 
 
 # Setup AutHotkey
-$ScriptPath = Split-Path$MyInvocation.MyCommand.Path
+$ScriptPath = Split-Path $MyInvocation.MyCommand.Path
 & "$ScriptPath\autohotkeyScripts\setup.ps1"
 
 
@@ -67,7 +66,7 @@ $ScriptPath = Split-Path$MyInvocation.MyCommand.Path
 New-Item -Name "git" -ItemType "directory" -Path "c:\"
 Set-Location "c:\git"
 git clone https://github.com/strobelt/poshfiles.git poshfiles
-Set-Location (Get-Item $PROFILE).DirectoryName 
+Set-Location "~/Documents/WindowsPowerShell"
 New-Item -Path "Microsoft.PowerShell_profile.ps1" -ItemType HardLink -Value "c:\git\poshfiles\Microsoft.PowerShell_profile.ps1"
 
 # Setup Vim Plug
@@ -89,6 +88,15 @@ New-Item -Path ".vimrc" -ItemType HardLink -Value "c:\git\myvimrc\.vimrc"
 # Install VS
 cinst visualstudio2019professional --package-parameters "--locale en-US" -y
 cinst visualstudio2019-workload-manageddesktop visualstudio2019-workload-netcoretools visualstudio2019-workload-netweb visualstudio2019-workload-visualstudioextension visualstudio2019-workload-data -y
+
+
+# Install WSL2
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+Invoke-WebRequest -Uri "https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi" -Outfile "C:\temp\wsl_update_x64.msi"
+start /wait msiexec /i "C:\temp\wsl_update_x64.msi" /quiet
+
+wsl --set-default-version 2
 
 
 exit

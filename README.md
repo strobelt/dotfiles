@@ -26,6 +26,7 @@ This is my dotfile setup I created one day when I thought I could use a faster s
 - NVM
 - VS2019
   - Desktop, Tools, Web, Extensions and Data Workloads
+- WSL 2
 
 # PowerShell Configs Included
 - PowerShellGet
@@ -34,4 +35,3 @@ This is my dotfile setup I created one day when I thought I could use a faster s
 - posh-git
 - Oh My Posh
 - DockerCompletion
-
