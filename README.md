@@ -5,7 +5,7 @@ Some dotfiles I use and a simple installation script to setup from a new environ
 ## Installation
 To install everything the host machine needs to have `curl` and `sudo` available
 ```sh
-$ apt install -y sudo curl
+$ apt update && apt install -y sudo curl
 ```
 
 After that, download and execute the `download.sh` script to setup the environment
@@ -24,6 +24,9 @@ Open it and run `:PlugInstall` to install the plugins inside `~/.vimrc`
 - git
 - neovim
     - plug.vim
+- Tilix terminal emulator
+- FiraCode
+- Firefox Dev
 
 ## Testing
 The configuration can be tested using docker by running a debian container and execute the following commands

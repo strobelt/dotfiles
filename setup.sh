@@ -40,3 +40,14 @@ mv $HOME/.zshrc $HOME/.zshrc.bkp
 run_and_print "ln -s $SCRIPT_DIR/.zshrc $HOME/.zshrc"
 printf "Linking p10k config... "
 run_and_print "ln -s $SCRIPT_DIR/.p10k.zsh $HOME/.p10k.zsh"
+
+### Terminal and misc.
+sudo apt install -y fonts-firacode tilix plank tar python2
+sudo echo FONT=FiraCode NF Retina12 >> /etc/vconsole.conf
+
+### Firefox dev
+mkdir -p $HOME/Downloads
+cd $HOME/Downloads
+curl -L --output firefox.tar.bz2 "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linux64&lang=en-US"
+mkdir $HOME/.mozilla
+sudo tar -xjf firefox.tar.bz2 -C $HOME/.mozilla
