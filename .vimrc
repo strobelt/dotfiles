@@ -44,7 +44,7 @@ call plug#end()
 " General Config
 filetype plugin indent on
 let mapleader=";"
-set clipboard=unnamed
+set clipboard+=unnamedplus
 set splitbelow
 set nu rnu
 syntax on
