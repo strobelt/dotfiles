@@ -39,6 +39,8 @@ Plug 'pangloss/vim-javascript'
 Plug 'leafgarland/typescript-vim'
 Plug 'tpope/vim-projectionist'
 
+Plug 'Olical/conjure'
+
 call plug#end()
 
 " General Config
