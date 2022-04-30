@@ -21,10 +21,12 @@ Open it and run `:PlugInstall` to install the plugins inside `~/.vimrc`
 - zsh
     - oh-my-zsh
     - p10k
+- alacritty
+- tmux
 - git
 - neovim
     - plug.vim
-- Tilix terminal emulator
+- xclip
 - FiraCode
 - Firefox Dev
 

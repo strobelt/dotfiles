@@ -13,7 +13,7 @@ run_and_print() {
 }
 
 sudo apt update
-sudo apt install -y git wget jq
+sudo apt install -y git wget jq xclip
 
 ### NEOVIM
 printf "\n\nSETTING UP NEOVIM\n"
@@ -46,12 +46,37 @@ printf "Linking p10k config... "
 run_and_print "ln -s $SCRIPT_DIR/.p10k.zsh $HOME/.p10k.zsh"
 
 ### Terminal and misc.
-sudo apt install -y fonts-firacode tilix plank tar python2
+sudo apt install -y fonts-firacode tmux plank
 sudo echo FONT=FiraCode NF Retina12 >> /etc/vconsole.conf
 
-### Firefox dev
-mkdir -p $HOME/Downloads
-cd $HOME/Downloads
-curl -L --output firefox.tar.bz2 "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linux64&lang=en-US"
-mkdir $HOME/.mozilla
-sudo tar -xjf firefox.tar.bz2 -C $HOME/.mozilla
+if [ x$DISPLAY != x ] ; then
+    echo "Installing Alacritty"
+    sudo apt install -y cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev python3
+    sudo curl https://sh.rustup.rs -sSf | sh -s -- -y
+    source $HOME/.cargo/env
+    cargo install alacritty
+    run_and_print "ln -s $SCRIPT_DIR/.tmux.conf $HOME/.tmux.conf"
+    mkdir -p $HOME/alacritty
+    run_and_print "ln -s $SCRIPT_DIR/alacritty.yml $HOME/alacritty/alacritty.yml"
+else
+    echo "No display found, skipping Alacritty"
+fi
+
+if [ x$DISPLAY != x ] ; then
+    echo "Installing Firefox Dev"
+    sudo apt install -y tar
+    mkdir -p $HOME/Downloads
+    cd $HOME/Downloads
+    curl -L --output firefox.tar.bz2 "https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linux64&lang=en-US"
+    mkdir $HOME/.mozilla
+    sudo tar -xjf firefox.tar.bz2 -C $HOME/.mozilla
+else
+    echo "No display found, skipping Firefox Dev"
+fi
+
+### Clojure
+echo "Installing Clojure"
+sudo apt install -y rlwrap openjdk-17-jdk
+curl -O https://download.clojure.org/install/linux-install-1.11.1.1113.sh
+chmod +x linux-install-1.11.1.1113.sh
+sudo ./linux-install-1.11.1.1113.sh
