@@ -33,7 +33,7 @@ font:
   # Thin stroke font rendering (macOS only)
   # Thin strokes are suitable for retina displays, but for non-retina screens
   # it is recommended to set `use_thin_strokes` to `false`.
-  use_thin_strokes: true
+  AppleFontSmoothing: 0
 
 shell:
   program: /usr/local/bin/tmux

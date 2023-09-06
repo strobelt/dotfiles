@@ -77,7 +77,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git npm z docker docker-compose kubectl minikube)
+plugins=(git npm z docker docker-compose kubectl minikube lein)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -107,6 +107,25 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias vim="nvim"
+alias python="python3"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+
+export NVM_DIR="$HOME/.config/nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+export ANDROID_SDK_PATH=$HOME/Android/Sdk 
+export PATH="$PATH:$ANDROID_SDK_PATH/platform-tools"
+export PATH="$PATH:$ANDROID_SDK_PATH/build-tools"
+export PATH="$PATH:$ANDROID_SDK_PATH/cmdline-tools/latest/bin"
+export PATH="$PATH:$ANDROID_SDK_PATH/tools"
+export PATH="$PATH:/opt/flutter/bin"
+export JAVA_HOME=$(readlink -f /usr/bin/javac | sed "s:/bin/javac::")
+export FLYCTL_INSTALL="/home/strobelt/.fly"
+export PATH="$FLYCTL_INSTALL/bin:$PATH"
+export PATH="/home/strobelt/.local/share/JetBrains/Toolbox/scripts:$PATH"
+GPG_TTY=$(tty)
+export GPG_TTY
