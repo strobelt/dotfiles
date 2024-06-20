@@ -1,0 +1,103 @@
+live_config_reload = true
+
+[colors]
+draw_bold_text_with_bright_colors = false
+
+[[colors.indexed_colors]]
+color = "0xff9e64"
+index = 16
+
+[[colors.indexed_colors]]
+color = "0xdb4b4b"
+index = 17
+
+[colors.bright]
+black = "0x414868"
+blue = "0x7aa2f7"
+cyan = "0x7dcfff"
+green = "0x9ece6a"
+magenta = "0xbb9af7"
+red = "0xf7768e"
+white = "0xc0caf5"
+yellow = "0xe0af68"
+
+[colors.normal]
+black = "0x15161e"
+blue = "0x7aa2f7"
+cyan = "0x7dcfff"
+green = "0x9ece6a"
+magenta = "0xbb9af7"
+red = "0xf7768e"
+white = "0xa9b1d6"
+yellow = "0xe0af68"
+
+[colors.primary]
+background = "0x1a1b26"
+foreground = "0xc0caf5"
+
+[font]
+#AppleFontSmoothing = 0
+size = 10.0
+
+[font.bold]
+family = "CaskaydiaMonoNerdFont"
+style = "Bold"
+
+[font.bold_italic]
+family = "CaskaydiaMonoNerdFont"
+style = "Bold Italic"
+
+[font.italic]
+family = "CaskaydiaMonoNerdFont"
+style = "Italic"
+
+[font.normal]
+family = "CaskaydiaMonoNerdFont"
+style = "Regular"
+
+[[keyboard.bindings]]
+action = "Paste"
+key = "Paste"
+
+[[keyboard.bindings]]
+action = "Copy"
+key = "Copy"
+
+[[keyboard.bindings]]
+action = "ScrollPageUp"
+key = "PageUp"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollPageDown"
+key = "PageDown"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollToTop"
+key = "Home"
+mode = "~Alt"
+mods = "Shift"
+
+[[keyboard.bindings]]
+action = "ScrollToBottom"
+key = "End"
+mode = "~Alt"
+mods = "Shift"
+
+[mouse]
+hide_when_typing = false
+
+[shell]
+args = ["new-session", "-A", "-D", "-s", "main"]
+program = "/usr/bin/tmux"
+
+[window]
+dynamic_title = true
+opacity = 0.9
+
+[window.class]
+general = "Alacritty"
+instance = "Alacritty"

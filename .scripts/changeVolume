@@ -1,0 +1,18 @@
+#!/bin/bash
+# changeVolume
+
+msgTag="myvolume"
+
+# Change the volume using alsa(might differ if you use pulseaudio)
+#amixer -c 0 set Master "$@" > /dev/null
+pactl set-sink-volume @DEFAULT_SINK@ "$@" > /dev/null
+
+# Query for the current volume and whether or not the speaker is muted
+volume="$(pactl get-sink-volume @DEFAULT_SINK@ | awk '{print $5}' | sed 's/[^0-9]*//g')"
+#
+# Show the volume notification
+dunstify -a "changeVolume" -u low -i audio-volume-high -h string:x-dunst-stack-tag:$msgTag -h int:value:"$volume" "Volume: ${volume}%"
+
+# Play the volume changed sound
+canberra-gtk-play -i audio-volume-change -d "changeVolume"
+
