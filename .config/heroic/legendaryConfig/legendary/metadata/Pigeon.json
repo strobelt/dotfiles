@@ -1,0 +1,335 @@
+{
+  "app_name": "Pigeon",
+  "app_title": "Trackmania Starter Access",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Pigeon",
+      "asset_id": "Pigeon",
+      "build_version": "1.3",
+      "catalog_item_id": "7c1dfb2a7e444a8b8a7b3166219550f4",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b04882669b2e495e9f747c8560488c93"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-24T04:42:54.327Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TrackmaniaNext"
+      },
+      "GameID": {
+        "type": "STRING",
+        "value": "5595"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "NeverUpdate": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b04882669b2e495e9f747c8560488c93"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "InstallDir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\WOW6432Node\\Ubisoft\\Launcher\\Installs\\5595"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedProvider": {
+        "type": "STRING",
+        "value": "UbisoftConnect"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "availableDate": {
+        "type": "STRING",
+        "value": "1593615600"
+      },
+      "partnerLinkId": {
+        "type": "STRING",
+        "value": "aa0dd8e828404deba3b59e38b51f1eef"
+      },
+      "partnerLinkType": {
+        "type": "STRING",
+        "value": "ubisoft"
+      }
+    },
+    "description": "Trackmania Starter Access\n",
+    "developer": "Epic Dev Test Account",
+    "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-12T18:25:57.864Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "aa0dd8e828404deba3b59e38b51f1eef"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "29107f7ea45f4eb0b5bdc4264053df56"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Standard Access One",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "96a962fe095348269f14d37bf8774eda",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "96a962fe095348269f14d37bf8774eda",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-07-01T22:01:18.275Z",
+        "mainGameItem": {
+          "id": "7c1dfb2a7e444a8b8a7b3166219550f4",
+          "namespace": "b04882669b2e495e9f747c8560488c93",
+          "unsearchable": false
+        },
+        "namespace": "b04882669b2e495e9f747c8560488c93",
+        "releaseInfo": [
+          {
+            "appId": "PigeonSA1",
+            "dateAdded": "2019-08-24T00:00:00.000Z",
+            "id": "6161247000e7494a99c275c313f3b8c0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Standard Access One",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-12T19:06:07.209Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "aa0dd8e828404deba3b59e38b51f1eef"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "b11fee274c764c589d6399ea7c43157b"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Club Access One",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "2639a2350a824feea8f7174cebda04c7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2639a2350a824feea8f7174cebda04c7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-01-09T15:55:42.517Z",
+        "mainGameItem": {
+          "id": "7c1dfb2a7e444a8b8a7b3166219550f4",
+          "namespace": "b04882669b2e495e9f747c8560488c93",
+          "unsearchable": false
+        },
+        "namespace": "b04882669b2e495e9f747c8560488c93",
+        "releaseInfo": [
+          {
+            "appId": "PigeonCA1",
+            "dateAdded": "2019-08-24T00:00:00.000Z",
+            "id": "6161247000e7494a99c275c313f3b8c0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Club Access One",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "hidden"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-06-12T19:08:43.116Z",
+        "customAttributes": {
+          "parentPartnerLinkId": {
+            "type": "STRING",
+            "value": "aa0dd8e828404deba3b59e38b51f1eef"
+          },
+          "partnerLinkId": {
+            "type": "STRING",
+            "value": "69dd1aea57034df694c3ce56d726bd4d"
+          },
+          "partnerLinkType": {
+            "type": "STRING",
+            "value": "ubisoft"
+          }
+        },
+        "description": "Club Access Three",
+        "developer": "Epic Dev Test Account",
+        "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+        "endOfSupport": false,
+        "entitlementName": "e64d80134e744e90b68c3fd06b93498b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e64d80134e744e90b68c3fd06b93498b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-07-01T22:01:18.275Z",
+        "mainGameItem": {
+          "id": "7c1dfb2a7e444a8b8a7b3166219550f4",
+          "namespace": "b04882669b2e495e9f747c8560488c93",
+          "unsearchable": false
+        },
+        "namespace": "b04882669b2e495e9f747c8560488c93",
+        "releaseInfo": [
+          {
+            "appId": "PigeonCA3",
+            "dateAdded": "2019-08-24T00:00:00.000Z",
+            "id": "6161247000e7494a99c275c313f3b8c0",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Club Access Three",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7c1dfb2a7e444a8b8a7b3166219550f4",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7c1dfb2a7e444a8b8a7b3166219550f4",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "0208bfc8d824b707130420b61249d4f5",
+        "size": 713351,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-06-11T22:53:54.762Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/TM_StarterEd_Store_Landscape_2560x1440_2560x1440-0208bfc8d824b707130420b61249d4f5",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "baf0e1c64be7ae2fefa18ba9e845f4c2",
+        "size": 2670797,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-06-09T16:54:55.087Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/Trackmania_Royal_KeyArt_1200x1600_1200x1600-baf0e1c64be7ae2fefa18ba9e845f4c2",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-30T20:34:45.794Z",
+    "namespace": "b04882669b2e495e9f747c8560488c93",
+    "releaseInfo": [
+      {
+        "appId": "Pigeon",
+        "dateAdded": "2019-08-24T00:00:00.000Z",
+        "id": "a8ad407c036a4009a63f780cbfeedbc8",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Trackmania Starter Access",
+    "unsearchable": true
+  }
+}

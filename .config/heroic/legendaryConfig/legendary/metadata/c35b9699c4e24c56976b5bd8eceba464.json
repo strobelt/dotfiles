@@ -1,0 +1,109 @@
+{
+  "app_name": "c35b9699c4e24c56976b5bd8eceba464",
+  "app_title": "Dandara: Trials of Fear Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "c35b9699c4e24c56976b5bd8eceba464",
+      "asset_id": "c35b9699c4e24c56976b5bd8eceba464",
+      "build_version": "1.4.11-pc",
+      "catalog_item_id": "bce91ac157814f2ca5a39d7b86dd18f5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "73b62f4875a248d8acc95966ce94c80f"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-08T17:57:35.046Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Dandara"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "73b62f4875a248d8acc95966ce94c80f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dandara: Trials of Fear Edition",
+    "developer": "Raw Fury",
+    "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "endOfSupport": false,
+    "entitlementName": "bce91ac157814f2ca5a39d7b86dd18f5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "bce91ac157814f2ca5a39d7b86dd18f5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d20ffd22ba6944939635a2af807d3610",
+        "size": 508169,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-01-15T19:56:20.845Z",
+        "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/item/EGS_DandaraTrialsofFearEdition_LongHatHouse_S1-2560x1440-d20ffd22ba6944939635a2af807d3610.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "432dcc4d847271ea87e18ff3c369e31a",
+        "size": 342537,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-01-15T19:56:31.804Z",
+        "url": "https://cdn1.epicgames.com/73b62f4875a248d8acc95966ce94c80f/item/EGS_DandaraTrialsofFearEdition_LongHatHouse_S2-1200x1600-432dcc4d847271ea87e18ff3c369e31a.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-02-11T20:13:03.887Z",
+    "namespace": "73b62f4875a248d8acc95966ce94c80f",
+    "releaseInfo": [
+      {
+        "appId": "c35b9699c4e24c56976b5bd8eceba464",
+        "dateAdded": "2021-01-11T00:00:00.000Z",
+        "id": "7dedad5537bd4df6a1ee61aa2bf58cd4",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Dandara: Trials of Fear Edition",
+    "unsearchable": false
+  }
+}

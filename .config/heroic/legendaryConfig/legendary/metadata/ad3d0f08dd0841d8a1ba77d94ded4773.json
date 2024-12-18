@@ -1,0 +1,459 @@
+{
+  "app_name": "ad3d0f08dd0841d8a1ba77d94ded4773",
+  "app_title": "RAGE 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "ad3d0f08dd0841d8a1ba77d94ded4773",
+      "asset_id": "ad3d0f08dd0841d8a1ba77d94ded4773",
+      "build_version": "1.8",
+      "catalog_item_id": "da3d0706de4b4d39b943abcf96389ce3",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567DYsX3M0wyNI86jhvBM3YGvQc",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-11-04T19:34:42.388Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/id Software/Rage 2/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RAGE2"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "2736ab9fec9c4a93a7a2872ed5154d4b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "RAGE 2",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-04T19:54:41.267Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "4500 RAGE Coins Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "f1dcfe7508d94fc08bfefca8791e24f2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f1dcfe7508d94fc08bfefca8791e24f2",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:44:32.018Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4500 RAGE Coins Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-07T22:29:09.339Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1100 RAGE Coins (JP) Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "8d40790e9421480fa5b241059326bb24",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8d40790e9421480fa5b241059326bb24",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:41:18.272Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1100 RAGE Coins (JP) Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-07T22:30:04.059Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2500 RAGE Coins (JP) Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "68f8985f0dd848868f5e48307ab8d145",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "68f8985f0dd848868f5e48307ab8d145",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:38:43.470Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2500 RAGE Coins (JP) Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-04T19:52:27.401Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2500 RAGE Coins Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "b63db04361014f78b892044582a099e7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b63db04361014f78b892044582a099e7",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:42:19.163Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2500 RAGE Coins Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-07T22:30:42.613Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "4500 RAGE Coins (JP) Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "9d815170322d4e4c96e9795035690e92",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9d815170322d4e4c96e9795035690e92",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:43:53.918Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "4500 RAGE Coins (JP) Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-04T19:44:31.885Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "500 RAGE Coins Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "7038be59753244629bb6336cf937a8f0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7038be59753244629bb6336cf937a8f0",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:43:04.235Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "500 RAGE Coins Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-11-04T19:52:03.316Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1100 RAGE Coins Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "7c0e6bbef2904580b45310e848278666",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7c0e6bbef2904580b45310e848278666",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:39:34.505Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1100 RAGE Coins Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-12-07T22:28:14.868Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "500 RAGE Coins (JP) Audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "761432702f8544fc97a35690dd260e66",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "761432702f8544fc97a35690dd260e66",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-02-15T23:40:36.412Z",
+        "mainGameItem": {
+          "id": "da3d0706de4b4d39b943abcf96389ce3",
+          "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+          "unsearchable": false
+        },
+        "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "500 RAGE Coins (JP) Audience",
+        "unsearchable": true,
+        "useCount": 1
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "da3d0706de4b4d39b943abcf96389ce3",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && rage2)"
+    ],
+    "id": "da3d0706de4b4d39b943abcf96389ce3",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "17dce1a4b7078e52a2d710deb8f23a63",
+        "size": 557650,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-01-20T04:16:42.276Z",
+        "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s1-2560x1440-6c0e47266975-2560x1440-17dce1a4b7078e52a2d710deb8f23a63.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d692008156cef0c206454ef84c987499",
+        "size": 461436,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-01-20T04:16:57.054Z",
+        "url": "https://cdn1.epicgames.com/2736ab9fec9c4a93a7a2872ed5154d4b/item/egs-rage2-idsoftware-s2-1200x1600-ee8fcbffe5b0-1200x1600-d692008156cef0c206454ef84c987499.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-12-20T18:29:21.639Z",
+    "namespace": "2736ab9fec9c4a93a7a2872ed5154d4b",
+    "releaseInfo": [
+      {
+        "appId": "ad3d0f08dd0841d8a1ba77d94ded4773",
+        "dateAdded": "2020-11-04T00:00:00.000Z",
+        "id": "ee579b0d20e145c59e5322a20ae430c1",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "RAGE 2",
+    "unsearchable": false
+  }
+}

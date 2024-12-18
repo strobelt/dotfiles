@@ -1,0 +1,114 @@
+{
+  "app_name": "8e425d507bd6473dbb927f0fea8ef4f6",
+  "app_title": "Torchlight II",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8e425d507bd6473dbb927f0fea8ef4f6",
+      "asset_id": "8e425d507bd6473dbb927f0fea8ef4f6",
+      "build_version": "1.25.9.5",
+      "catalog_item_id": "6e797b10bc2d4bbb808d14655a30afa1",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8432511ef63b489b843d21ff486a0355"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-12T21:19:14.125Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{userdir}/My Games/runic games/torchlight 2/save/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Torchlight2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8432511ef63b489b843d21ff486a0355"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Torchlight II",
+    "developer": "Arc Games",
+    "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "endOfSupport": false,
+    "entitlementName": "6e797b10bc2d4bbb808d14655a30afa1",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6e797b10bc2d4bbb808d14655a30afa1",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "39504450e62136e79307e2493e48ef8d",
+        "size": 502274,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-09T12:33:34.805Z",
+        "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "d8785a9ad9572e68e45d5a9471e4b81b",
+        "size": 767295,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-09T12:33:51.323Z",
+        "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/item/EGS_TorchlightII_RunicGames_S3-2560x1440-d8785a9ad9572e68e45d5a9471e4b81b.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-04-12T06:08:43.525Z",
+    "namespace": "8432511ef63b489b843d21ff486a0355",
+    "releaseInfo": [
+      {
+        "appId": "8e425d507bd6473dbb927f0fea8ef4f6",
+        "dateAdded": "2020-06-26T00:00:00.000Z",
+        "id": "324e23f4d21243dc9c7c45c11224a311",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Torchlight II",
+    "unsearchable": false
+  }
+}

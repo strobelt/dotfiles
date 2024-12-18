@@ -1,0 +1,189 @@
+{
+  "app_name": "dc29cb42f32e4a17af1d68c715fa459c",
+  "app_title": "Shadowrun Returns",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "dc29cb42f32e4a17af1d68c715fa459c",
+      "asset_id": "dc29cb42f32e4a17af1d68c715fa459c",
+      "build_version": "1.0.0",
+      "catalog_item_id": "3da91f07608342b383374304197c742d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "84219f3072324babaf6b5cf32c92ca17"
+      },
+      "namespace": "a8400ce7530e4479b32dcaf0e92fce57"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-18T16:16:42.652Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "shadowrunReturns"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a8400ce7530e4479b32dcaf0e92fce57"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Shadowrun Returns",
+    "developer": "Paradox Interactive",
+    "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-08-17T20:02:31.594Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ShadowrunReturnsDLC"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          }
+        },
+        "description": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "54800d4059cd4ad8b32f2e20fb9ac797",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "54800d4059cd4ad8b32f2e20fb9ac797",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "8c9b42f50c7fbaaadbf43d9dc14c0ee4",
+            "size": 735876,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-08-27T03:29:50.302Z",
+            "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/item/EGS_ShadowrunReturnsDeluxeEditionUpgradeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-8c9b42f50c7fbaaadbf43d9dc14c0ee4.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2020-09-03T14:48:14.960Z",
+        "longDescription": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+        "mainGameItem": {
+          "id": "3da91f07608342b383374304197c742d",
+          "namespace": "a8400ce7530e4479b32dcaf0e92fce57",
+          "unsearchable": false
+        },
+        "namespace": "a8400ce7530e4479b32dcaf0e92fce57",
+        "releaseInfo": [
+          {
+            "appId": "87f4223fbe5648adab44bc04c2fa855b",
+            "compatibleApps": [],
+            "dateAdded": "2020-08-17T00:00:00.000Z",
+            "id": "1811a8bd25be4db5a3d92231e7b1239b",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Shadowrun Returns Deluxe Edition Upgrade DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "3da91f07608342b383374304197c742d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && paradoxinteractive)"
+    ],
+    "id": "3da91f07608342b383374304197c742d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f0d27c470f5a97f4304c7feac6317c5f",
+        "size": 955622,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-20T02:10:17.560Z",
+        "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/item/EGS_ShadowrunReturns_HarebrainedSchemes_S1-2560x1440-f0d27c470f5a97f4304c7feac6317c5f.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1b2d163bea47f6b25415762e78aa0376",
+        "size": 970182,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-20T02:10:37.309Z",
+        "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/item/EGS_ShadowrunReturns_HarebrainedSchemes_S2-1200x1600-1b2d163bea47f6b25415762e78aa0376.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-02T16:27:49.707Z",
+    "namespace": "a8400ce7530e4479b32dcaf0e92fce57",
+    "releaseInfo": [
+      {
+        "appId": "dc29cb42f32e4a17af1d68c715fa459c",
+        "dateAdded": "2020-06-18T00:00:00.000Z",
+        "id": "e1a4bb6bf26e4945bcfca519ff08ceff",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Shadowrun Returns",
+    "unsearchable": true
+  }
+}

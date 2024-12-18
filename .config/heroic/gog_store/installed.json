@@ -1,0 +1,36 @@
+{
+	"installed": [
+		{
+			"platform": "windows",
+			"executable": "",
+			"install_path": "/home/strobelt/Games/Heroic/Gloomhaven",
+			"install_size": "16.58 GiB",
+			"is_dlc": false,
+			"version": "1.1.8307.0",
+			"appName": "2102122491",
+			"installedDLCs": [
+				"1590284319",
+				"1855458475",
+				"1938055224"
+			],
+			"language": "en-US",
+			"versionEtag": "\"3675210829\"",
+			"buildId": "57191771427622656",
+			"pinnedVersion": false
+		},
+		{
+			"platform": "linux",
+			"executable": "",
+			"install_path": "/home/strobelt/Games/Heroic/Stardew Valley",
+			"install_size": "661.35 MiB",
+			"is_dlc": false,
+			"version": "1.6.8.24119.6732702600",
+			"appName": "1453375253",
+			"installedDLCs": [],
+			"language": "en",
+			"versionEtag": "",
+			"buildId": "",
+			"pinnedVersion": false
+		}
+	]
+}

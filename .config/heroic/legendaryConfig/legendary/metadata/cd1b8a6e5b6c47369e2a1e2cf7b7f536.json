@@ -1,0 +1,111 @@
+{
+  "app_name": "cd1b8a6e5b6c47369e2a1e2cf7b7f536",
+  "app_title": "Night in the Woods",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cd1b8a6e5b6c47369e2a1e2cf7b7f536",
+      "asset_id": "cd1b8a6e5b6c47369e2a1e2cf7b7f536",
+      "build_version": "406.Win64",
+      "catalog_item_id": "922206a5aca749a0b656b51b36da7ee7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "abd29ccc8c2a4a40a31f27de63cb0603"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567RGmTTYJFKwQRdpv66xLaiqmO",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-10-09T21:25:45.384Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NightInTheWoods"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "abd29ccc8c2a4a40a31f27de63cb0603"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Night in the Woods",
+    "developer": "Finji LLC",
+    "developerId": "o-mlc3sx58k2v33qgucwt7nr9cvwc2y4",
+    "endOfSupport": false,
+    "entitlementName": "922206a5aca749a0b656b51b36da7ee7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "922206a5aca749a0b656b51b36da7ee7",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "640a95478bd710d021b862372cfa3274",
+        "size": 349596,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-08T23:17:48.548Z",
+        "url": "https://cdn1.epicgames.com/abd29ccc8c2a4a40a31f27de63cb0603/item/EGS_NightintheWoods_InfiniteFall_S1-2560x1440-640a95478bd710d021b862372cfa3274.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "c6e902bb51df819a40f3b3f2b8081849",
+        "size": 115331,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-08T23:18:00.107Z",
+        "url": "https://cdn1.epicgames.com/abd29ccc8c2a4a40a31f27de63cb0603/item/EGS_NightintheWoods_InfiniteFall_S2-1200x1600-c6e902bb51df819a40f3b3f2b8081849.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-12-27T15:18:21.561Z",
+    "namespace": "abd29ccc8c2a4a40a31f27de63cb0603",
+    "releaseInfo": [
+      {
+        "appId": "cd1b8a6e5b6c47369e2a1e2cf7b7f536",
+        "dateAdded": "2020-10-13T00:00:00.000Z",
+        "id": "d5321b19afaf4219855179fa4f48c0f6",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Night in the Woods",
+    "unsearchable": true
+  }
+}

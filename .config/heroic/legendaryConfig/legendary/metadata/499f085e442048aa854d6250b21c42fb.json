@@ -1,0 +1,109 @@
+{
+  "app_name": "499f085e442048aa854d6250b21c42fb",
+  "app_title": "Salt and Sanctuary",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "499f085e442048aa854d6250b21c42fb",
+      "asset_id": "499f085e442048aa854d6250b21c42fb",
+      "build_version": "1.0.2.0_d",
+      "catalog_item_id": "d25a84f4099b46f28b52aa5226b5b2af",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "79d9bff700bb46a790b21e8c73b34899"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Ts7jm04dz1teT7wKKkXuJEVv",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-11-24T01:37:14.179Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SaltAndSanctuary"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "79d9bff700bb46a790b21e8c73b34899"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Salt and Sanctuary",
+    "developer": "Devoured Studios LLC",
+    "developerId": "o-zceuqtqd6pxuznbgdgskqau543g5dz",
+    "endOfSupport": false,
+    "entitlementName": "d25a84f4099b46f28b52aa5226b5b2af",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d25a84f4099b46f28b52aa5226b5b2af",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4cc7404bc7c31329b8e80a320ebf5122",
+        "size": 815565,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-12-07T21:45:05.782Z",
+        "url": "https://cdn1.epicgames.com/item/79d9bff700bb46a790b21e8c73b34899/EGS_SaltandSanctuary_SkaStudiosLLCDevouredStudiosLLC_S1_2560x1440-4cc7404bc7c31329b8e80a320ebf5122",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "ced916eec47d5dbeef7b57417c8ba10c",
+        "size": 828783,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-12-07T21:45:08.373Z",
+        "url": "https://cdn1.epicgames.com/item/79d9bff700bb46a790b21e8c73b34899/EGS_SaltandSanctuary_SkaStudiosLLCDevouredStudiosLLC_S2_1200x1600-ced916eec47d5dbeef7b57417c8ba10c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:36:47.973Z",
+    "namespace": "79d9bff700bb46a790b21e8c73b34899",
+    "releaseInfo": [
+      {
+        "appId": "499f085e442048aa854d6250b21c42fb",
+        "compatibleApps": [],
+        "dateAdded": "2021-12-29T10:00:34.168Z",
+        "id": "7b945940087747ceb31862d399e65947",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Salt and Sanctuary",
+    "unsearchable": true
+  }
+}

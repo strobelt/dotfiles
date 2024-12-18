@@ -1,0 +1,457 @@
+{
+  "app_name": "373a4372c20540aca7fdd880d27fa49a",
+  "app_title": "Jurassic World Evolution",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "373a4372c20540aca7fdd880d27fa49a",
+      "asset_id": "373a4372c20540aca7fdd880d27fa49a",
+      "build_version": "1.12.7.54973",
+      "catalog_item_id": "ed6e45b770454c37a0c6b7793d19c0a5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "047392e91d5e4cfdb19e2767440ab206"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567HOvK4vJY5CPgxkifwrg7RS80",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-05T18:13:40.365Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/Frontier Developments/Jurassic World Evolution/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "JurassicWorldEvolution"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "047392e91d5e4cfdb19e2767440ab206"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Jurassic World Evolution",
+    "developer": "Frontier Developments",
+    "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:43.533Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Jurassic World Evolution: Herbivore Dinosaur Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "6e1940cde6f4488f8ca2f67fcd491801",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6e1940cde6f4488f8ca2f67fcd491801",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-18T22:05:01.239Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Herbivore Dinosaur Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:24.403Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "This pack of additional dinosaurs is for owners of the base game who would like to upgrade to the Deluxe Edition of Jurassic World Evolution.",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "304bb1ee26cc457a9962af940b0634c5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "304bb1ee26cc457a9962af940b0634c5",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "a76d960aea935e566899a1d4875c20e8",
+            "size": 679701,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-11-20T19:22:13.309Z",
+            "url": "https://cdn1.epicgames.com/047392e91d5e4cfdb19e2767440ab206/item/EGS_JurassicWorldEvolutionDeluxeDinosaurPack_FrontierDevelopments_AddOn_S1-2560x1440-a76d960aea935e566899a1d4875c20e8.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "819bd9b9e3fe393640d00cf9ac434e64",
+            "size": 334941,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-11-20T19:22:28.224Z",
+            "url": "https://cdn1.epicgames.com/047392e91d5e4cfdb19e2767440ab206/item/EGS_JurassicWorldEvolutionDeluxeDinosaurPack_FrontierDevelopments_AddOn_S2-1200x1600-819bd9b9e3fe393640d00cf9ac434e64.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-12-18T22:05:01.236Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Deluxe Dinosaur Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:45.766Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Jurassic World Evolution: Return To Jurassic Park",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "f7a4e58f94954897afae61429cb40cb4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f7a4e58f94954897afae61429cb40cb4",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-18T22:05:01.255Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Return To Jurassic Park",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:47.851Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Jurassic World Evolution: Raptor Squad Collection",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "a16a3393e29f400793c2199432426f8f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a16a3393e29f400793c2199432426f8f",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-18T22:05:01.245Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Raptor Squad Collection",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:35.919Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Jurassic World Evolution: Cretaceous Dinosaur Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "f3e5585ebe22482d817d47050c9a0ee0",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f3e5585ebe22482d817d47050c9a0ee0",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-18T22:05:01.253Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Cretaceous Dinosaur Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:28.212Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Jurassic World Evolution: Secrets of Dr. Wu",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "d42364c41b68447885150d1fe97f57f9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d42364c41b68447885150d1fe97f57f9",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-18T22:05:01.250Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Secrets of Dr. Wu",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:39.306Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Jurassic World Evolution: Carnivore Dinosaur Pack",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "cb6fec5502024f7fb041a741fd13d00d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cb6fec5502024f7fb041a741fd13d00d",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-18T22:05:01.249Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Carnivore Dinosaur Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-28T12:49:41.521Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Jurassic World Evolution: Claire's Sanctuary",
+        "developer": "Frontier Developments",
+        "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+        "endOfSupport": false,
+        "entitlementName": "7e7688c8b8584367a829d0e90be01dab",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7e7688c8b8584367a829d0e90be01dab",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-12-18T22:05:01.242Z",
+        "mainGameItem": {
+          "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+          "namespace": "047392e91d5e4cfdb19e2767440ab206",
+          "unsearchable": false
+        },
+        "namespace": "047392e91d5e4cfdb19e2767440ab206",
+        "status": "ACTIVE",
+        "title": "Jurassic World Evolution: Claire's Sanctuary",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "ed6e45b770454c37a0c6b7793d19c0a5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ed6e45b770454c37a0c6b7793d19c0a5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "65771d1c16c9c78bfd4764bf0ad54d9a",
+        "size": 703434,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-16T14:28:26.445Z",
+        "url": "https://cdn1.epicgames.com/047392e91d5e4cfdb19e2767440ab206/item/EGS_JurassicWorldEvolution_FrontierDevelopments_S1-2560x1440-65771d1c16c9c78bfd4764bf0ad54d9a.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d132a04130d2fad11948e182046f50dc",
+        "size": 337947,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-16T14:28:39.058Z",
+        "url": "https://cdn1.epicgames.com/047392e91d5e4cfdb19e2767440ab206/item/EGS_JurassicWorldEvolution_FrontierDevelopments_S2-1200x1600-d132a04130d2fad11948e182046f50dc.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-04-21T17:01:51.933Z",
+    "namespace": "047392e91d5e4cfdb19e2767440ab206",
+    "releaseInfo": [
+      {
+        "appId": "373a4372c20540aca7fdd880d27fa49a",
+        "dateAdded": "2020-05-05T00:00:00.000Z",
+        "id": "d305648fff3e469bb6b9d885a026f8dd",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Jurassic World Evolution",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "app_name": "Gull",
+  "app_title": "LEGO\u00ae Batman\u2122 3 Beyond Gotham",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Gull",
+      "asset_id": "Gull",
+      "build_version": "1.6",
+      "catalog_item_id": "8475c4b405b44a9d855ad1601cb11c21",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "83022e1b4c304addb2aadee1db854f8d"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-27T22:19:30.381Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LegoBatman3"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "83022e1b4c304addb2aadee1db854f8d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "LEGO\u00ae Batman\u2122 3 Beyond Gotham",
+    "developer": "Warner Bros.",
+    "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "endOfSupport": false,
+    "entitlementName": "8475c4b405b44a9d855ad1601cb11c21",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "8475c4b405b44a9d855ad1601cb11c21",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 68,
+        "md5": "a70db8c5a34957c00b35226553be6787",
+        "size": 15903,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-09-16T20:06:39.751Z",
+        "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3-213x68-a70db8c5a34957c00b35226553be6787.png",
+        "width": 213
+      },
+      {
+        "height": 864,
+        "md5": "95b599046d5092526a6862774e4d874c",
+        "size": 339258,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-09-16T20:06:53.994Z",
+        "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3-promo-1536x864-95b599046d5092526a6862774e4d874c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1180,
+        "md5": "bf1ac5773d6011c98a3a831647d8677c",
+        "size": 306902,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/item/lego-batman-3_portrait-1024x1180-bf1ac5773d6011c98a3a831647d8677c.jpg",
+        "width": 1024
+      }
+    ],
+    "lastModifiedDate": "2023-08-18T09:54:25.241Z",
+    "namespace": "83022e1b4c304addb2aadee1db854f8d",
+    "releaseInfo": [
+      {
+        "appId": "Gull",
+        "dateAdded": "2019-08-27T00:00:00.000Z",
+        "id": "ec494702437c41d7b7c933eda18cc329",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "LEGO\u00ae Batman\u2122 3 Beyond Gotham",
+    "unsearchable": false
+  }
+}

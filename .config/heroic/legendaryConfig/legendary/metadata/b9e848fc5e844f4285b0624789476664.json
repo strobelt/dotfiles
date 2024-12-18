@@ -1,0 +1,222 @@
+{
+  "app_name": "b9e848fc5e844f4285b0624789476664",
+  "app_title": "Halcyon 6",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b9e848fc5e844f4285b0624789476664",
+      "asset_id": "b9e848fc5e844f4285b0624789476664",
+      "build_version": "1.4.3.5",
+      "catalog_item_id": "f0f25a3625ac427794393b3f58cacb3b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "9a1030c46c9c417e9a3f4aea059fdc9f"
+      },
+      "namespace": "3dd7b519d7ab4631ae96d3efa8588514"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-21T18:27:12.527Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.lua,AchievementData/*.lua,ErrorReportingData/*.lua"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/MASSDMG/Halcyon6LSE/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Halcyon6"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3dd7b519d7ab4631ae96d3efa8588514"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Halcyon 6",
+    "developer": "Massive Damage",
+    "developerId": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2021-01-28T20:47:08.867Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ThePrecursorLegacy"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "3dd7b519d7ab4631ae96d3efa8588514"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Halcyon 6: The Precursor Legacy",
+        "developer": "Massive Damage",
+        "developerId": "o-nfrzd5cr4auuxqxmyzuezwhahtmstc",
+        "endOfSupport": false,
+        "entitlementName": "645ca79b0a534483bbe94d5ffecf75b2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "645ca79b0a534483bbe94d5ffecf75b2",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c34951b9ba168e4adc53f90f28775eec",
+            "size": 901229,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-02-08T19:38:32.924Z",
+            "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/5e718b8f-8726-4b80-9e58-50d02c8d45cc-2560x1440-c34951b9ba168e4adc53f90f28775eec.jpeg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "d0ef8edc825f21048d2f23eebd7115b6",
+            "size": 725437,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-02-08T19:38:43.386Z",
+            "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/e6883a14-e6d1-4a56-9f4c-e110230468c8-1200x1600-d0ef8edc825f21048d2f23eebd7115b6.jpeg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-02-11T15:12:49.230Z",
+        "mainGameItem": {
+          "id": "f0f25a3625ac427794393b3f58cacb3b",
+          "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+          "unsearchable": false
+        },
+        "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+        "releaseInfo": [
+          {
+            "appId": "9e3a2274aff0451b94b32ff75d8047b1",
+            "dateAdded": "2021-01-21T00:00:00.000Z",
+            "id": "350b5256cedf4a14ad523d3a79b6e3ea",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Halcyon 6: The Precursor Legacy",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "f0f25a3625ac427794393b3f58cacb3b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f0f25a3625ac427794393b3f58cacb3b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5f46f77b1b82d8c5d169a4d9734a3043",
+        "size": 208540,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-02-11T02:43:46.194Z",
+        "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s1-2560x1440-93175c05e6e9-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043-2560x1440-5f46f77b1b82d8c5d169a4d9734a3043.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "de7223f3cc553fb677476dcc18f7626a",
+        "size": 145187,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-02-11T02:44:01.191Z",
+        "url": "https://cdn1.epicgames.com/3dd7b519d7ab4631ae96d3efa8588514/item/egs-halcyon6starbasecommanderlightspeededition-massivedamageinc-s2-1200x1600-e612ba915488-1200x1600-de7223f3cc553fb677476dcc18f7626a-1200x1600-de7223f3cc553fb677476dcc18f7626a.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-02-23T14:58:21.280Z",
+    "namespace": "3dd7b519d7ab4631ae96d3efa8588514",
+    "releaseInfo": [
+      {
+        "appId": "b9e848fc5e844f4285b0624789476664",
+        "dateAdded": "2021-01-21T00:00:00.000Z",
+        "id": "350b5256cedf4a14ad523d3a79b6e3ea",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Halcyon 6",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,377 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="esquilo" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3o05l2m7bmisq">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/strobelt/DataStreamJob.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="745">
+              <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"DataStreamJob.java","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/strobelt/Log.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="396">
+              <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"Log.java","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/strobelt/LogGenerator.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LogGenerator.java","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 3,
+      "lastUsed": 1729475417475
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/strobelt/Log.java" />
+      <option value="$PROJECT_DIR$/src/main/java/strobelt/LogGenerator.java" />
+      <option value="$PROJECT_DIR$/src/main/java/strobelt/DataStreamJob.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1729475417475" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="esquilo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esquilo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esquilo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esquilo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="esquilo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main/java/strobelt}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="esquilo" />
+            <item name="esquilo" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="esquilo" />
+              <item name="dir{file:///home/strobelt/git/fek/esquilo}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/strobelt/git/fek/esquilo/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/strobelt/git/fek/esquilo/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/strobelt" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="strobelt" />
+                      <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main/java/strobelt}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/strobelt/DataStreamJob.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="DataStreamJob" />
+                        <item name="DataStreamJob" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/strobelt/Log.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Log" />
+                        <item name="Log" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/strobelt/LogGenerator.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="LogGenerator" />
+                        <item name="LogGenerator" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                    <item name="dir{file:///home/strobelt/git/fek/esquilo/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///home/strobelt/git/fek/esquilo/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.StreamingJob" />
+      <element setting="Maven.esquilo [clean,package]" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.33025292" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33025292" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.33025292" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="documentation.v2" order="4" side_tool="true" weight="0.32994792" />
+      <unified_weights bottom="0.33025292" left="0.32994792" right="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>documentation.v2</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3114" y="358" width="802" height="707" key="#Plugins" timestamp="1729474739410">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3114" y="358" width="802" height="707" key="#Plugins/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729474739410" />
+    <state x="3107" y="312" width="802" height="672" key="#Run/Debug_Configuration_Templates" timestamp="1729460933424">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3107" y="312" width="802" height="672" key="#Run/Debug_Configuration_Templates/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729460933424" />
+    <state x="3110" y="296" width="802" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1729461145120">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3110" y="296" width="802" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729461145120" />
+    <state x="3293" y="318" width="426" height="579" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1729461128277">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3293" y="318" width="426" height="579" key="#com.intellij.ide.macro.MacrosDialog/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729461128277" />
+    <state x="3326" y="413" width="376" height="557" key="#com.intellij.ide.util.MemberChooser" timestamp="1729476540769">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3326" y="413" width="376" height="557" key="#com.intellij.ide.util.MemberChooser/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729476540769" />
+    <state x="3242" y="403" width="527" height="409" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1729461103454">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3242" y="403" width="527" height="409" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729461103454" />
+    <state width="1854" height="306" key="GridCell.Tab.0.bottom" timestamp="1729477568382">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="306" key="GridCell.Tab.0.bottom/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729477568382" />
+    <state width="1854" height="306" key="GridCell.Tab.0.center" timestamp="1729477568382">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="306" key="GridCell.Tab.0.center/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729477568382" />
+    <state width="1854" height="306" key="GridCell.Tab.0.left" timestamp="1729477568382">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="306" key="GridCell.Tab.0.left/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729477568382" />
+    <state width="1854" height="306" key="GridCell.Tab.0.right" timestamp="1729477568382">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state width="1854" height="306" key="GridCell.Tab.0.right/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729477568382" />
+    <state x="3052" y="372" width="926" height="679" key="Maven.ArtifactSearchDialog" timestamp="1729474714101">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3052" y="372" width="926" height="679" key="Maven.ArtifactSearchDialog/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729474714101" />
+    <state width="640" height="267" key="ShowBookmarks" timestamp="1729472426720">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state width="640" height="267" key="ShowBookmarks/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729472426720" />
+    <state x="3183" y="437" width="672" height="696" key="search.everywhere.popup" timestamp="1729476534833">
+      <screen x="2560" y="180" width="1920" height="1080" />
+    </state>
+    <state x="3183" y="437" width="672" height="696" key="search.everywhere.popup/2560.180.1920.1080/0.0.2560.1440@2560.180.1920.1080" timestamp="1729476534833" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/strobelt/LogGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strobelt/Log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strobelt/DataStreamJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

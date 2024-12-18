@@ -1,0 +1,108 @@
+{
+  "app_name": "7c566548d24343e48151125ced4b494c",
+  "app_title": "Oddworld: New 'n' Tasty",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "7c566548d24343e48151125ced4b494c",
+      "asset_id": "7c566548d24343e48151125ced4b494c",
+      "build_version": "Epic 1.0",
+      "catalog_item_id": "caa0ec8977854bc89c012109f000ba5d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "56eab841eaab4016b9fedd2350f997b6"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T21:04:24.061Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "OddworldNewNTasty"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "56eab841eaab4016b9fedd2350f997b6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Oddworld: New 'n' Tasty",
+    "developer": "Oddworld Inhabitants Inc.",
+    "developerId": "o-wbsj4csbacqdc7e8xvdhkmmjpzm87v",
+    "endOfSupport": false,
+    "entitlementName": "caa0ec8977854bc89c012109f000ba5d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "caa0ec8977854bc89c012109f000ba5d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ef590ffd342627994efeb96591e63489",
+        "size": 809482,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-17T00:17:47.485Z",
+        "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/item/EGS_OddworldNewnTasty_JustAddWater_S1-2560x1440-ef590ffd342627994efeb96591e63489.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9105b63cfe95ad9a49cbb3ab87c85164",
+        "size": 570907,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-17T00:18:00.041Z",
+        "url": "https://cdn1.epicgames.com/56eab841eaab4016b9fedd2350f997b6/item/EGS_OddworldNewnTasty_JustAddWater_S2-1200x1600-9105b63cfe95ad9a49cbb3ab87c85164.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-12-18T15:43:49.644Z",
+    "namespace": "56eab841eaab4016b9fedd2350f997b6",
+    "releaseInfo": [
+      {
+        "appId": "7c566548d24343e48151125ced4b494c",
+        "dateAdded": "2020-08-26T00:00:00.000Z",
+        "id": "6f5bdec1d2354b1aadfcf70ce43ae788",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Oddworld: New 'n' Tasty",
+    "unsearchable": true
+  }
+}

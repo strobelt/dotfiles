@@ -1,0 +1,105 @@
+{
+  "app_name": "Speedwell",
+  "app_title": "Metro Last Light Redux",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Speedwell",
+      "asset_id": "Speedwell",
+      "build_version": "0.1.0.0",
+      "catalog_item_id": "7147920c1dcd4c82915c2d48a409a26d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c5e786eddfd041caa9984213e3f9621d"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-04-22T16:46:31.582Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MetroLastLightRedux"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c5e786eddfd041caa9984213e3f9621d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Metro Last Light Redux",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "endOfSupport": false,
+    "entitlementName": "7147920c1dcd4c82915c2d48a409a26d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7147920c1dcd4c82915c2d48a409a26d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1450,
+        "md5": "5bff756f6ec63345932141e78b7f4a1b",
+        "size": 361157,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-05-07T19:50:08.954Z",
+        "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/item/MLL-Redux_Library_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg",
+        "width": 2580
+      },
+      {
+        "height": 1600,
+        "md5": "d4f66fca79c098f57e6759dedb6c6565",
+        "size": 3161502,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-21T18:35:16.894Z",
+        "url": "https://cdn1.epicgames.com/item/c5e786eddfd041caa9984213e3f9621d/metro_last_light_epic_tile_1200x1600_1200x1600-d4f66fca79c098f57e6759dedb6c6565",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-21T18:35:23.910Z",
+    "namespace": "c5e786eddfd041caa9984213e3f9621d",
+    "releaseInfo": [
+      {
+        "appId": "Speedwell",
+        "compatibleApps": [],
+        "dateAdded": "2019-04-22T00:00:00.000Z",
+        "id": "090fe77e347f4ceaa875ce6139dc8aac",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Metro Last Light Redux",
+    "unsearchable": false
+  }
+}

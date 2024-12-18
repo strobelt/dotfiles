@@ -1,9 +1,10 @@
-; Thunar GtkAccelMap rc-file         -*- scheme -*-
+; thunar GtkAccelMap rc-file         -*- scheme -*-
 ; this file is an automated accelerator map dump
 ;
 ; (gtk_accel_path "<Actions>/ThunarActionManager/restore" "")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/undo" "<Primary>z")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/select-all-files" "<Primary>a")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/8138a8de308aa3b205ab7aca9538bc72" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/sort-by-dtime" "")
 ; (gtk_accel_path "<Actions>/ThunarStatusBar/toggle-last-modified" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/invert-selection" "")
@@ -46,10 +47,12 @@
 ; (gtk_accel_path "<Actions>/ThunarStatusBar/toggle-size-in-bytes" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/unselect-all-files" "Escape")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/copy-2" "<Primary>Insert")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/9cd2df882be2eb80066bb5fbd1a45a8b" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-out-alt" "<Primary>KP_Subtract")
 ; (gtk_accel_path "<Actions>/ThunarWindow/cancel-search" "Escape")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/select-by-pattern" "<Primary>s")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/rename" "F2")
+; (gtk_accel_path "<Actions>/ThunarStandardView/configure-columns" "")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/create-document" "")
 ; (gtk_accel_path "<Actions>/ThunarShortcutsPane/sendto-shortcuts" "<Primary>d")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/move-to-trash" "")
@@ -80,6 +83,7 @@
 ; (gtk_accel_path "<Actions>/ThunarWindow/switch-previous-tab" "<Primary>Page_Up")
 ; (gtk_accel_path "<Actions>/ThunarWindow/zoom-in-alt1" "<Primary>KP_Add")
 ; (gtk_accel_path "<Actions>/ThunarStandardView/toggle-sort-order" "")
+; (gtk_accel_path "<Actions>/ThunarBookmarks/6e4c884abde24d688f76ac294411f7dc" "")
 ; (gtk_accel_path "<Actions>/ThunarActionManager/open-in-new-window" "<Primary><Shift>o")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-configure-toolbar" "")
 ; (gtk_accel_path "<Actions>/ThunarWindow/view-location-selector-menu" "")

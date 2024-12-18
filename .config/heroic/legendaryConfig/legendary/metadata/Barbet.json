@@ -1,0 +1,209 @@
+{
+  "app_name": "Barbet",
+  "app_title": "HITMAN",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Barbet",
+      "asset_id": "Barbet",
+      "build_version": "4226454",
+      "catalog_item_id": "92cd8e3c23a6400986db14bef51caa51",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "ca8b8123ea074fef89b5c67bf1d89c4c"
+      },
+      "namespace": "3c06b15a8a2845c0b725d4f952fe00aa"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-26T15:20:44.623Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HITMAN"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3c06b15a8a2845c0b725d4f952fe00aa"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "HITMAN",
+    "developer": "IO Interactive",
+    "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-01-20T17:39:13.243Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "HitmanGOTYDLC"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "3c06b15a8a2845c0b725d4f952fe00aa"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "HITMAN GOTY DLC",
+        "developer": "IO Interactive",
+        "developerId": "o-ank8fbh38u9uzqbag2a5yt5xexb4yr",
+        "endOfSupport": false,
+        "entitlementName": "5afc3ed14418472fa874804e7894db5f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5afc3ed14418472fa874804e7894db5f",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0081d3fedcde5cb4955e5f5d51e9950f",
+            "size": 215042,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-08-17T05:00:16.796Z",
+            "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/item/hitman_gotyupgradeWide-2560x1440-0081d3fedcde5cb4955e5f5d51e9950f.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "cf3264ddc7a9cee05018f1bb038a12f2",
+            "size": 94913,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-08-17T05:00:58.840Z",
+            "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/item/hitman_gotyupgradeTall-1200x1600-cf3264ddc7a9cee05018f1bb038a12f2.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2023-01-18T17:05:22.767Z",
+        "longDescription": "HITMAN GOTY DLC",
+        "mainGameItem": {
+          "id": "92cd8e3c23a6400986db14bef51caa51",
+          "namespace": "3c06b15a8a2845c0b725d4f952fe00aa",
+          "unsearchable": false
+        },
+        "namespace": "3c06b15a8a2845c0b725d4f952fe00aa",
+        "releaseInfo": [
+          {
+            "appId": "BarbetDLC",
+            "dateAdded": "2019-07-26T00:00:00.000Z",
+            "id": "9fa7fb3304e64f8eb04d58e5ce150d31",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "HITMAN GOTY DLC",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "92cd8e3c23a6400986db14bef51caa51",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "92cd8e3c23a6400986db14bef51caa51",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 766,
+        "md5": "6becb0825ddf48b1511a6f8e9be02f9f",
+        "size": 280858,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-17T04:49:58.646Z",
+        "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/item/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S3-1360x766-6becb0825ddf48b1511a6f8e9be02f9f.jpg",
+        "width": 1360
+      },
+      {
+        "height": 1148,
+        "md5": "cb3bc2b2ef92dd133e1baa2edde5e232",
+        "size": 159587,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-17T04:50:18.823Z",
+        "url": "https://cdn1.epicgames.com/3c06b15a8a2845c0b725d4f952fe00aa/item/EGS_IOInteractiveAS_HITMANTheCompleteFirstSeason_S2-860x1148-cb3bc2b2ef92dd133e1baa2edde5e232.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2023-01-18T17:05:22.777Z",
+    "longDescription": "HITMAN",
+    "namespace": "3c06b15a8a2845c0b725d4f952fe00aa",
+    "releaseInfo": [
+      {
+        "appId": "Barbet",
+        "dateAdded": "2019-07-26T00:00:00.000Z",
+        "id": "d8c870b545a747a4a53012c1f19d9414",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "HITMAN",
+    "unsearchable": true
+  }
+}

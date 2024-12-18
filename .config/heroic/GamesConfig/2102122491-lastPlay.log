@@ -1,0 +1,54 @@
+Launching "Gloomhaven" (gog)
+Native? No
+Installed in: /home/strobelt/Games/Heroic/Gloomhaven
+
+System Info:
+CPU: 8x Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+Memory: 16.68 GB (used: 5.35 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation TU104 [GeForce RTX 2060]
+    IDs: D=1e89 V=10de SD=3fc1 SV=1458
+    Driver: nvidia
+OS: Arch Linux 6.10.2-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.15.1 Emeth
+  Legendary: 0.20.35 Lowlife (Heroic)
+  gogdl: 1.1.1
+  comet: comet 0.1.2
+
+  Nile: 1.1.1 Will A. Zeppeli
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallDxvkNvapi": false,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableMsync": false,
+	"enableFsync": true,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"battlEyeRuntime": true,
+	"eacRuntime": true,
+	"language": "",
+	"beforeLaunchScriptPath": "",
+	"afterLaunchScriptPath": "",
+	"wineVersion": {
+		"bin": "",
+		"name": "Default Wine - Not Found",
+		"type": "wine"
+	},
+	"winePrefix": "/home/strobelt/Games/Heroic/Prefixes/default/Gloomhaven",
+	"wineCrossoverBottle": ""
+}
+
+Game launched at: Sun Aug 11 2024 22:06:26 GMT-0300 (Horário Padrão de Brasília)
+

@@ -1,0 +1,82 @@
+{
+  "app_name": "14b24b932f3f484f8c707157c29f9c43",
+  "app_title": "Kombinera",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "14b24b932f3f484f8c707157c29f9c43",
+      "asset_id": "14b24b932f3f484f8c707157c29f9c43",
+      "build_version": "1.0.1135",
+      "catalog_item_id": "6120008de1154fa0938246fc6bd268a6",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "80ee3736715c4d258442312b40cebe6e"
+      },
+      "namespace": "1abfe306ce6d46999d2e76eadccf658e"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2022-01-14T21:04:59.573Z",
+    "customAttributes": {
+      "FolderName": {
+        "type": "STRING",
+        "value": "KombinaraIFTlr"
+      }
+    },
+    "description": "Kombinera",
+    "developer": "Atari",
+    "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+    "endOfSupport": false,
+    "entitlementName": "6120008de1154fa0938246fc6bd268a6",
+    "entitlementType": "EXECUTABLE",
+    "id": "6120008de1154fa0938246fc6bd268a6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "alt": "Kombinera Offer",
+        "height": 1440,
+        "md5": "1102f25e20e3c1270e834192ccdf6aed",
+        "size": 2992841,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-16T16:25:48.171Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b24034021c1b412ba68bd2c230ce6388/kombinera-offer-jfeqn.png",
+        "width": 2560
+      },
+      {
+        "alt": "Download Kombinera Offer",
+        "height": 1600,
+        "md5": "127cf26ff309d4254c12719be337a6f9",
+        "size": 1450470,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-16T16:25:46.457Z",
+        "url": "https://cdn1.epicgames.com/spt-assets/b24034021c1b412ba68bd2c230ce6388/download-kombinera-offer-1dsq7.png",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-02-28T21:05:42.549Z",
+    "namespace": "1abfe306ce6d46999d2e76eadccf658e",
+    "releaseInfo": [
+      {
+        "appId": "14b24b932f3f484f8c707157c29f9c43",
+        "id": "066ca7b3ce7f4e8f8b5fef4e6270ea14",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Kombinera",
+    "unsearchable": false
+  }
+}

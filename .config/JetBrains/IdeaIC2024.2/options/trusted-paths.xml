@@ -1,0 +1,18 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/git/fek/esquilo" value="true" />
+        <entry key="$USER_HOME$/git/fek/flink" value="true" />
+        <entry key="$USER_HOME$/git/flink" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/git/fek" />
+      </list>
+    </option>
+  </component>
+</application>

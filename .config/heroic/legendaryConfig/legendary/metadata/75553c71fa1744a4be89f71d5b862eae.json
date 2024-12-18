@@ -1,0 +1,116 @@
+{
+  "app_name": "75553c71fa1744a4be89f71d5b862eae",
+  "app_title": "SAMURAI SHODOWN NEOGEO COLLECTION",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "75553c71fa1744a4be89f71d5b862eae",
+      "asset_id": "75553c71fa1744a4be89f71d5b862eae",
+      "build_version": "1.0.5.4",
+      "catalog_item_id": "c4aa7780f1ad4084aea750b7e28873e8",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "3e84a6d0684b4f7593e6bf88bee0cbaf"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567rFEOklmsRhpFf2MvfDSrjZNC",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-03-19T23:16:16.954Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "datastorage/"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Samurai Shodown NEOGEO Collection/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "SSNeogeoCollection"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "3e84a6d0684b4f7593e6bf88bee0cbaf"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "SAMURAI SHODOWN NEOGEO COLLECTION",
+    "developer": "SNK CORPORATION",
+    "developerId": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+    "endOfSupport": false,
+    "entitlementName": "c4aa7780f1ad4084aea750b7e28873e8",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "c4aa7780f1ad4084aea750b7e28873e8",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "415377927f279a9edec4a122ef00c092",
+        "size": 638984,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-11T04:27:13.178Z",
+        "url": "https://cdn1.epicgames.com/3e84a6d0684b4f7593e6bf88bee0cbaf/item/EGS_SAMURAISHODOWNNEOGEOCOLLECTION_DigitalEclipse_S1-2560x1440-415377927f279a9edec4a122ef00c092.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f04be07a5589199b338e644a5951e7c5",
+        "size": 568068,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-11T04:27:26.077Z",
+        "url": "https://cdn1.epicgames.com/3e84a6d0684b4f7593e6bf88bee0cbaf/item/EGS_SAMURAISHODOWNNEOGEOCOLLECTION_DigitalEclipse_S2-1200x1600-f04be07a5589199b338e644a5951e7c5.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-06-18T18:06:25.567Z",
+    "namespace": "3e84a6d0684b4f7593e6bf88bee0cbaf",
+    "releaseInfo": [
+      {
+        "appId": "75553c71fa1744a4be89f71d5b862eae",
+        "dateAdded": "2020-03-19T00:00:00.000Z",
+        "id": "50ca42ffcf0246a6afada59346037be9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "SAMURAI SHODOWN NEOGEO COLLECTION",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "app_name": "Weaver",
+  "app_title": "Rebel Galaxy",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Weaver",
+      "asset_id": "Weaver",
+      "build_version": "1.08f",
+      "catalog_item_id": "5106a8a7bde5423d8c3f1023764cdbe9",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "weaver"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-02-14T03:54:16.989Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RebelGalaxy"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "weaver"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      }
+    },
+    "description": "Rebel Galaxy",
+    "developer": "Double Damage Games, Inc",
+    "developerId": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+    "endOfSupport": false,
+    "entitlementName": "5106a8a7bde5423d8c3f1023764cdbe9",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "5106a8a7bde5423d8c3f1023764cdbe9",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e2aa8771e78cfeb48b8c915874159470",
+        "size": 835277,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-04T21:02:11.208Z",
+        "url": "https://cdn1.epicgames.com/item/weaver/ENG_DoubleDamageGames_RebelGalaxy_S1_2560x1440_2560x1440-e2aa8771e78cfeb48b8c915874159470",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "06cbd69dda747c677e79ab2c1e2668b1",
+        "size": 590681,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-04T21:02:14.032Z",
+        "url": "https://cdn1.epicgames.com/item/weaver/ENG_DoubleDamageGames_RebelGalaxy_S2_1200x1600_1200x1600-06cbd69dda747c677e79ab2c1e2668b1",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-04T21:02:16.815Z",
+    "namespace": "weaver",
+    "releaseInfo": [
+      {
+        "appId": "Weaver",
+        "compatibleApps": [],
+        "dateAdded": "2019-02-14T00:00:00.000Z",
+        "id": "63537e2dd0b04a028c319bb7a3bf15b2",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Rebel Galaxy",
+    "unsearchable": false
+  }
+}

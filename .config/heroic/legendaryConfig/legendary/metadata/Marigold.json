@@ -1,0 +1,125 @@
+{
+  "app_name": "Marigold",
+  "app_title": "Inside",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Marigold",
+      "asset_id": "Marigold",
+      "build_version": "1.0.0",
+      "catalog_item_id": "6fdb5feba66846cd8623a6d15ca68080",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-14T16:20:24.733Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "Game2.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Playdead/Inside/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/com.playdeadgames.inside.osx/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Inside"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "13bb5776b9e1424d84ce42d9ba61c0ca"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Inside",
+    "developer": "Playdead",
+    "developerId": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+    "endOfSupport": false,
+    "entitlementName": "6fdb5feba66846cd8623a6d15ca68080",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6fdb5feba66846cd8623a6d15ca68080",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8980f5681b4e521ab357910a1ee3f83b",
+        "size": 56516,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-07-23T15:51:01.651Z",
+        "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/PLAYDEAD_INSIDE-PROMO-2560x1440-8980f5681b4e521ab357910a1ee3f83b.jpg",
+        "width": 2560
+      },
+      {
+        "height": 440,
+        "md5": "41d8a56cb8602bac574e0c1254c9a9f9",
+        "size": 68276,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-25T11:01:45.877Z",
+        "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/item/INSIDE_340X440-340x440-41d8a56cb8602bac574e0c1254c9a9f9.jpg",
+        "width": 340
+      }
+    ],
+    "lastModifiedDate": "2020-11-16T13:58:37.200Z",
+    "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+    "releaseInfo": [
+      {
+        "appId": "Marigold",
+        "dateAdded": "2019-07-23T00:00:00.000Z",
+        "id": "66524b004f4c4776863187681aaee340",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Inside",
+    "unsearchable": false
+  }
+}

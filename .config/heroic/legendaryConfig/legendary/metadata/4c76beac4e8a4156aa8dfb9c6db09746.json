@@ -1,0 +1,116 @@
+{
+  "app_name": "4c76beac4e8a4156aa8dfb9c6db09746",
+  "app_title": "Solitairica",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4c76beac4e8a4156aa8dfb9c6db09746",
+      "asset_id": "4c76beac4e8a4156aa8dfb9c6db09746",
+      "build_version": "Solitairica 1.1.13",
+      "catalog_item_id": "689cfaa0df5841ea8289059283d3fa02",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e0172a81e4f0430e88c3156bdadfd088"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-11-18T22:57:29.227Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "Settings.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Solitairica/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Solitairica"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e0172a81e4f0430e88c3156bdadfd088"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Solitairica",
+    "developer": "Righteous Hammer Games",
+    "developerId": "o-w24gbdgdvm4k9jfaucanaqt8wmtbzl",
+    "endOfSupport": false,
+    "entitlementName": "689cfaa0df5841ea8289059283d3fa02",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "689cfaa0df5841ea8289059283d3fa02",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "555ed00c9d112ad5a93b652c837d6888",
+        "size": 778897,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-10T22:19:57.417Z",
+        "url": "https://cdn1.epicgames.com/e0172a81e4f0430e88c3156bdadfd088/item/EGS_Battlemonsterswithsolitaireandmagic_RighteousHammerGames_S1-2560x1440-555ed00c9d112ad5a93b652c837d6888.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "b705a940368bb972c10899dcacebb9bc",
+        "size": 506906,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-10T22:20:11.528Z",
+        "url": "https://cdn1.epicgames.com/e0172a81e4f0430e88c3156bdadfd088/item/EGS_Battlemonsterswithsolitaireandmagic_RighteousHammerGames_S2-1200x1600-b705a940368bb972c10899dcacebb9bc.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-12-29T15:09:53.323Z",
+    "namespace": "e0172a81e4f0430e88c3156bdadfd088",
+    "releaseInfo": [
+      {
+        "appId": "4c76beac4e8a4156aa8dfb9c6db09746",
+        "dateAdded": "2020-11-18T00:00:00.000Z",
+        "id": "be027f2e07f3451ba00e61eb48f83bbc",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Solitairica",
+    "unsearchable": true
+  }
+}

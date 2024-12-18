@@ -1,0 +1,116 @@
+{
+  "app_name": "Goldeneye",
+  "app_title": "LEGO\u00ae Batman\u2122 The Videogame",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Goldeneye",
+      "asset_id": "Goldeneye",
+      "build_version": "1.2",
+      "catalog_item_id": "85c1fcd29dd14ef18c96bd334ee2e10b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "843c8ce683474448bb104a9651e8f325"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-27T22:19:03.462Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LegoBatman"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "843c8ce683474448bb104a9651e8f325"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "LEGO\u00ae Batman\u2122 The Videogame",
+    "developer": "Warner Bros.",
+    "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "endOfSupport": false,
+    "entitlementName": "85c1fcd29dd14ef18c96bd334ee2e10b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "85c1fcd29dd14ef18c96bd334ee2e10b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 66,
+        "md5": "45e98beb3a1b783a27e8c997b6c758d3",
+        "size": 12295,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-09-16T20:01:54.361Z",
+        "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman-211x66-45e98beb3a1b783a27e8c997b6c758d3.png",
+        "width": 211
+      },
+      {
+        "height": 864,
+        "md5": "120dc96f4a1562abdea8fb11deac113c",
+        "size": 287396,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-09-16T20:02:14.656Z",
+        "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman_promo-1536x864-120dc96f4a1562abdea8fb11deac113c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1289,
+        "md5": "d1955ec552255c2278577780a44e0a44",
+        "size": 290233,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/843c8ce683474448bb104a9651e8f325/item/lego-batman_portrait-859x1289-d1955ec552255c2278577780a44e0a44.jpg",
+        "width": 859
+      }
+    ],
+    "lastModifiedDate": "2023-08-18T09:54:25.091Z",
+    "namespace": "843c8ce683474448bb104a9651e8f325",
+    "releaseInfo": [
+      {
+        "appId": "Goldeneye",
+        "dateAdded": "2019-08-27T00:00:00.000Z",
+        "id": "d4b3fe98f344458ba1c58d6b3011926b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "LEGO\u00ae Batman\u2122 The Videogame",
+    "unsearchable": false
+  }
+}

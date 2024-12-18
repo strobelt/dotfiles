@@ -1,0 +1,134 @@
+{
+  "app_name": "Cowbird",
+  "app_title": "Batman\u2122 Arkham Knight",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Cowbird",
+      "asset_id": "Cowbird",
+      "build_version": "1.999",
+      "catalog_item_id": "281504e8e6e44b5dab3a072f9ee21c21",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e5e30c728f1947759251eb5283ffa6e3"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-27T22:18:11.017Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BatmanArkhamKnight"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e5e30c728f1947759251eb5283ffa6e3"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Batman\u2122 Arkham Knight",
+    "developer": "Warner Bros.",
+    "developerId": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "endOfSupport": false,
+    "entitlementName": "281504e8e6e44b5dab3a072f9ee21c21",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "281504e8e6e44b5dab3a072f9ee21c21",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 102,
+        "md5": "6237e1870f8ca4b29067a25a1116522d",
+        "size": 18723,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-09-16T20:24:09.428Z",
+        "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight-206x102-6237e1870f8ca4b29067a25a1116522d.png",
+        "width": 206
+      },
+      {
+        "height": 440,
+        "md5": "052e5c7c6439f9b7918445d91f71cb31",
+        "size": 54166,
+        "type": "Thumbnail",
+        "uploadedDate": "2019-09-19T14:36:56.916Z",
+        "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/CodeRedemption_ArkhamKnight-336x440-052e5c7c6439f9b7918445d91f71cb31-336x440-052e5c7c6439f9b7918445d91f71cb31.jpg",
+        "width": 336
+      },
+      {
+        "height": 440,
+        "md5": "052e5c7c6439f9b7918445d91f71cb31",
+        "size": 54166,
+        "type": "CodeRedemption_340x440",
+        "uploadedDate": "2019-09-19T14:37:06.345Z",
+        "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/CodeRedemption_ArkhamKnight-336x440-052e5c7c6439f9b7918445d91f71cb31-336x440-052e5c7c6439f9b7918445d91f71cb31.jpg",
+        "width": 336
+      },
+      {
+        "height": 1152,
+        "md5": "ed2be22b3f24f446534b90b122ed560d",
+        "size": 369128,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-09-19T14:44:22.655Z",
+        "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight_promo-2048x1152-2048x1152-ed2be22b3f24f446534b90b122ed560d.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "md5": "78f19e73d3e889c19ca24ab5af0b5fd7",
+        "size": 185986,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/item/batman-arkham-knight_portrait-1024x1152-78f19e73d3e889c19ca24ab5af0b5fd7.jpg",
+        "width": 1024
+      }
+    ],
+    "lastModifiedDate": "2023-08-18T09:54:24.874Z",
+    "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+    "releaseInfo": [
+      {
+        "appId": "Cowbird",
+        "dateAdded": "2019-08-27T00:00:00.000Z",
+        "id": "18aebabb817d41b790beb4863e4eacc9",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Batman\u2122 Arkham Knight",
+    "unsearchable": false
+  }
+}

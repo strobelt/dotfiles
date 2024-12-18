@@ -1,0 +1,117 @@
+{
+  "app_name": "b4670484aae24db492f0b468a98fe361",
+  "app_title": "Relicta",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b4670484aae24db492f0b468a98fe361",
+      "asset_id": "b4670484aae24db492f0b468a98fe361",
+      "build_version": "1.1.0",
+      "catalog_item_id": "e43aea161dda4d38b73817d41207ac7a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d79920221de24b448e24516a7810804e"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-30T01:41:29.231Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "RelictaSaveGame.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/PAway/Saved/Savegames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Relicta"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d79920221de24b448e24516a7810804e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Relicta",
+    "developer": "Plaion",
+    "developerId": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "endOfSupport": false,
+    "entitlementName": "e43aea161dda4d38b73817d41207ac7a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "e43aea161dda4d38b73817d41207ac7a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 270,
+        "md5": "2f443f91cd89da427b8efd6a910fbe04",
+        "size": 157709,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-24T16:01:05.150Z",
+        "url": "https://cdn1.epicgames.com/d79920221de24b448e24516a7810804e/item/Blades_Mobile_horizontal-480x270-2f443f91cd89da427b8efd6a910fbe04.jpg",
+        "width": 480
+      },
+      {
+        "height": 530,
+        "md5": "8af5bcc5cc9fb63883346c5bbc0a06ea",
+        "size": 243196,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-24T16:01:17.803Z",
+        "url": "https://cdn1.epicgames.com/d79920221de24b448e24516a7810804e/item/Blades_Desktop_vertical-400x530-8af5bcc5cc9fb63883346c5bbc0a06ea.jpg",
+        "width": 400
+      }
+    ],
+    "lastModifiedDate": "2022-09-19T17:59:42.208Z",
+    "longDescription": "Relicta",
+    "namespace": "d79920221de24b448e24516a7810804e",
+    "releaseInfo": [
+      {
+        "appId": "b4670484aae24db492f0b468a98fe361",
+        "dateAdded": "2020-06-30T00:00:00.000Z",
+        "id": "b8c30042d5e849a89084e882a9133f6e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Relicta",
+    "unsearchable": false
+  }
+}

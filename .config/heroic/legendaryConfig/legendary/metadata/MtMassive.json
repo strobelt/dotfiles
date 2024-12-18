@@ -1,0 +1,127 @@
+{
+  "app_name": "MtMassive",
+  "app_title": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
+  "asset_infos": {},
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-11-09T13:43:26.202Z",
+    "customAttributes": {
+      "AdditionalCommandline": {
+        "type": "STRING",
+        "value": "&theme=sws&platform=epic&Hotfix=go"
+      },
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "StarWarsBattlefront2"
+      },
+      "MainWindowProcessName": {
+        "type": "STRING",
+        "value": "starwarsbattlefrontii.exe"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b156c3365a5b4cb9a01a5e1108b4e3f4"
+      },
+      "ProcessNames": {
+        "type": "STRING",
+        "value": "starwarsbattlefrontii.exe"
+      },
+      "RegistryKey": {
+        "type": "STRING",
+        "value": "Install Dir"
+      },
+      "RegistryLocation": {
+        "type": "STRING",
+        "value": "SOFTWARE\\\\EA Games\\\\STAR WARS Battlefront II\\\\Install Dir"
+      },
+      "RegistryPath": {
+        "type": "STRING",
+        "value": "SOFTWARE\\\\WOW6432Node\\\\EA Games\\\\STAR WARS Battlefront II"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "ThirdPartyManagedApp": {
+        "type": "STRING",
+        "value": "Origin"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
+    "developer": "Electronic Arts",
+    "developerId": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+    "endOfSupport": false,
+    "entitlementName": "1fea1f054a3b4e0c805da8b1a4d39b8d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1fea1f054a3b4e0c805da8b1a4d39b8d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3dc68a07cace02e826ad42a2de5279b0",
+        "size": 936594,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-01-06T15:58:57.012Z",
+        "url": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/item/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S1-2560x1440-3dc68a07cace02e826ad42a2de5279b0.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "11d040719a8457bbf36cabbe89b200db",
+        "size": 987047,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-01-06T15:59:04.518Z",
+        "url": "https://cdn1.epicgames.com/b156c3365a5b4cb9a01a5e1108b4e3f4/item/EGS_STARWARSBattlefrontIICelebrationEdition_DICE_S2-1200x1600-11d040719a8457bbf36cabbe89b200db.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-01-21T15:58:08.433Z",
+    "longDescription": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
+    "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
+    "releaseInfo": [
+      {
+        "appId": "MtMassive",
+        "dateAdded": "2020-11-09T00:00:00.000Z",
+        "id": "bc899b5562b642888f6be37a7e9ed818",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "STAR WARS\u2122 Battlefront\u2122 II: Celebration Edition",
+    "unsearchable": false
+  }
+}

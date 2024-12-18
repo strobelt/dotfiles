@@ -1,0 +1,117 @@
+{
+  "app_name": "03b7b25a77024cc0adf44777f791ffc4",
+  "app_title": "Deponia The Complete Journey",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "03b7b25a77024cc0adf44777f791ffc4",
+      "asset_id": "03b7b25a77024cc0adf44777f791ffc4",
+      "build_version": "3.3.0156.8",
+      "catalog_item_id": "6edaf97cd546441281d04a185a529524",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e5decf71f325458b92653616ee98682a"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-03-10T03:59:54.030Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "*.dat"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Daedalic Entertainment GmbH/Deponia The Complete Journey/Savegames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeponiaTCJ"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e5decf71f325458b92653616ee98682a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Deponia The Complete Journey",
+    "developer": "Daedalic Entertainment",
+    "developerId": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "endOfSupport": false,
+    "entitlementName": "6edaf97cd546441281d04a185a529524",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6edaf97cd546441281d04a185a529524",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "f8cfe09916adfed9f6cf129febd48a6f",
+        "size": 515505,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-14T02:20:18.966Z",
+        "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S4-1200x1600-f8cfe09916adfed9f6cf129febd48a6f.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "df5c473a8d8af12e7f863ee0427c0548",
+        "size": 796443,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-14T02:20:31.494Z",
+        "url": "https://cdn1.epicgames.com/e5decf71f325458b92653616ee98682a/item/EGS_DeponiaTheCompleteJourney_DaedalicEntertainment_S3-2560x1440-df5c473a8d8af12e7f863ee0427c0548.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2021-04-15T20:09:07.238Z",
+    "namespace": "e5decf71f325458b92653616ee98682a",
+    "releaseInfo": [
+      {
+        "appId": "03b7b25a77024cc0adf44777f791ffc4",
+        "dateAdded": "2021-03-10T00:00:00.000Z",
+        "id": "5d0414e5d84d4d32a6318248f70f63f9",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Deponia The Complete Journey",
+    "unsearchable": false
+  }
+}

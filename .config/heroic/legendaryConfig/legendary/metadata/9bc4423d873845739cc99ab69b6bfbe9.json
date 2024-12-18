@@ -1,0 +1,107 @@
+{
+  "app_name": "9bc4423d873845739cc99ab69b6bfbe9",
+  "app_title": "God's Trigger",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "9bc4423d873845739cc99ab69b6bfbe9",
+      "asset_id": "9bc4423d873845739cc99ab69b6bfbe9",
+      "build_version": "1.2.58760.3",
+      "catalog_item_id": "1efa6e54bc134ec68ea15b5280da7ccd",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ceaa24233cdb4b678a1cf515e3a912e8"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-30T02:37:51.654Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GodsTrigger"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ceaa24233cdb4b678a1cf515e3a912e8"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "God's Trigger",
+    "developer": "Techland",
+    "developerId": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+    "endOfSupport": false,
+    "entitlementName": "1efa6e54bc134ec68ea15b5280da7ccd",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1efa6e54bc134ec68ea15b5280da7ccd",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "ba2bd3504ffc2b9e55271a60e177972a",
+        "size": 384907,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-12T21:30:58.131Z",
+        "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/item/EGS_GodsTrigger_OneMoreLevel_S1-2560x1440-ba2bd3504ffc2b9e55271a60e177972a.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f358d6781c0b38616e6cad865a427f13",
+        "size": 397046,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-12T21:31:10.362Z",
+        "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/item/EGS_GodsTrigger_OneMoreLevel_S2-1200x1600-f358d6781c0b38616e6cad865a427f13.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-08-27T14:44:50.060Z",
+    "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+    "releaseInfo": [
+      {
+        "appId": "9bc4423d873845739cc99ab69b6bfbe9",
+        "dateAdded": "2020-07-30T00:00:00.000Z",
+        "id": "e2d167853fb74a779510200429636115",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "God's Trigger",
+    "unsearchable": false
+  }
+}

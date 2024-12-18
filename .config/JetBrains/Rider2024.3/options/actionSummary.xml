@@ -1,0 +1,31 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1734468904352" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1734488602389" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1730070398572" />
+    </e>
+    <e n="RiderNewSolution">
+      <i c="1" l="1734488532962" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="2" l="1730070351740" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1730070297895" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1734468902010" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1730070346220" />
+    </e>
+    <e n="com.jetbrains.rider.actions.RiderActionUpdateInterceptor$RiderBackendCompositeAction">
+      <i c="2" l="1734488600990" />
+    </e>
+  </component>
+</application>

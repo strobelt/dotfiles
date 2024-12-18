@@ -1,0 +1,119 @@
+{
+  "app_name": "f7a0ebb44f93430fb1c4388a395eba96",
+  "app_title": "Loop Hero",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f7a0ebb44f93430fb1c4388a395eba96",
+      "asset_id": "f7a0ebb44f93430fb1c4388a395eba96",
+      "build_version": "11054",
+      "catalog_item_id": "9c7c10e8e1a648f8a9e35f28a1d45900",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "ff50f85ed609454e80ac46d9496da34d"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-27T17:17:09.831Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/Loop_hero/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{AppData}/com.devolverdigital.loophero/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LoopHero"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "ff50f85ed609454e80ac46d9496da34d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Loop Hero",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "endOfSupport": false,
+    "entitlementName": "9c7c10e8e1a648f8a9e35f28a1d45900",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9c7c10e8e1a648f8a9e35f28a1d45900",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "dd971b1a2d79b2984c22a3b7c66c60da",
+        "size": 810596,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-02T00:37:55.314Z",
+        "url": "https://cdn1.epicgames.com/ff50f85ed609454e80ac46d9496da34d/item/EGS_TheLichhasthrowntheworldintoatimelessloop_FourQuarters_S1-2560x1440-dd971b1a2d79b2984c22a3b7c66c60da.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9ce7ff725ffafa800300b644df5936cd",
+        "size": 794097,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-02T00:38:05.933Z",
+        "url": "https://cdn1.epicgames.com/ff50f85ed609454e80ac46d9496da34d/item/EGS_TheLichhasthrowntheworldintoatimelessloop_FourQuarters_S2-1200x1600-9ce7ff725ffafa800300b644df5936cd.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-03-01T20:16:05.338Z",
+    "namespace": "ff50f85ed609454e80ac46d9496da34d",
+    "releaseInfo": [
+      {
+        "appId": "f7a0ebb44f93430fb1c4388a395eba96",
+        "dateAdded": "2021-01-27T00:00:00.000Z",
+        "id": "ce689d80ac5e4b4c90b6318828a4aa87",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Loop Hero",
+    "unsearchable": false
+  }
+}

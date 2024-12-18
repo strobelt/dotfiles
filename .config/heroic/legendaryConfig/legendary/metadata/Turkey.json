@@ -1,0 +1,192 @@
+{
+  "app_name": "Turkey",
+  "app_title": "Borderlands: The Pre-Sequel",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Turkey",
+      "asset_id": "Turkey",
+      "build_version": "2.0.2_BN160_CL2863302",
+      "catalog_item_id": "7aa957cbc73446d08bbfc234d693001a",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f36962e859934e6b8c69a78b6b85cd19"
+      },
+      "namespace": "6110c92696a54f108c8e9002713ea5f9"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-10T15:34:04.667Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Borderlands The Pre-Sequel/WillowGame/SaveData/{EpicId}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BorderlandsThePreSequel"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "6110c92696a54f108c8e9002713ea5f9"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Borderlands: The Pre-Sequel",
+    "developer": "Epic Dev Test Account",
+    "developerId": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-10T16:16:10.633Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "BorderlandsPSHDPack"
+          }
+        },
+        "description": "Ultra HD Texture Pack",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "6d47b659c7f749bd927d5f455ad3c283",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6d47b659c7f749bd927d5f455ad3c283",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "0f6d48fcb8323914cbc26e1bdda1105e",
+            "size": 439236,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-05-27T20:22:58.755Z",
+            "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/item/EGS_BorderlandsThePreSequelUltraHDTexturePack_GearboxSoftware_Expansion_G1A_00-1920x1080-0f6d48fcb8323914cbc26e1bdda1105e.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "97098ad0da753c6ff5e19255d6b0105c",
+            "size": 935109,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-05-27T20:23:07.907Z",
+            "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/item/EGS_BorderlandsThePreSequelUltraHDTexturePack_GearboxSoftware_Expansion_S2-1200x1600-97098ad0da753c6ff5e19255d6b0105c.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-05-28T14:32:09.815Z",
+        "mainGameItem": {
+          "id": "7aa957cbc73446d08bbfc234d693001a",
+          "namespace": "6110c92696a54f108c8e9002713ea5f9",
+          "unsearchable": false
+        },
+        "namespace": "6110c92696a54f108c8e9002713ea5f9",
+        "releaseInfo": [
+          {
+            "appId": "TurkeyDLCAilanthus",
+            "dateAdded": "2019-07-10T00:00:00.000Z",
+            "id": "426258848cd448459df723380366dffd",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Ultra HD Texture Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7aa957cbc73446d08bbfc234d693001a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "7aa957cbc73446d08bbfc234d693001a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1148,
+        "md5": "f2cb4bbd853d7c73918bb26c99d1baae",
+        "size": 474615,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-22T18:43:02.199Z",
+        "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/item/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg",
+        "width": 860
+      },
+      {
+        "height": 1440,
+        "md5": "0e1682595bdaab7a226149a5154c426e",
+        "size": 498996,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-22T18:43:25.315Z",
+        "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/item/EGS_BorderlandsThePreSequel_Wide-2560x1440-0e1682595bdaab7a226149a5154c426e.jpg",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2020-05-28T14:32:09.815Z",
+    "namespace": "6110c92696a54f108c8e9002713ea5f9",
+    "releaseInfo": [
+      {
+        "appId": "Turkey",
+        "dateAdded": "2019-07-10T00:00:00.000Z",
+        "id": "29a690222cdb470cbc58f76c6b0fb8cf",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Borderlands: The Pre-Sequel",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "app_name": "281a47e363284108b82bf05c1a612145",
+  "app_title": "RollerCoaster Tycoon\u00ae 3: Complete Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "281a47e363284108b82bf05c1a612145",
+      "asset_id": "281a47e363284108b82bf05c1a612145",
+      "build_version": "3.2.5.13",
+      "catalog_item_id": "df38ad3ac22e45c98182b6830730aedf",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "f01b3e0178d448f0b93911e292d8e614"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-05T16:50:07.882Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RollerCoasterTycoon3"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f01b3e0178d448f0b93911e292d8e614"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "RollerCoaster Tycoon\u00ae 3: Complete Edition",
+    "developer": "Frontier Developments",
+    "developerId": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "endOfSupport": false,
+    "entitlementName": "df38ad3ac22e45c98182b6830730aedf",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "df38ad3ac22e45c98182b6830730aedf",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "689d96ca4d5a4e8de183b7a928960c87",
+        "size": 987776,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-09-15T16:55:54.044Z",
+        "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "591ca93f3bee7bc55a90b77ccc36eb84",
+        "size": 987354,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-09-15T16:56:04.134Z",
+        "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/item/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-09-17T14:02:22.222Z",
+    "namespace": "f01b3e0178d448f0b93911e292d8e614",
+    "releaseInfo": [
+      {
+        "appId": "281a47e363284108b82bf05c1a612145",
+        "dateAdded": "2020-05-05T00:00:00.000Z",
+        "id": "fcec490f1ae447909afeabe316c2a40b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "RollerCoaster Tycoon\u00ae 3: Complete Edition",
+    "unsearchable": false
+  }
+}

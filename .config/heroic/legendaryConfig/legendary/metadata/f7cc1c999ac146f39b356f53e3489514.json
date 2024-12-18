@@ -1,0 +1,112 @@
+{
+  "app_name": "f7cc1c999ac146f39b356f53e3489514",
+  "app_title": "Rise of the Tomb Raider: 20 Year Celebration",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "f7cc1c999ac146f39b356f53e3489514",
+      "asset_id": "f7cc1c999ac146f39b356f53e3489514",
+      "build_version": "TR2_30112021_1027.0_1224023_303770_132827583431143041_",
+      "catalog_item_id": "460088fc5e5045c0a67876fd10f7310b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "48ffecf4a89f4fd496817b0451384f39"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567CxTDb6Q4dYJ9sI92RtgfzkTS",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-13T16:39:34.752Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Rise of the Tomb Raider/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "RiseoftheTombRaider"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "48ffecf4a89f4fd496817b0451384f39"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Rise of the Tomb Raider: 20 Year Celebration",
+    "developer": "Crystal Dynamics, Inc.",
+    "developerId": "o-8tl6n9gzcfp4vtnqb5v64b4wvne46t",
+    "endOfSupport": false,
+    "entitlementName": "460088fc5e5045c0a67876fd10f7310b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "460088fc5e5045c0a67876fd10f7310b",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3bd5b3c4c11d46cc2dcb06bdf2f77627",
+        "size": 921551,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-14T17:17:54.455Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseoftheTombRaider20YearCelebration_CrystalDynamics_S1_2560x1440-3bd5b3c4c11d46cc2dcb06bdf2f77627",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a73f93bb560142e08d56db4c2bfdb03c",
+        "size": 599846,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-14T17:17:49.445Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_RiseoftheTombRaider20YearCelebration_CrystalDynamics_S2_1200x1600-a73f93bb560142e08d56db4c2bfdb03c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-20T13:49:55.871Z",
+    "namespace": "48ffecf4a89f4fd496817b0451384f39",
+    "releaseInfo": [
+      {
+        "appId": "f7cc1c999ac146f39b356f53e3489514",
+        "compatibleApps": [],
+        "dateAdded": "2024-05-20T13:49:58.494Z",
+        "id": "968389f7344c493090acf1179e33439b",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Rise of the Tomb Raider: 20 Year Celebration",
+    "unsearchable": true
+  }
+}

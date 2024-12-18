@@ -1,0 +1,118 @@
+{
+  "app_name": "82a78a4dd6ef4eaa892707791b705073",
+  "app_title": "Costume Quest 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "82a78a4dd6ef4eaa892707791b705073",
+      "asset_id": "82a78a4dd6ef4eaa892707791b705073",
+      "build_version": "1",
+      "catalog_item_id": "ea57c7d9cf304100bf677d18be2fe8e2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c660f57e1a164930a7196f1fd27ae45a"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-30T19:00:04.908Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/Doublefine/CostumeQuest2/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Doublefine/Costume Quest 2"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CostumeQuest2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c660f57e1a164930a7196f1fd27ae45a"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Costume Quest 2",
+    "developer": "Zift Interactive LLC",
+    "developerId": "o-b4r45mybu3j7upcwjuervxbjbnjfjr",
+    "endOfSupport": false,
+    "entitlementName": "ea57c7d9cf304100bf677d18be2fe8e2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ea57c7d9cf304100bf677d18be2fe8e2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "18c7498869f8989a44fdccdc27fd07a4",
+        "size": 303553,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-09T17:57:10.453Z",
+        "url": "https://cdn1.epicgames.com/c660f57e1a164930a7196f1fd27ae45a/item/EGS_SequeltotheHalloweenadventurefromDoubleFine_DoubleFine_G1C_00-1920x1080-18c7498869f8989a44fdccdc27fd07a4.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "7f56dc465460d2e82182e8d8ab4b99d3",
+        "size": 621992,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-09T17:57:29.636Z",
+        "url": "https://cdn1.epicgames.com/c660f57e1a164930a7196f1fd27ae45a/item/EGS_SequeltotheHalloweenadventurefromDoubleFine_DoubleFine_S2-1200x1600-7f56dc465460d2e82182e8d8ab4b99d3.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-12-08T22:57:25.365Z",
+    "namespace": "c660f57e1a164930a7196f1fd27ae45a",
+    "releaseInfo": [
+      {
+        "appId": "82a78a4dd6ef4eaa892707791b705073",
+        "dateAdded": "2020-09-22T00:00:00.000Z",
+        "id": "9bee3a42714649f58b7594178a2b6183",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Costume Quest 2",
+    "unsearchable": true
+  }
+}

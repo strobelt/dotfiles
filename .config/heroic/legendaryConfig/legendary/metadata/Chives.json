@@ -1,0 +1,110 @@
+{
+  "app_name": "Chives",
+  "app_title": "Bad North Jotunn Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Chives",
+      "asset_id": "Chives",
+      "build_version": "2.00.5",
+      "catalog_item_id": "627e807166bf409c8a4a70639a6fe448",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "aa5ef9d2f8394731a034504c562e292c"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-10-23T17:42:31.171Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BadNorth"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "aa5ef9d2f8394731a034504c562e292c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Bad North Jotunn Edition",
+    "developer": "Raw Fury",
+    "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "endOfSupport": false,
+    "entitlementName": "627e807166bf409c8a4a70639a6fe448",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "627e807166bf409c8a4a70639a6fe448",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "7aead2c065f1edd71b306dbaeea91ed1",
+        "size": 686566,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-01-24T15:24:28.310Z",
+        "url": "https://cdn1.epicgames.com/item/aa5ef9d2f8394731a034504c562e292c/BadNorth_1200x1600-7aead2c065f1edd71b306dbaeea91ed1",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "2834d69532da43f798e77c06031ba3a5",
+        "size": 76190,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-01-24T15:24:31.177Z",
+        "url": "https://cdn1.epicgames.com/item/aa5ef9d2f8394731a034504c562e292c/Diesel_productv2_bad-north_home_EGS_PLAUSIBLE_CONCEPT_BAD_NORTH_N1_DESCRIPTION-2560x1440-ec2af407a3b0816796e30d3655e7cb42f335fda1_2560x1440-2834d69532da43f798e77c06031ba3a5",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-01-24T15:24:36.292Z",
+    "namespace": "aa5ef9d2f8394731a034504c562e292c",
+    "releaseInfo": [
+      {
+        "appId": "Chives",
+        "dateAdded": "2019-11-09T00:00:00.000Z",
+        "id": "fd9b1fb4e42c4d8c875df555b0689d3c",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Bad North Jotunn Edition",
+    "unsearchable": false
+  }
+}

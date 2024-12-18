@@ -1,0 +1,131 @@
+{
+  "app_name": "cacao",
+  "app_title": "Kingdom New Lands",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cacao",
+      "asset_id": "cacao",
+      "build_version": "1.2.8-r2121-Windows",
+      "catalog_item_id": "d0f62d60809d4d8f989b7130a169eab6",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "0e87bed2a83c4cf6a68a7aeb43f25cf0"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-05-24T17:24:23.195Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/noio/Kingdom/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/nl.noio.kingdom-new-lands/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KingdomNewLands"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0e87bed2a83c4cf6a68a7aeb43f25cf0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Kingdom New Lands",
+    "developer": "Raw Fury",
+    "developerId": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "endOfSupport": false,
+    "entitlementName": "d0f62d60809d4d8f989b7130a169eab6",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d0f62d60809d4d8f989b7130a169eab6",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 194,
+        "md5": "6a025871f80bf64e261c2cfd499c20f7",
+        "size": 4773,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-05-28T17:18:37.058Z",
+        "url": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_IC1_LogoColor-520x194-6a025871f80bf64e261c2cfd499c20f7.png",
+        "width": 520
+      },
+      {
+        "height": 1440,
+        "md5": "7aadfb97ae5a2d4b59a3bef27ecf17fb",
+        "size": 98181,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-05-28T17:18:45.397Z",
+        "url": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_G1_PDPPromo_Image-2560x1440-7aadfb97ae5a2d4b59a3bef27ecf17fb.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "md5": "a1f13da9db6f52b17b758782be5aa352",
+        "size": 98753,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/0e87bed2a83c4cf6a68a7aeb43f25cf0/item/EGS_RawFury_KingdomNewLands_S3_StorePortraitPromo-1280x1440-a1f13da9db6f52b17b758782be5aa352.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2020-05-15T00:36:15.598Z",
+    "namespace": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
+    "releaseInfo": [
+      {
+        "appId": "cacao",
+        "dateAdded": "2019-06-06T00:00:00.000Z",
+        "id": "0ae91da0ade546b792e2155ca6681938",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Kingdom New Lands",
+    "unsearchable": false
+  }
+}

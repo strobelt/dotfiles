@@ -1,0 +1,116 @@
+{
+  "app_name": "a579a08e71b341e6af106dbd170e2ab2",
+  "app_title": "Creature in the Well",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a579a08e71b341e6af106dbd170e2ab2",
+      "asset_id": "a579a08e71b341e6af106dbd170e2ab2",
+      "build_version": "1.0.0-137001-1",
+      "catalog_item_id": "a7f9dc66de224b93af0189853f304956",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-22T19:28:09.445Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "steam_autocloud.vdf"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/CITW/Saved/SaveGames/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CreatureintheWell"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "e4ac2f8cd49b42f18821f3fc3b6fc1b6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Creature in the Well",
+    "developer": "MWM Interactive",
+    "developerId": "o-f4rsv826ngcpw4wvunwntql3n23m46",
+    "endOfSupport": false,
+    "entitlementName": "a7f9dc66de224b93af0189853f304956",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a7f9dc66de224b93af0189853f304956",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "da7683852ac13a5c54aaeb11d78f1914",
+        "size": 988974,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-16T19:10:53.475Z",
+        "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/item/EGS_CreatureintheWell_FlightSchoolStudio_S1-2560x1440-da7683852ac13a5c54aaeb11d78f1914.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "42c37512ff1fdf1fb5dc0d64864b72ce",
+        "size": 907879,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-16T19:11:06.627Z",
+        "url": "https://cdn1.epicgames.com/e4ac2f8cd49b42f18821f3fc3b6fc1b6/item/EGS_CreatureintheWell_FlightSchoolStudio_S2-1200x1600-42c37512ff1fdf1fb5dc0d64864b72ce.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-03-24T21:32:18.508Z",
+    "namespace": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
+    "releaseInfo": [
+      {
+        "appId": "a579a08e71b341e6af106dbd170e2ab2",
+        "dateAdded": "2021-01-22T00:00:00.000Z",
+        "id": "6db1836ebfab42119b6275f872e1481e",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Creature in the Well",
+    "unsearchable": false
+  }
+}

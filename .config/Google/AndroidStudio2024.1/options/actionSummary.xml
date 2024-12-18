@@ -1,0 +1,148 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1724373451931" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1724372547084" />
+    </e>
+    <e n="Android.AdbDevicePairing">
+      <i c="1" l="1724374764664" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="2" l="1724373669611" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1724372709276" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="2" l="1724373961867" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="44" l="1724374225731" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1724373297471" />
+    </e>
+    <e n="EditorEnter">
+      <i c="8" l="1724373654612" />
+    </e>
+    <e n="EditorEscape">
+      <i c="69" l="1724374228238" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1724373637388" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="4" l="1724374215896" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1724373388256" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1724375309261" />
+    </e>
+    <e n="FindPrevious">
+      <i c="1" l="1724373575162" />
+    </e>
+    <e n="Git.Branches.Popup.Settings">
+      <i c="1" l="1724372630680" />
+    </e>
+    <e n="Git.Init">
+      <i c="2" l="1724372790067" />
+    </e>
+    <e n="GotoTypeDeclaration">
+      <i c="1" l="1724374288646" />
+    </e>
+    <e n="Kotlin.NewFile">
+      <i c="1" l="1724373460576" />
+    </e>
+    <e n="MakeGradleProject">
+      <i c="1" l="1724374299631" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1724373493899" />
+    </e>
+    <e n="ReformatCode">
+      <i c="2" l="1724373681231" />
+    </e>
+    <e n="Run">
+      <i c="2" l="1724374935420" />
+    </e>
+    <e n="SaveAll">
+      <i c="10" l="1724374287683" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1724373672266" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="16" l="1724374217553" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1724373122358" />
+    </e>
+    <e n="Switcher">
+      <i c="1" l="1724372655032" />
+    </e>
+    <e n="Vcs.UpdateProject">
+      <i c="1" l="1724372633229" />
+    </e>
+    <e n="WelcomeScreen.CopyProjectPath">
+      <i c="1" l="1724372726362" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1724372538754" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1724372772741" />
+    </e>
+    <e n="com.android.build.output.LongDownloadsNotifier$notifyIfTimeElapsed$1$1">
+      <i c="1" l="1724372868745" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$NewTabAction">
+      <i c="2" l="1724374758785" />
+    </e>
+    <e n="com.android.tools.idea.streaming.core.StreamingToolWindowManager$StartAvdAction">
+      <i c="1" l="1724374752354" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1724373576804" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1724372688452" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1724373228244" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="29" l="1724374225730" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="1" l="1724372655092" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1724373677832" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1724372886357" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="4" l="1724375308162" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1724372882777" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$EditButton">
+      <i c="1" l="1724372643835" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1724373221315" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="10" l="1724374287677" />
+    </e>
+    <e n="template.create.ActivityEmpty Views Activity">
+      <i c="1" l="1724373618851" />
+    </e>
+  </component>
+</application>

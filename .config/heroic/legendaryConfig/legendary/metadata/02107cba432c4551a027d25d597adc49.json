@@ -1,0 +1,118 @@
+{
+  "app_name": "02107cba432c4551a027d25d597adc49",
+  "app_title": "Stranded Deep",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "02107cba432c4551a027d25d597adc49",
+      "asset_id": "02107cba432c4551a027d25d597adc49",
+      "build_version": "Stable-Build_1.0.38.0",
+      "catalog_item_id": "459257f3ebf74d8dace3bec4c0ffa704",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5fd8f5ae809f46d4b33741cc80d3aef8"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567GULQ893XdQGSL5NapH9kenNx",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-12-09T11:25:21.696Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Beam Team Games/Stranded Deep/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "StrandedDeep"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "9000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "5fd8f5ae809f46d4b33741cc80d3aef8"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Stranded Deep",
+    "developer": "Beam Team Games",
+    "developerId": "o-jlpksq54hhq8rcwvlnl6mpctt82x5q",
+    "endOfSupport": false,
+    "entitlementName": "459257f3ebf74d8dace3bec4c0ffa704",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "459257f3ebf74d8dace3bec4c0ffa704",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5011dfe67d355a332f3b50472fa69955",
+        "size": 778416,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-05T16:21:39.230Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StrandedDeep_BeamTeamGames_S1_2560x1440-5011dfe67d355a332f3b50472fa69955",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "f24f1e2a724ff81c6996a72caa0be642",
+        "size": 475429,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-05T16:21:35.671Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_StrandedDeep_BeamTeamGames_S2_1200x1600-f24f1e2a724ff81c6996a72caa0be642",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-10-05T16:21:50.966Z",
+    "namespace": "5fd8f5ae809f46d4b33741cc80d3aef8",
+    "releaseInfo": [
+      {
+        "appId": "02107cba432c4551a027d25d597adc49",
+        "dateAdded": "2020-12-09T00:00:00.000Z",
+        "id": "a4d4cb97d362473990e604724a87d93f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Stranded Deep",
+    "unsearchable": true
+  }
+}

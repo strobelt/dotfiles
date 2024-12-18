@@ -1,0 +1,189 @@
+{
+  "app_name": "8b5f1c51be3844bab51e2ee1089839f5",
+  "app_title": "Map Pack",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8b5f1c51be3844bab51e2ee1089839f5",
+      "asset_id": "8b5f1c51be3844bab51e2ee1089839f5",
+      "build_version": "197106[Windows]",
+      "catalog_item_id": "ca31f80025ea4466b871ba11184bc74b",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2fd298917a904147b91b98db667862f6"
+      },
+      "namespace": "7015c51a49be4592b5ba3ae2577723c5"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-08T17:22:05.184Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MapPack"
+      }
+    },
+    "description": "Map Pack",
+    "developer": "Kalypso Media Group GmbH",
+    "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "endOfSupport": false,
+    "entitlementName": "ca31f80025ea4466b871ba11184bc74b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "ca31f80025ea4466b871ba11184bc74b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "334c0940d45f04b34d3d2b55ae838182",
+        "size": 983516,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-16T16:49:49.588Z",
+        "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/wide-2560x1440-334c0940d45f04b34d3d2b55ae838182.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4f774989309b1f52a50628ff93b4ed7c",
+        "size": 989240,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-16T16:49:58.116Z",
+        "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/tall-1200x1600-4f774989309b1f52a50628ff93b4ed7c.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-12-16T18:21:41.174Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "fghi4567KDng4Sro7eeq1vIr7Bw5wyh1",
+      "categories": [
+        {
+          "path": "public"
+        },
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2020-05-08T17:15:17.740Z",
+      "customAttributes": {
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CloudSaveFolder": {
+          "type": "STRING",
+          "value": "{AppData}/../Roaming/Tropico 5/Save/"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "Tropico5"
+        },
+        "MaxSizeMB": {
+          "type": "STRING",
+          "value": "8000"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "7015c51a49be4592b5ba3ae2577723c5"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "[]"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "Tropico 5",
+      "developer": "Kalypso Media Group GmbH",
+      "developerId": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+      "endOfSupport": false,
+      "entitlementName": "4405df59a04549e28eae43b8e308b038",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "egstore"
+      ],
+      "id": "4405df59a04549e28eae43b8e308b038",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 1080,
+          "md5": "bc07360268fcba08b9368670d7d8a40b",
+          "size": 928326,
+          "type": "DieselGameBox",
+          "uploadedDate": "2020-11-16T15:17:32.184Z",
+          "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S5-1920x1080-bc07360268fcba08b9368670d7d8a40b.jpg",
+          "width": 1920
+        },
+        {
+          "height": 1600,
+          "md5": "e61be120538ecdbc6e43c24605d8eac5",
+          "size": 946922,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2020-11-16T15:17:42.585Z",
+          "url": "https://cdn1.epicgames.com/7015c51a49be4592b5ba3ae2577723c5/item/EGS_Tropico5_HaemimontGames_S6-1200x1600-e61be120538ecdbc6e43c24605d8eac5.jpg",
+          "width": 1200
+        }
+      ],
+      "lastModifiedDate": "2021-04-09T16:21:06.794Z",
+      "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+      "releaseInfo": [
+        {
+          "appId": "e4867c438f854da5a1d1f8c8609cac22",
+          "dateAdded": "2020-05-08T00:00:00.000Z",
+          "id": "ca873087f6d442739f807a80138a63a5",
+          "platform": [
+            "Windows"
+          ]
+        }
+      ],
+      "status": "ACTIVE",
+      "title": "Tropico 5",
+      "unsearchable": false
+    },
+    "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+    "releaseInfo": [
+      {
+        "appId": "8b5f1c51be3844bab51e2ee1089839f5",
+        "dateAdded": "2020-05-08T00:00:00.000Z",
+        "id": "e5bea0f683f345918aeb03a62970e691",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Map Pack",
+    "unsearchable": false
+  }
+}

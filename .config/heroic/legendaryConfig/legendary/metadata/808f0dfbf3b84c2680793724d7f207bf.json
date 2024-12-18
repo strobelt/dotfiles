@@ -1,0 +1,128 @@
+{
+  "app_name": "808f0dfbf3b84c2680793724d7f207bf",
+  "app_title": "Hand of Fate 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "808f0dfbf3b84c2680793724d7f207bf",
+      "asset_id": "808f0dfbf3b84c2680793724d7f207bf",
+      "build_version": "1.9.91_54131_Win64_Live",
+      "catalog_item_id": "d0053dc6d39649b1b40a0e1e9f6bde31",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45672UyNmhzCugc3hVVohIy3OWqs",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-14T22:13:52.174Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "player_data.profile"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Defiant Development/Hand of Fate 2/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/Defiant Development/Hand of Fate 2/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "HandOfFate2"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "5000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "eb348461cdaf4bec9d69a1c4bb39ecc4"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Hand of Fate 2",
+    "developer": "Defiant Development PTY LTD",
+    "developerId": "o-263x4kmewy3sltg46p3ccce2aqmypf",
+    "endOfSupport": false,
+    "entitlementName": "d0053dc6d39649b1b40a0e1e9f6bde31",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d0053dc6d39649b1b40a0e1e9f6bde31",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "aa240451a12ea5498a054e4eab21eef4",
+        "size": 1004479,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-14T20:09:03.231Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S1_2560x1440-aa240451a12ea5498a054e4eab21eef4",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "30c02fa77e675a39bbdfa5c0fab19894",
+        "size": 945650,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-14T20:09:07.343Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HandofFate2_DefiantDevelopment_S2_1200x1600-30c02fa77e675a39bbdfa5c0fab19894",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-05-06T19:31:52.753Z",
+    "namespace": "eb348461cdaf4bec9d69a1c4bb39ecc4",
+    "releaseInfo": [
+      {
+        "appId": "808f0dfbf3b84c2680793724d7f207bf",
+        "dateAdded": "2021-01-14T00:00:00.000Z",
+        "id": "79a80f9cf8b94a5597e8c64fc5262652",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Hand of Fate 2",
+    "unsearchable": false
+  }
+}

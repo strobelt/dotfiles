@@ -1,0 +1,117 @@
+{
+  "app_name": "a21fd90517bf428eb7c995a8c3261722",
+  "app_title": "Black Widow: Recharged",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a21fd90517bf428eb7c995a8c3261722",
+      "asset_id": "a21fd90517bf428eb7c995a8c3261722",
+      "build_version": "5",
+      "catalog_item_id": "fb634bf74ef24e8e9a48af9704e3e9e0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a25444fc25e9498781983b58ceba30c5"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567o5H4ZyL7taV91BEXZz1udL5X",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-06-02T17:43:43.509Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudIncludeList": {
+        "type": "STRING",
+        "value": "saveFile.sav"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Atari Inc_/Black_Widow_Recharged/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "BlackWidowRecharged"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a25444fc25e9498781983b58ceba30c5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Black Widow: Recharged",
+    "developer": "Atari",
+    "developerId": "o-bhpk86rgthezed539g3hb5avacecqt",
+    "endOfSupport": false,
+    "entitlementName": "fb634bf74ef24e8e9a48af9704e3e9e0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "fb634bf74ef24e8e9a48af9704e3e9e0",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "7c803f4fe9f510f0af76a2099d16aff7",
+        "size": 1017908,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-10-20T01:58:26.833Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackWidowRecharged_AdamVisionSneakyBox_S1_2560x1440-7c803f4fe9f510f0af76a2099d16aff7",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d2fd7ae525a6162f045ea4f1337db25c",
+        "size": 1008457,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-10-20T01:58:29.899Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackWidowRecharged_AdamVisionSneakyBox_S2_1200x1600-d2fd7ae525a6162f045ea4f1337db25c",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-21T05:39:53.546Z",
+    "namespace": "a25444fc25e9498781983b58ceba30c5",
+    "releaseInfo": [
+      {
+        "appId": "a21fd90517bf428eb7c995a8c3261722",
+        "compatibleApps": [],
+        "dateAdded": "2022-10-05T14:48:53.085Z",
+        "id": "958f74b380ed4034ab7ca960cd382040",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Black Widow: Recharged",
+    "unsearchable": true
+  }
+}

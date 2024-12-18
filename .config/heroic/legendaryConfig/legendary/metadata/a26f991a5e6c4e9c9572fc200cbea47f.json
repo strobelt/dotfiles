@@ -1,0 +1,194 @@
+{
+  "app_name": "a26f991a5e6c4e9c9572fc200cbea47f",
+  "app_title": "Neon Abyss",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a26f991a5e6c4e9c9572fc200cbea47f",
+      "asset_id": "a26f991a5e6c4e9c9572fc200cbea47f",
+      "build_version": "Release_81",
+      "catalog_item_id": "9f8b358c04674a719564b1f65f95a601",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "b0ebefb11a9145488af78f6d2488afff"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi456786IR3j1McoO3q36KE70Fs17f",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-29T03:53:41.562Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Team17 Digital Limited/Neon Abyss/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "NeonAbyss"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "b0ebefb11a9145488af78f6d2488afff"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Neon Abyss",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-13T13:12:45.356Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Lovable Rogues DLC Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "a2b123406d9546c091033ec57688fb64",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a2b123406d9546c091033ec57688fb64",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-04-05T22:21:45.715Z",
+        "mainGameItem": {
+          "id": "9f8b358c04674a719564b1f65f95a601",
+          "namespace": "b0ebefb11a9145488af78f6d2488afff",
+          "unsearchable": false
+        },
+        "namespace": "b0ebefb11a9145488af78f6d2488afff",
+        "status": "ACTIVE",
+        "title": "Lovable Rogues DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-21T00:17:29.791Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DLC02 Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "4e76074cb7104f5aa715c5b7e2d7d102",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4e76074cb7104f5aa715c5b7e2d7d102",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-04-01T15:50:09.268Z",
+        "mainGameItem": {
+          "id": "9f8b358c04674a719564b1f65f95a601",
+          "namespace": "b0ebefb11a9145488af78f6d2488afff",
+          "unsearchable": false
+        },
+        "namespace": "b0ebefb11a9145488af78f6d2488afff",
+        "status": "ACTIVE",
+        "title": "DLC02 Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "9f8b358c04674a719564b1f65f95a601",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "9f8b358c04674a719564b1f65f95a601",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a5d38c2d5a422a1c7682082d64343e2b",
+        "size": 801447,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-09T16:48:04.377Z",
+        "url": "https://cdn1.epicgames.com/b0ebefb11a9145488af78f6d2488afff/item/EGS_NeonAbyss_VeewoGames_S1-2560x1440-a5d38c2d5a422a1c7682082d64343e2b.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "938641f8dd1d12f01c673524e11866d0",
+        "size": 767328,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-09T16:48:14.203Z",
+        "url": "https://cdn1.epicgames.com/b0ebefb11a9145488af78f6d2488afff/item/EGS_NeonAbyss_VeewoGames_S2-1200x1600-938641f8dd1d12f01c673524e11866d0.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-04-05T22:21:45.712Z",
+    "namespace": "b0ebefb11a9145488af78f6d2488afff",
+    "releaseInfo": [
+      {
+        "appId": "a26f991a5e6c4e9c9572fc200cbea47f",
+        "dateAdded": "2020-06-29T00:00:00.000Z",
+        "id": "45e5fe07488b4ccaad5bc81a0d5c7f30",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Neon Abyss",
+    "unsearchable": false
+  }
+}

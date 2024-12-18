@@ -1,0 +1,116 @@
+{
+  "app_name": "Flagfin",
+  "app_title": "Tacoma",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Flagfin",
+      "asset_id": "Flagfin",
+      "build_version": "1.0",
+      "catalog_item_id": "433a4f6836b34a05b8371f7a51d31d0a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "675f47ac5d5847f59badceea5b0950cf"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-02-19T16:37:48.888Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Fullbright/Tacoma/"
+      },
+      "CloudSaveFolder_MAC": {
+        "type": "STRING",
+        "value": "{UserLibrary}/Application Support/com.fullbright.tacoma/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Tacoma"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "675f47ac5d5847f59badceea5b0950cf"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Tacoma",
+    "developer": "Arbor Hill Productions",
+    "developerId": "o-x2q647t4d5t8gt6qy45bazzb7kvqlb",
+    "endOfSupport": false,
+    "entitlementName": "433a4f6836b34a05b8371f7a51d31d0a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "433a4f6836b34a05b8371f7a51d31d0a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "d62cef4070b0260170c22a4954d3a233",
+        "size": 746840,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-09T17:22:45.461Z",
+        "url": "https://cdn1.epicgames.com/675f47ac5d5847f59badceea5b0950cf/item/EGS_Tacoma_Fullbright_S1-2560x1440-d62cef4070b0260170c22a4954d3a233.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "d0a63ac709b709823a601d845bc2c74b",
+        "size": 449483,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-09T17:22:57.122Z",
+        "url": "https://cdn1.epicgames.com/675f47ac5d5847f59badceea5b0950cf/item/EGS_Tacoma_Fullbright_S2-1200x1600-d0a63ac709b709823a601d845bc2c74b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-07-23T15:07:49.977Z",
+    "namespace": "675f47ac5d5847f59badceea5b0950cf",
+    "releaseInfo": [
+      {
+        "appId": "Flagfin",
+        "dateAdded": "2020-03-09T00:00:00.000Z",
+        "id": "8bdbc24b5a804e5fa9f4a5ae666f3767",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Tacoma",
+    "unsearchable": true
+  }
+}

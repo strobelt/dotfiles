@@ -1,0 +1,108 @@
+{
+  "app_name": "5b41454974be4d5883056ba298e53675",
+  "app_title": "Shadowrun: Dragonfall - Director\u2019s Cut",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5b41454974be4d5883056ba298e53675",
+      "asset_id": "5b41454974be4d5883056ba298e53675",
+      "build_version": "1.0.0",
+      "catalog_item_id": "fd1d31227d1d405eb68a9a3bbdd029d0",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "805a1b31b65f4c3db221ab242f894482"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-18T16:15:40.905Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ShadowrunDragonfall"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "805a1b31b65f4c3db221ab242f894482"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Shadowrun: Dragonfall - Director\u2019s Cut",
+    "developer": "Paradox Interactive",
+    "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "endOfSupport": false,
+    "entitlementName": "fd1d31227d1d405eb68a9a3bbdd029d0",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && paradoxinteractive)"
+    ],
+    "id": "fd1d31227d1d405eb68a9a3bbdd029d0",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "97729d8febc2d0cee01869eabde8216b",
+        "size": 997448,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-20T04:13:08.403Z",
+        "url": "https://cdn1.epicgames.com/805a1b31b65f4c3db221ab242f894482/item/EGS_ShadowrunDragonfallDirectorCut_HarebrainedSchemes_S1-2560x1440-97729d8febc2d0cee01869eabde8216b.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1cd6cd1d1b0a24e7925aa3db3a13ca69",
+        "size": 980353,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-20T04:13:19.411Z",
+        "url": "https://cdn1.epicgames.com/805a1b31b65f4c3db221ab242f894482/item/EGS_ShadowrunDragonfallDirectorCut_HarebrainedSchemes_S2-1200x1600-1cd6cd1d1b0a24e7925aa3db3a13ca69.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-02T16:23:23.138Z",
+    "namespace": "805a1b31b65f4c3db221ab242f894482",
+    "releaseInfo": [
+      {
+        "appId": "5b41454974be4d5883056ba298e53675",
+        "dateAdded": "2020-06-18T00:00:00.000Z",
+        "id": "e9f99591742f4a8da6fb2b432b665c48",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Shadowrun: Dragonfall - Director\u2019s Cut",
+    "unsearchable": false
+  }
+}

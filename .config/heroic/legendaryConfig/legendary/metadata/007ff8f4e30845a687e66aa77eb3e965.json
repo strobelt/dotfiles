@@ -1,0 +1,162 @@
+{
+  "app_name": "007ff8f4e30845a687e66aa77eb3e965",
+  "app_title": "Ghostwire Tokyo",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "007ff8f4e30845a687e66aa77eb3e965",
+      "asset_id": "007ff8f4e30845a687e66aa77eb3e965",
+      "build_version": "CL642509-A",
+      "catalog_item_id": "d0083c0713b140709d92ac02b179cbf2",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "a93cd6111251461c953776a0c4ea4d80"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi45674YWlfOOMopKMCbUmsfgfbZda",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-09-27T20:09:48.302Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "Config/CrashReportClient/,Logs/"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserSavedGames}/TangoGameworks/GhostWire Tokyo (EGS)/Saved/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "GhostwireTokyo"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "a93cd6111251461c953776a0c4ea4d80"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Ghostwire Tokyo",
+    "developer": "Bethesda Softworks LLC",
+    "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-04-29T17:11:38.932Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "kodiak Deluxe Upgrade audience",
+        "developer": "Bethesda Softworks LLC",
+        "developerId": "o-bthbhn6wd7fzj73v5p4436ucn3k37u",
+        "endOfSupport": false,
+        "entitlementName": "b33a169bf534408dab36a3fcf787ad7e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b33a169bf534408dab36a3fcf787ad7e",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-21T23:04:19.911Z",
+        "mainGameItem": {
+          "id": "d0083c0713b140709d92ac02b179cbf2",
+          "namespace": "a93cd6111251461c953776a0c4ea4d80",
+          "unsearchable": false
+        },
+        "namespace": "a93cd6111251461c953776a0c4ea4d80",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "kodiak Deluxe Upgrade audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d0083c0713b140709d92ac02b179cbf2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && ghostwiretokyo)"
+    ],
+    "id": "d0083c0713b140709d92ac02b179cbf2",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4bc1a83c819408d33e29e61f1a9d66e4",
+        "size": 1014513,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-02-03T23:47:22.302Z",
+        "url": "https://cdn1.epicgames.com/item/a93cd6111251461c953776a0c4ea4d80/ghostwire_wide_2560x1440-4bc1a83c819408d33e29e61f1a9d66e4",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7b8a36d1dfe782ed625e6c6bba487df9",
+        "size": 580258,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-02-03T23:47:33.415Z",
+        "url": "https://cdn1.epicgames.com/item/a93cd6111251461c953776a0c4ea4d80/ghostwire_tall_1200x1600-7b8a36d1dfe782ed625e6c6bba487df9",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-17T15:41:05.459Z",
+    "namespace": "a93cd6111251461c953776a0c4ea4d80",
+    "releaseInfo": [
+      {
+        "appId": "007ff8f4e30845a687e66aa77eb3e965",
+        "id": "ff5eccc004124100a7130cd04997e655",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Ghostwire Tokyo",
+    "unsearchable": true
+  }
+}

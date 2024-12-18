@@ -1,0 +1,3 @@
+2024/08/11-21:42:36.194 c18a Reusing MANIFEST /home/strobelt/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/11-21:42:36.194 c18a Recovering log #3
+2024/08/11-21:42:36.194 c18a Reusing old log /home/strobelt/.config/heroic/Partitions/epicstore/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000003.log 

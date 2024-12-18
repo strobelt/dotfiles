@@ -1,0 +1,108 @@
+{
+  "app_name": "890d9cf396d04922a1559333df419fed",
+  "app_title": "Shadow of the Tomb Raider: Definitive Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "890d9cf396d04922a1559333df419fed",
+      "asset_id": "890d9cf396d04922a1559333df419fed",
+      "build_version": "TR11_10072023_492.0_1227914_740629_133334955480774690_",
+      "catalog_item_id": "a61625d8a2e04a4aaf033312c649616c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4b5461ca8d1c488787b5200b420de066"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567VRLIoGOwWXvNS78Jpqo41bCr",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-05-13T16:42:37.046Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ShadowoftheTombRaider"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4b5461ca8d1c488787b5200b420de066"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Shadow of the Tomb Raider: Definitive Edition",
+    "developer": "Crystal Dynamics, Inc.",
+    "developerId": "o-8tl6n9gzcfp4vtnqb5v64b4wvne46t",
+    "endOfSupport": false,
+    "entitlementName": "a61625d8a2e04a4aaf033312c649616c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a61625d8a2e04a4aaf033312c649616c",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "193582a5fd76a593804e0171d6395cf4",
+        "size": 496486,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-12-25T16:55:28.756Z",
+        "url": "https://cdn1.epicgames.com/item/4b5461ca8d1c488787b5200b420de066/egs-shadowofthetombraiderdefinitiveedition-eidosmontralcrystaldynamicsnixxessoftware-s1-2560x1440-eca6506e95a1_2560x1440-193582a5fd76a593804e0171d6395cf4",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "950cdb624cc75d04fe3c8c0b62ce98de",
+        "size": 304379,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-12-25T16:55:23.457Z",
+        "url": "https://cdn1.epicgames.com/item/4b5461ca8d1c488787b5200b420de066/egs-shadowofthetombraiderdefinitiveedition-eidosmontralcrystaldynamicsnixxessoftware-s4-1200x1600-7ee40d6fa744_1200x1600-950cdb624cc75d04fe3c8c0b62ce98de",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-20T13:35:36.418Z",
+    "namespace": "4b5461ca8d1c488787b5200b420de066",
+    "releaseInfo": [
+      {
+        "appId": "890d9cf396d04922a1559333df419fed",
+        "compatibleApps": [],
+        "dateAdded": "2024-05-20T13:35:38.954Z",
+        "id": "375bc8f103f64f799d74f23c53a3abc6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Shadow of the Tomb Raider: Definitive Edition",
+    "unsearchable": true
+  }
+}

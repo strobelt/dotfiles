@@ -1,0 +1,107 @@
+{
+  "app_name": "860a4feefe2a4f48905ae86c61d5db64",
+  "app_title": "Lifeless Planet: Premier Edition",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "860a4feefe2a4f48905ae86c61d5db64",
+      "asset_id": "860a4feefe2a4f48905ae86c61d5db64",
+      "build_version": "1.0.0",
+      "catalog_item_id": "a3e6fab1a6e04e35b407207591544ac5",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9ce4c6f216cf43e7ba5eff1045b6e08d"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-20T00:29:51.025Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "LifelessPlanet"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "9ce4c6f216cf43e7ba5eff1045b6e08d"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Lifeless Planet: Premier Edition",
+    "developer": "Serenity Forge",
+    "developerId": "o-256f2bc2a35049a39ceae0f57d01bb",
+    "endOfSupport": false,
+    "entitlementName": "a3e6fab1a6e04e35b407207591544ac5",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "a3e6fab1a6e04e35b407207591544ac5",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a466b8c6b0f8d8b850fdd839216a9ad1",
+        "size": 946704,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-07-02T14:43:03.904Z",
+        "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/item/EGS_LifelessPlanetPremierEdition_Stage2Studios_S1-2560x1440-a466b8c6b0f8d8b850fdd839216a9ad1.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5f4d14bd88796e69a924d7a53d786f8a",
+        "size": 763394,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-07-02T14:43:15.802Z",
+        "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/item/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-07-09T15:06:30.429Z",
+    "namespace": "9ce4c6f216cf43e7ba5eff1045b6e08d",
+    "releaseInfo": [
+      {
+        "appId": "860a4feefe2a4f48905ae86c61d5db64",
+        "dateAdded": "2020-06-20T00:00:00.000Z",
+        "id": "f546fb5da6c1444c80ce12c9770e5f0d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Lifeless Planet: Premier Edition",
+    "unsearchable": true
+  }
+}

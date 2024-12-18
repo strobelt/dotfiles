@@ -1,0 +1,114 @@
+{
+  "app_name": "6d564ff21f9c45b7b782b7113ad60be8",
+  "app_title": "Pine",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "6d564ff21f9c45b7b782b7113ad60be8",
+      "asset_id": "6d564ff21f9c45b7b782b7113ad60be8",
+      "build_version": "Patch 13",
+      "catalog_item_id": "f7a2afa44ab24dcdbf31f36106bc570f",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-01-13T23:20:29.275Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Twirlbound/Pine/saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Pine"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "7e1b3a8e19c949c0bfaed0424a8c4bb5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Pine",
+    "developer": "Kongregate",
+    "developerId": "o-ztdpxjrm7lyemkjl4967l76k4vzxfr",
+    "endOfSupport": false,
+    "entitlementName": "f7a2afa44ab24dcdbf31f36106bc570f",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "f7a2afa44ab24dcdbf31f36106bc570f",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "9070fe88ec21432ce9234327f3164eb5",
+        "size": 436880,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-04-28T20:48:06.564Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/940a3561-eebf-4c61-8079-69da737bc4b4_2560x1440-9070fe88ec21432ce9234327f3164eb5",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "429cae2dfc059c193e15ae17ba36bb2d",
+        "size": 353479,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-04-28T20:48:15.284Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/4dc9b96e-73f8-45a5-be20-b0f3a2405d62_1200x1600-429cae2dfc059c193e15ae17ba36bb2d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-05-11T14:36:36.824Z",
+    "namespace": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
+    "releaseInfo": [
+      {
+        "appId": "6d564ff21f9c45b7b782b7113ad60be8",
+        "dateAdded": "2021-01-13T00:00:00.000Z",
+        "id": "3b2f90967d0c4ca0898c22ff38e9441d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Pine",
+    "unsearchable": false
+  }
+}

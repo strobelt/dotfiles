@@ -1,0 +1,237 @@
+{
+  "app_name": "Jay",
+  "app_title": "The Messenger",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Jay",
+      "asset_id": "Jay",
+      "build_version": "2.0.2.4",
+      "catalog_item_id": "adb023dbbb754ec0b88d7912bc747e5d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "836e22516e7641219b20d1b5d5b814d5"
+      },
+      "namespace": "752368fdba244e9386023cfb2b9d6ceb"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T14:24:53.114Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/Sabotage Studio/The Messenger/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheMessenger"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "752368fdba244e9386023cfb2b9d6ceb"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Messenger",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-09-20T17:25:47.873Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "PicnicPanic"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "752368fdba244e9386023cfb2b9d6ceb"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "The Messenger Picnic Panic",
+        "developer": "Devolver Digital, Inc.",
+        "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+        "endOfSupport": false,
+        "entitlementName": "9c95265f03fd44eb916b4f0b68d96fdf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9c95265f03fd44eb916b4f0b68d96fdf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "0466026af367640bd29a5052f326b1e7",
+            "size": 541703,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-11-13T18:34:35.337Z",
+            "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/item/Sabotage_PicnicPanic-2560x1440-0466026af367640bd29a5052f326b1e7.jpg",
+            "width": 2560
+          },
+          {
+            "height": 420,
+            "md5": "6b715bcdcd8d7ace25ec786ec82dda6a",
+            "size": 75843,
+            "type": "DieselGameBoxLogo",
+            "uploadedDate": "2019-11-13T18:35:03.531Z",
+            "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/item/ColorPicnicPanicLogo-986x420-6b715bcdcd8d7ace25ec786ec82dda6a.png",
+            "width": 986
+          },
+          {
+            "height": 1440,
+            "md5": "f1232fd3929b62f0f6e0eecce04120c4",
+            "size": 268204,
+            "type": "DieselStoreFrontTall",
+            "uploadedDate": "2019-11-13T18:35:12.463Z",
+            "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/item/PicnicPanic_Portrait-1280x1440-f1232fd3929b62f0f6e0eecce04120c4.jpg",
+            "width": 1280
+          }
+        ],
+        "lastModifiedDate": "2019-11-14T15:46:56.738Z",
+        "mainGameItem": {
+          "id": "adb023dbbb754ec0b88d7912bc747e5d",
+          "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+          "unsearchable": false
+        },
+        "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+        "releaseInfo": [
+          {
+            "appId": "JayDLC1",
+            "dateAdded": "2019-09-10T00:00:00.000Z",
+            "id": "001fe5a54540411586e81210b3d9f195",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "The Messenger Picnic Panic",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "adb023dbbb754ec0b88d7912bc747e5d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "adb023dbbb754ec0b88d7912bc747e5d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 420,
+        "md5": "7d036d8b7ff2c9a37498d5bd137893a1",
+        "size": 463454,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-11-07T19:25:03.967Z",
+        "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/item/egs_sabotage_themessenger_ic1_colormessengerlogo-986x420-7d036d8b7ff2c9a37498d5bd137893a1.png",
+        "width": 986
+      },
+      {
+        "height": 1440,
+        "md5": "8678ae1ba88a22f478195cbb135d8cb3",
+        "size": 288360,
+        "type": "DieselStoreFrontTall",
+        "uploadedDate": "2019-11-13T18:38:38.260Z",
+        "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/item/TheMessenger_Portrait-1280x1440-8678ae1ba88a22f478195cbb135d8cb3.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "md5": "2cd7b73092e99846272a1d3eedcce5f1",
+        "size": 1316440,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-11-14T16:05:14.076Z",
+        "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/item/egs_sabotage_themessenger_n2_2560x1440-2560x1440-2cd7b73092e99846272a1d3eedcce5f1.png",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "md5": "39da361d51204d1d3c9707bfd3b9b2ea",
+        "size": 306683,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/item/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:03:55.396Z",
+    "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+    "releaseInfo": [
+      {
+        "appId": "Jay",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "6213bc19aff8491eab02c2f49f4bd915",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Messenger",
+    "unsearchable": false
+  }
+}

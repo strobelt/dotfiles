@@ -1,0 +1,104 @@
+{
+  "app_name": "Cobra",
+  "app_title": "My Time at Portia",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Cobra",
+      "asset_id": "Cobra",
+      "build_version": "2.0.20210813",
+      "catalog_item_id": "6efea4a9591045ae82c5beed63e59327",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "cobra"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-01-04T19:36:11.527Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MyTimeAtPortia"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "cobra"
+      }
+    },
+    "description": "My Time at Portia",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "endOfSupport": false,
+    "entitlementName": "6efea4a9591045ae82c5beed63e59327",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "6efea4a9591045ae82c5beed63e59327",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 580,
+        "md5": "910e41e751b04e8114c1826a5e98c3bc",
+        "size": 188331,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-01-11T21:49:00.447Z",
+        "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_SecondaryPromo-1032x580-910e41e751b04e8114c1826a5e98c3bc.png",
+        "width": 1032
+      },
+      {
+        "height": 960,
+        "md5": "337267f3a1fbf1e0d6b3370c1edfba52",
+        "size": 384751,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-03-11T15:48:52.937Z",
+        "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_GameLogoColour_PNGNewSize-2235x960-337267f3a1fbf1e0d6b3370c1edfba52.png",
+        "width": 2235
+      },
+      {
+        "height": 960,
+        "md5": "8cf010d5d5a432a0f85c669e616baa1b",
+        "size": 225130,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/cobra/item/MyTimeAtPortia_tall-865x960-8cf010d5d5a432a0f85c669e616baa1b.png",
+        "width": 865
+      }
+    ],
+    "lastModifiedDate": "2020-04-07T15:11:20.335Z",
+    "namespace": "cobra",
+    "releaseInfo": [
+      {
+        "appId": "Cobra",
+        "compatibleApps": [],
+        "dateAdded": "2019-01-04T00:00:00.000Z",
+        "id": "e7c1cc49c7b04c1aae4b4e7f4dcd4859",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "My Time at Portia",
+    "unsearchable": false
+  }
+}

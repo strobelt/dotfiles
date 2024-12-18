@@ -1,0 +1,497 @@
+{
+  "app_name": "36cbf259e631478eaac6ea244e55a709",
+  "app_title": "Darkest Dungeon\u00ae",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "36cbf259e631478eaac6ea244e55a709",
+      "asset_id": "36cbf259e631478eaac6ea244e55a709",
+      "build_version": "25681.8",
+      "catalog_item_id": "b4eecf70e3fe4e928b78df7855a3fc2d",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "f512a8e4012243729e4b4d4cedda9b4b"
+      },
+      "namespace": "21916c391ae4425d8f6cce2382aebd0c"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-11-21T00:49:57.388Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/Darkest/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DarkestDungeon"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "21916c391ae4425d8f6cce2382aebd0c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Darkest Dungeon\u00ae",
+    "developer": "Red Hook Studios",
+    "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-15T02:30:56.951Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "21916c391ae4425d8f6cce2382aebd0c"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Darkest Dungeon\u00ae: The Shieldbreaker",
+        "developer": "Red Hook Studios",
+        "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+        "endOfSupport": false,
+        "entitlementName": "05f9e2a1e69b4c3b9f735cee08b1ef10",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "05f9e2a1e69b4c3b9f735cee08b1ef10",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "debb61b3b76b8174d2e6a89ec4756fc3",
+            "size": 944245,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-12-21T18:29:17.846Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheShieldbreaker_RedHookStudios_DLC_S1-2560x1440-debb61b3b76b8174d2e6a89ec4756fc3.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "910d88459430faa75b6c993605f21ef4",
+            "size": 1045413,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-12-21T18:29:28.739Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheShieldbreaker_RedHookStudios_DLC_S2-1200x1600-910d88459430faa75b6c993605f21ef4.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-12-25T15:12:15.318Z",
+        "mainGameItem": {
+          "id": "b4eecf70e3fe4e928b78df7855a3fc2d",
+          "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+          "unsearchable": false
+        },
+        "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+        "releaseInfo": [
+          {
+            "appId": "3c41a250f85643359ebed101468a0b6c",
+            "dateAdded": "2020-11-21T00:00:00.000Z",
+            "id": "1270266062134a3580002c301bc635ba",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Darkest Dungeon\u00ae: The Shieldbreaker",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-15T02:33:56.673Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "21916c391ae4425d8f6cce2382aebd0c"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Darkest Dungeon\u00ae: The Color of Madness",
+        "developer": "Red Hook Studios",
+        "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+        "endOfSupport": false,
+        "entitlementName": "39e89cd6b156476580b087260c5716dc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "39e89cd6b156476580b087260c5716dc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "c5cc2110deddf3bcdcdc9546b54f084c",
+            "size": 909529,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-12-21T18:30:06.509Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheColorofMadness_RedHookStudios_DLC_S1-2560x1440-c5cc2110deddf3bcdcdc9546b54f084c.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "8b2a3eb6c8405978ec46fcf2ca2ab954",
+            "size": 849104,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-12-21T18:30:14.667Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheColorofMadness_RedHookStudios_DLC_S2-1200x1600-8b2a3eb6c8405978ec46fcf2ca2ab954.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-12-25T15:12:15.329Z",
+        "mainGameItem": {
+          "id": "b4eecf70e3fe4e928b78df7855a3fc2d",
+          "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+          "unsearchable": false
+        },
+        "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+        "releaseInfo": [
+          {
+            "appId": "8cd72813dc0b44f5afd4f4a6cc584d68",
+            "dateAdded": "2020-11-21T00:00:00.000Z",
+            "id": "1270266062134a3580002c301bc635ba",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Darkest Dungeon\u00ae: The Color of Madness",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-15T02:19:57.649Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "21916c391ae4425d8f6cce2382aebd0c"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Darkest Dungeon\u00ae: The Crimson Court",
+        "developer": "Red Hook Studios",
+        "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+        "endOfSupport": false,
+        "entitlementName": "94fece224c62411f8cfec48792c294da",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "94fece224c62411f8cfec48792c294da",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "fe967a9b6d7b0b6abb3faf8bd89fc464",
+            "size": 898060,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-12-21T18:28:22.072Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheCrimsonCourt_RedHookStudios_DLC_S1-2560x1440-fe967a9b6d7b0b6abb3faf8bd89fc464.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "cb84bdd5422b9ed018a4cea5e43c4ec8",
+            "size": 787386,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-12-21T18:28:30.208Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheCrimsonCourt_RedHookStudios_DLC_S2-1200x1600-cb84bdd5422b9ed018a4cea5e43c4ec8.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-12-25T15:12:15.338Z",
+        "mainGameItem": {
+          "id": "b4eecf70e3fe4e928b78df7855a3fc2d",
+          "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+          "unsearchable": false
+        },
+        "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+        "releaseInfo": [
+          {
+            "appId": "6410698493c64f32bc6e5bfd8fad9dc5",
+            "dateAdded": "2020-11-21T00:00:00.000Z",
+            "id": "1270266062134a3580002c301bc635ba",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Darkest Dungeon\u00ae: The Crimson Court",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-12-16T02:04:55.052Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "21916c391ae4425d8f6cce2382aebd0c"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "[]"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "Darkest Dungeon\u00ae: The Musketeer",
+        "developer": "Red Hook Studios",
+        "developerId": "o-w5yb6awebxmp362nvut3qd3xb4jmur",
+        "endOfSupport": false,
+        "entitlementName": "ca9b737c67074a9e9b4e43a0b78a3caf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ca9b737c67074a9e9b4e43a0b78a3caf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "85a6bec21cc6de2d3d21266ddf6bc482",
+            "size": 812110,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-12-21T18:26:56.001Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheMusketeer_RedHookStudios_DLC_S1-2560x1440-85a6bec21cc6de2d3d21266ddf6bc482.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "09c129814201fa921fae23074dfde858",
+            "size": 690301,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-12-21T18:27:02.495Z",
+            "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeonTheMusketeer_RedHookStudios_DLC_S2-1200x1600-09c129814201fa921fae23074dfde858.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-12-25T15:12:15.345Z",
+        "mainGameItem": {
+          "id": "b4eecf70e3fe4e928b78df7855a3fc2d",
+          "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+          "unsearchable": false
+        },
+        "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+        "releaseInfo": [
+          {
+            "appId": "e9c881bda9744b3b8513cd5419565a0d",
+            "dateAdded": "2020-11-21T00:00:00.000Z",
+            "id": "1270266062134a3580002c301bc635ba",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Darkest Dungeon\u00ae: The Musketeer",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b4eecf70e3fe4e928b78df7855a3fc2d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b4eecf70e3fe4e928b78df7855a3fc2d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "2be182928926fc00b92de0af67f12898",
+        "size": 918803,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-21T18:22:39.619Z",
+        "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeon_RedHookStudios_S1-2560x1440-2be182928926fc00b92de0af67f12898.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1888311b95f43a3b02df2c452bd4ffee",
+        "size": 627134,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-21T18:23:05.891Z",
+        "url": "https://cdn1.epicgames.com/21916c391ae4425d8f6cce2382aebd0c/item/EGS_DarkestDungeon_RedHookStudios_S2-1200x1600-1888311b95f43a3b02df2c452bd4ffee.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-05-08T15:49:13.752Z",
+    "namespace": "21916c391ae4425d8f6cce2382aebd0c",
+    "releaseInfo": [
+      {
+        "appId": "36cbf259e631478eaac6ea244e55a709",
+        "dateAdded": "2020-11-21T00:00:00.000Z",
+        "id": "1270266062134a3580002c301bc635ba",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Darkest Dungeon\u00ae",
+    "unsearchable": true
+  }
+}

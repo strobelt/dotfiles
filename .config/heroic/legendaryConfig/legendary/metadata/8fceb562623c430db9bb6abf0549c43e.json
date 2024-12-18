@@ -1,0 +1,108 @@
+{
+  "app_name": "8fceb562623c430db9bb6abf0549c43e",
+  "app_title": "Pathway",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "8fceb562623c430db9bb6abf0549c43e",
+      "asset_id": "8fceb562623c430db9bb6abf0549c43e",
+      "build_version": "1.4.0_windows64",
+      "catalog_item_id": "2e095e45bbac4b1e81cd5036adc1cf1b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "eb9117fdc2a1493ba4e8a4e1d2286e2f"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-05-13T18:57:23.464Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Pathway"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "eb9117fdc2a1493ba4e8a4e1d2286e2f"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Pathway",
+    "developer": "Robotality",
+    "developerId": "o-63wkbbq7yx9ek36vmkhzamz3rexmu4",
+    "endOfSupport": false,
+    "entitlementName": "2e095e45bbac4b1e81cd5036adc1cf1b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "2e095e45bbac4b1e81cd5036adc1cf1b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3c9cef48c884fed691d26282e4c87d19",
+        "size": 801901,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-11T13:21:02.465Z",
+        "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/item/EGS_Pathway_Robotality_S1-2560x1440-3c9cef48c884fed691d26282e4c87d19.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "10b3574cdc63baa7b1e90e04a4b6fe9e",
+        "size": 585299,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-11T13:21:12.757Z",
+        "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/item/EGS_Pathway_Robotality_S2-1200x1600-10b3574cdc63baa7b1e90e04a4b6fe9e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2020-06-23T14:15:12.447Z",
+    "namespace": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
+    "releaseInfo": [
+      {
+        "appId": "8fceb562623c430db9bb6abf0549c43e",
+        "dateAdded": "2020-06-08T00:00:00.000Z",
+        "id": "cd5c82b284864241a8e5c5dffb139ae3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Pathway",
+    "unsearchable": true
+  }
+}

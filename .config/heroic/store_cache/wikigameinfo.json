@@ -1,0 +1,87 @@
+{
+	"Gloomhaven": {
+		"pcgamingwiki": {
+			"steamID": "780290",
+			"howLongToBeatID": "69273",
+			"metacritic": {
+				"score": "82",
+				"urlid": "gloomhaven"
+			},
+			"opencritic": {
+				"score": "75",
+				"urlid": "12137/gloomhaven"
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Board",
+				"TacticalRPG"
+			],
+			"releaseDate": [
+				"Windows: October 20, 2021",
+				"OS X: November 25, 2021|ref=<ref>{{Refurl|url=https://store.steampowered.com/news/app/780290/view/3100161483701046655|title=Steam News - Gloomhaven - MacOS Release & Development Update|date=2021-11-28"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "780290"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		},
+		"umuId": null
+	},
+	"__timestamp": {
+		"Gloomhaven": "Sun Aug 11 2024 21:34:30 GMT-0300 (Horário Padrão de Brasília)",
+		"Stardew Valley": "Sun Aug 11 2024 22:06:12 GMT-0300 (Horário Padrão de Brasília)"
+	},
+	"Stardew Valley": {
+		"pcgamingwiki": {
+			"steamID": "413150",
+			"howLongToBeatID": "34716",
+			"metacritic": {
+				"score": "89",
+				"urlid": "stardew-valley"
+			},
+			"opencritic": {
+				"score": "90",
+				"urlid": "2242/stardew-valley"
+			},
+			"igdb": {
+				"score": "91",
+				"urlid": "stardew-valley"
+			},
+			"direct3DVersions": [
+				"9.0c"
+			],
+			"genres": [
+				"RPG",
+				"Building",
+				"Farming",
+				"Lifesim"
+			],
+			"releaseDate": [
+				"Windows: February 26, 2016|ref=<ref>{{Refurl|url=https://steamcommunity.com/games/413150/announcements/detail/842541922562074817|title=Stardew Valley Is Now Available!- Steam Community :: Group Announcements :: Stardew Valley|date=May 2023",
+				"OS X: July 29, 2016|ref=<ref name=\"release date\">[https://twitter.com/ConcernedApe/status/755796881658241024 ConcernedApe on Twitter: \"Quick Update: Mac & Linux are set to be launched on the 29th! Multiplayer, localizations, and the version 1.1 update are still in progress.\"]</ref>",
+				"Linux: July 29, 2016|ref=<ref name=\"release date\"/>"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "413150"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "platinum",
+			"steamDeckCatagory": 3
+		},
+		"umuId": null
+	}
+}

@@ -1,0 +1,199 @@
+{
+  "app_name": "Eagle",
+  "app_title": "Moonlighter",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Eagle",
+      "asset_id": "Eagle",
+      "build_version": "1.14.38",
+      "catalog_item_id": "4255c34fbbb746ca8a982f1245c0e490",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "6e6c253ab802451bb10011f98ef7484f"
+      },
+      "namespace": "bec822fb982843c3be794d440728336b"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-09T15:35:38.259Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/11BitStudios/Moonlighter/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Moonlighter"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "bec822fb982843c3be794d440728336b"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Moonlighter",
+    "developer": "11 Bit Studios",
+    "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "dlc"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-10T18:38:57.913Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Moonlighter DLC",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "56489e06733145dc8907a1067be1596e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "56489e06733145dc8907a1067be1596e",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "2905879d3431602b0387e407994165d1",
+            "size": 1926063,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-03-10T19:05:10.411Z",
+            "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/EGS_11bitstudios_Moonlighter_LandscapeImage-2560x1440-2905879d3431602b0387e407994165d1_2560x1440-2905879d3431602b0387e407994165d1",
+            "width": 2560
+          },
+          {
+            "height": 440,
+            "md5": "0e5c617dc29311418d17850d4c946977",
+            "size": 147436,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2023-03-10T19:05:05.914Z",
+            "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/CodeRedemptionMoonlighterDLC-340x440-0e5c617dc29311418d17850d4c946977_340x440-0e5c617dc29311418d17850d4c946977",
+            "width": 340
+          }
+        ],
+        "lastModifiedDate": "2023-03-10T19:05:15.360Z",
+        "mainGameItem": {
+          "id": "4255c34fbbb746ca8a982f1245c0e490",
+          "namespace": "bec822fb982843c3be794d440728336b",
+          "unsearchable": false
+        },
+        "namespace": "bec822fb982843c3be794d440728336b",
+        "releaseInfo": [
+          {
+            "appId": "EagleDLC",
+            "compatibleApps": [],
+            "dateAdded": "2019-07-10T00:00:00.000Z",
+            "id": "1c376507541a49cc8041802dd68f9fe5",
+            "platform": [
+              "Windows",
+              "Mac"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Moonlighter DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "4255c34fbbb746ca8a982f1245c0e490",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "4255c34fbbb746ca8a982f1245c0e490",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f29e5f2829eee173e9d0605d6715d8c0",
+        "size": 854639,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-03-10T19:03:33.195Z",
+        "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/Moonlighter_Landscape_Image_2560x1440_2560x1440-f29e5f2829eee173e9d0605d6715d8c0",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "5b427c1540fe681d319aedc8e494d598",
+        "size": 999753,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-03-10T19:03:30.602Z",
+        "url": "https://cdn1.epicgames.com/item/bec822fb982843c3be794d440728336b/Moonlighter_Portrait_Image_1200x1600_1200x1600-5b427c1540fe681d319aedc8e494d598",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-03-10T19:03:38.815Z",
+    "namespace": "bec822fb982843c3be794d440728336b",
+    "releaseInfo": [
+      {
+        "appId": "Eagle",
+        "dateAdded": "2019-07-16T00:00:00.000Z",
+        "id": "095f8fdc376247ff9cc454f5be43fc8e",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Moonlighter",
+    "unsearchable": false
+  }
+}

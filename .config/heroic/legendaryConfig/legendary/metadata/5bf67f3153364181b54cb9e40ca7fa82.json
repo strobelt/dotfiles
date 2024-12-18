@@ -1,0 +1,434 @@
+{
+  "app_name": "5bf67f3153364181b54cb9e40ca7fa82",
+  "app_title": "Death Stranding Content",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "5bf67f3153364181b54cb9e40ca7fa82",
+      "asset_id": "5bf67f3153364181b54cb9e40ca7fa82",
+      "build_version": "1.01",
+      "catalog_item_id": "678578f8abe84265b0d5f81c1997c6da",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "2258a0a1cdeb4cda8a74e554db812714"
+      },
+      "namespace": "f4a904fcef2447439c35c4e6457f3027"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "digitalextras"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-09T22:33:38.642Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeathStrandingContent"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "OwnershipToken": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f4a904fcef2447439c35c4e6457f3027"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Death Stranding Content",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-04-09T20:06:02.502Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DeathStrandingWallpaper"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "f4a904fcef2447439c35c4e6457f3027"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "HD Wallpaper",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "01ced6494f3046e48b9bbb7d2874b703",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "(egstore && boga)"
+        ],
+        "id": "01ced6494f3046e48b9bbb7d2874b703",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e56d3a322a94fd7dd18b9c93ee080d01",
+            "size": 495054,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-11-06T19:13:19.998Z",
+            "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1440,
+            "md5": "5a96ed93665756b28f6d70e65266e64c",
+            "size": 463126,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2019-12-03T16:09:59.957Z",
+            "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/DeathStranding_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+            "width": 1280
+          }
+        ],
+        "lastModifiedDate": "2022-12-26T03:14:37.062Z",
+        "mainGameItem": {
+          "id": "678578f8abe84265b0d5f81c1997c6da",
+          "namespace": "f4a904fcef2447439c35c4e6457f3027",
+          "unsearchable": false
+        },
+        "namespace": "f4a904fcef2447439c35c4e6457f3027",
+        "releaseInfo": [
+          {
+            "appId": "f8bf1e29bbef480a9b28115ad0d644a0",
+            "compatibleApps": [],
+            "dateAdded": "2019-11-06T00:00:00.000Z",
+            "id": "0990ceb6cfcc435ea23151b908c48282",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "HD Wallpaper",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-04-09T21:55:51.095Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DeathStrandingSound"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "f4a904fcef2447439c35c4e6457f3027"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "DEATH STRANDING DIGITAL SOUNDTRACK",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "c7bad4fcef1e4188b36732ed4bdf8103",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "(egstore && boga)"
+        ],
+        "id": "c7bad4fcef1e4188b36732ed4bdf8103",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e56d3a322a94fd7dd18b9c93ee080d01",
+            "size": 495054,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-11-06T19:13:19.998Z",
+            "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1440,
+            "md5": "5a96ed93665756b28f6d70e65266e64c",
+            "size": 463126,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2019-12-03T16:09:59.957Z",
+            "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/DeathStranding_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+            "width": 1280
+          }
+        ],
+        "lastModifiedDate": "2022-12-26T03:14:15.481Z",
+        "mainGameItem": {
+          "id": "678578f8abe84265b0d5f81c1997c6da",
+          "namespace": "f4a904fcef2447439c35c4e6457f3027",
+          "unsearchable": false
+        },
+        "namespace": "f4a904fcef2447439c35c4e6457f3027",
+        "releaseInfo": [
+          {
+            "appId": "84067e3ec8f149b2bbf2342d7a136065",
+            "compatibleApps": [],
+            "dateAdded": "2019-11-06T00:00:00.000Z",
+            "id": "ff6630051fe34149a3dc444b8a0c3c3b",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "DEATH STRANDING DIGITAL SOUNDTRACK",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "games"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-04-09T19:56:15.010Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "CanSkipKoreanIdVerification": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DeathStrandingArt"
+          },
+          "MonitorPresence": {
+            "type": "STRING",
+            "value": "false"
+          },
+          "OwnershipToken": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "PresenceId": {
+            "type": "STRING",
+            "value": "f4a904fcef2447439c35c4e6457f3027"
+          },
+          "RequirementsJson": {
+            "type": "STRING",
+            "value": "{}"
+          },
+          "UseAccessControl": {
+            "type": "STRING",
+            "value": "false"
+          }
+        },
+        "description": "SELECTIONS OF TITAN ART BOOK",
+        "developer": "505 Games",
+        "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+        "endOfSupport": false,
+        "entitlementName": "0a19424d974643f6ae6227a3ed66af2b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "(egstore && boga)"
+        ],
+        "id": "0a19424d974643f6ae6227a3ed66af2b",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e56d3a322a94fd7dd18b9c93ee080d01",
+            "size": 495054,
+            "type": "DieselGameBox",
+            "uploadedDate": "2019-11-06T19:13:19.998Z",
+            "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1440,
+            "md5": "5a96ed93665756b28f6d70e65266e64c",
+            "size": 463126,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2019-12-03T16:09:59.957Z",
+            "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/DeathStranding_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+            "width": 1280
+          }
+        ],
+        "lastModifiedDate": "2022-12-26T03:13:52.099Z",
+        "mainGameItem": {
+          "id": "678578f8abe84265b0d5f81c1997c6da",
+          "namespace": "f4a904fcef2447439c35c4e6457f3027",
+          "unsearchable": false
+        },
+        "namespace": "f4a904fcef2447439c35c4e6457f3027",
+        "releaseInfo": [
+          {
+            "appId": "c311b22f878749449886949eeb588999",
+            "compatibleApps": [],
+            "dateAdded": "2019-11-06T00:00:00.000Z",
+            "id": "4967aeea797440f39e350a0d4c34b802",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "SELECTIONS OF TITAN ART BOOK",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "678578f8abe84265b0d5f81c1997c6da",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && boga)"
+    ],
+    "id": "678578f8abe84265b0d5f81c1997c6da",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e56d3a322a94fd7dd18b9c93ee080d01",
+        "size": 495054,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-11-06T19:13:19.998Z",
+        "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "md5": "5a96ed93665756b28f6d70e65266e64c",
+        "size": 463126,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-03T16:09:59.957Z",
+        "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/item/DeathStranding_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2022-12-26T03:13:08.334Z",
+    "namespace": "f4a904fcef2447439c35c4e6457f3027",
+    "releaseInfo": [
+      {
+        "appId": "5bf67f3153364181b54cb9e40ca7fa82",
+        "compatibleApps": [],
+        "dateAdded": "2019-11-06T00:00:00.000Z",
+        "id": "ecf830bf77524bd1a64e08597087328a",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Death Stranding Content",
+    "unsearchable": false
+  }
+}

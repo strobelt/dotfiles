@@ -1,0 +1,984 @@
+{
+  "app_name": "87be9bd6707748888bce1f79b025c5dd",
+  "app_title": "Neverwinter",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "87be9bd6707748888bce1f79b025c5dd",
+      "asset_id": "87be9bd6707748888bce1f79b025c5dd",
+      "build_version": "CL_2023_07_14_17_29",
+      "catalog_item_id": "64420630dd13480a9e472935cc2c3826",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "9a4a6536096c4307bfb235d811f754ce"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-30T02:17:01.036Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Neverwinter"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "9a4a6536096c4307bfb235d811f754ce"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Neverwinter",
+    "developer": "Arc Games",
+    "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-07T17:44:55.261Z",
+        "customAttributes": {},
+        "description": "Neptune5300 Zen 25 Artifact Choice Pack Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "461f3f0a75db441a84560425012ddb1f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "461f3f0a75db441a84560425012ddb1f",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.554Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune5300 Zen 25 Artifact Choice Pack Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-07T23:08:56.982Z",
+        "customAttributes": {},
+        "description": "NeptuneCalamityUndeath EpicPack Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "2dc4b305e9f040ef9f20ada7d25d972e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "2dc4b305e9f040ef9f20ada7d25d972e",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.583Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "NeptuneCalamityUndeath EpicPack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-02-03T17:43:48.341Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "HPOL Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "3aba1dffc20d4265aa3555f026611b52",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "3aba1dffc20d4265aa3555f026611b52",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.325Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "HPOL Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-07T17:46:55.036Z",
+        "customAttributes": {},
+        "description": "Neptune17250 Zen Frost Giantess Mount Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "10f254ba9ba14cddb38ae8797e37089a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "10f254ba9ba14cddb38ae8797e37089a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.510Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune17250 Zen Frost Giantess Mount Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-03-25T19:23:48.096Z",
+        "customAttributes": {},
+        "description": "Neptune BlueDragonsBane Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "db8fbbf1e05940eb8a1211c3219513df",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "db8fbbf1e05940eb8a1211c3219513df",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.678Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune BlueDragonsBane Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-13T22:04:13.246Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Neptune10000 ZEN 1000BonusBundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "013089cf47304d96b44a7a84ac1a9f00",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "013089cf47304d96b44a7a84ac1a9f00",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.138Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune10000 ZEN 1000BonusBundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-13T22:04:28.490Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Neptune5000 ZEN 300BonusBundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "019fdb9982264d98af960bb4266350ea",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "019fdb9982264d98af960bb4266350ea",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.153Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune5000 ZEN 300BonusBundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-13T22:04:40.475Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Neptune2000 ZEN Bundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "5bf55e58bbaf41fa94abee435a4017de",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "5bf55e58bbaf41fa94abee435a4017de",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.169Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune2000 ZEN Bundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-13T22:04:53.684Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Neptune1000 ZEN Bundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "29100e622d3d4ca594a69eacf58c44d7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "29100e622d3d4ca594a69eacf58c44d7",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.184Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune1000 ZEN Bundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-07T17:45:33.677Z",
+        "customAttributes": {},
+        "description": "Neptune11000 Zen Ornate Mimic Companion Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "080fa7bdfd9b404a94b9a171549cebe1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "080fa7bdfd9b404a94b9a171549cebe1",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.495Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune11000 Zen Ornate Mimic Companion Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-10-11T19:47:40.106Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Underdark Legend Epic Pack audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "a7146ca2763b4dadabcf4b46426d79ed",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a7146ca2763b4dadabcf4b46426d79ed",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:44.709Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Underdark Legend Epic Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-07-13T23:29:18.067Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "NeptuneFreePackAudience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "2b616ac1eda24eb8bb253bfb56884563",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "2b616ac1eda24eb8bb253bfb56884563",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.466Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "NeptuneFreePackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-07T17:43:39.391Z",
+        "customAttributes": {},
+        "description": "Neptune1000 Zen 15 Mount Upgrade Tokens Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "f7bf79336a744f6d884d6df2be4ac4ea",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "f7bf79336a744f6d884d6df2be4ac4ea",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.569Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune1000 Zen 15 Mount Upgrade Tokens Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-13T20:25:39.136Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "NeptuneStarterPackAudience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "d7f6db97079a4e7f9b2dacc251bc75e6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "d7f6db97079a4e7f9b2dacc251bc75e6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.108Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "NeptuneStarterPackAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-13T20:27:34.521Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Neptune20000 ZEN 3000BonusBundle Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "59943f6a6cdf435980ba3fcf6ad865c8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "59943f6a6cdf435980ba3fcf6ad865c8",
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.123Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune20000 ZEN 3000BonusBundle Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-07T17:42:20.821Z",
+        "customAttributes": {},
+        "description": "Neptune500 Zen 25 Reroll Tokens Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "28d46513edc2424a9e18976d7c380085",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "28d46513edc2424a9e18976d7c380085",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.539Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune500 Zen 25 Reroll Tokens Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-12-07T17:44:11.945Z",
+        "customAttributes": {},
+        "description": "Neptune2000 Zen 60-Slot Bag Audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "b4949d1087ac4b0b8a634832b69ccd71",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [],
+        "id": "b4949d1087ac4b0b8a634832b69ccd71",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-12T06:08:44.524Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Neptune2000 Zen 60-Slot Bag Audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-12-08T00:55:03.612Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Epic Menzoberranzan Hero Pack audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "1f7890e216264d06805395ba3f690dc5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f7890e216264d06805395ba3f690dc5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:44.810Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Epic Menzoberranzan Hero Pack audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-05-23T17:11:53.285Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Realm Engineer Pack audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "0669d1aa16454c2e8d6cfb27855e1202",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0669d1aa16454c2e8d6cfb27855e1202",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:45.190Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Realm Engineer Pack audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-03T12:44:29.769Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Wildspace Wanderer Pack",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "baebb0bf950d4c17857ab0d4234e2b67",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "baebb0bf950d4c17857ab0d4234e2b67",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:45.267Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Wildspace Wanderer Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-02-02T15:14:44.689Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Moondancer\u2019s Vanguard Pack",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "388d0ed0b1e54219baae4b247e69275d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "388d0ed0b1e54219baae4b247e69275d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-12T06:08:45.328Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Moondancer\u2019s Vanguard Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2024-06-03T20:15:25.989Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Caldera Carver Pack audience",
+        "developer": "Arc Games",
+        "developerId": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+        "endOfSupport": false,
+        "entitlementName": "a911c76bf6a944e39e39f02f93a8e6da",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a911c76bf6a944e39e39f02f93a8e6da",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-07-16T15:55:59.805Z",
+        "mainGameItem": {
+          "id": "64420630dd13480a9e472935cc2c3826",
+          "namespace": "9a4a6536096c4307bfb235d811f754ce",
+          "unsearchable": false
+        },
+        "namespace": "9a4a6536096c4307bfb235d811f754ce",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Caldera Carver Pack audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "64420630dd13480a9e472935cc2c3826",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "64420630dd13480a9e472935cc2c3826",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "5d82e6f5ee4683fa6f294679e900e788",
+        "size": 810788,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-07-10T08:33:02.589Z",
+        "url": "https://cdn1.epicgames.com/item/9a4a6536096c4307bfb235d811f754ce/EGS_Neverwinter_CrypticStudios_S1_2560x1440-5d82e6f5ee4683fa6f294679e900e788",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "34217ee10047bcedfdae357cba302921",
+        "size": 988086,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-07-10T08:33:06.461Z",
+        "url": "https://cdn1.epicgames.com/item/9a4a6536096c4307bfb235d811f754ce/EGS_Neverwinter_CrypticStudios_S2_1200x1600-34217ee10047bcedfdae357cba302921",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-07-16T15:55:59.858Z",
+    "namespace": "9a4a6536096c4307bfb235d811f754ce",
+    "releaseInfo": [
+      {
+        "appId": "87be9bd6707748888bce1f79b025c5dd",
+        "dateAdded": "2020-07-14T00:00:00.000Z",
+        "id": "529af8ec6ac64874be08d0d411ea97fd",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Neverwinter",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "app_name": "Discus",
+  "app_title": "For The King",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Discus",
+      "asset_id": "Discus",
+      "build_version": "45",
+      "catalog_item_id": "430f4445291f4566989cc26039f4694c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "4492ce99b4124b74a0bb83f78b3d70b8"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-03T16:35:10.597Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "gog*.*,msstore*.*,origin*.*,steam*.*"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/IronOak Games/FTK/save/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ForTheKing"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "4492ce99b4124b74a0bb83f78b3d70b8"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "For The King",
+    "developer": "Curve Digital",
+    "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-09-23T21:07:04.762Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "DiscusJungleDLCAudience",
+        "developer": "Curve Digital",
+        "developerId": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+        "endOfSupport": false,
+        "entitlementName": "9247639b34a24e099bba29fa6c80e681",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "TEEN",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9247639b34a24e099bba29fa6c80e681",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "5fc135be6db0f800dabd833c48eda872",
+            "size": 18524,
+            "type": "ESRB",
+            "uploadedDate": "2020-01-02T04:17:53.564Z",
+            "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/item/ESRB_ForTheKing-842x404-5fc135be6db0f800dabd833c48eda872.jpg",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-02-04T15:24:28.292Z",
+        "mainGameItem": {
+          "id": "430f4445291f4566989cc26039f4694c",
+          "namespace": "4492ce99b4124b74a0bb83f78b3d70b8",
+          "unsearchable": false
+        },
+        "namespace": "4492ce99b4124b74a0bb83f78b3d70b8",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DiscusJungleDLCAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "430f4445291f4566989cc26039f4694c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "430f4445291f4566989cc26039f4694c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 680,
+        "md5": "7591bc93f2768be40c30f242fc986cd0",
+        "size": 301709,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-27T17:54:26.886Z",
+        "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/item/EGS_IronOakGames_ForTheKing_S4-510x680-510x680-7591bc93f2768be40c30f242fc986cd0.jpg",
+        "width": 510
+      },
+      {
+        "height": 1080,
+        "md5": "60e45fce935660131ba319296fe00037",
+        "size": 177834,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-01-04T03:39:17.253Z",
+        "url": "https://cdn1.epicgames.com/4492ce99b4124b74a0bb83f78b3d70b8/item/Diesel_productv2_for-the-king_EGS_IronOakGames_ForTheKing_G1C_00-1920x1080-fe6c412cac9a22dd1a9df2eeab05d0a3cd34761b-1920x1080-60e45fce935660131ba319296fe00037.jpg",
+        "width": 1920
+      }
+    ],
+    "lastModifiedDate": "2024-04-02T15:55:57.143Z",
+    "namespace": "4492ce99b4124b74a0bb83f78b3d70b8",
+    "releaseInfo": [
+      {
+        "appId": "Discus",
+        "id": "4aaa01211b584bb29c2f750e99b05f5f",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "For The King",
+    "unsearchable": false
+  }
+}

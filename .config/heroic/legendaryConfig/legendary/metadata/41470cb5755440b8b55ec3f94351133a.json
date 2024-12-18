@@ -1,0 +1,185 @@
+{
+  "app_name": "41470cb5755440b8b55ec3f94351133a",
+  "app_title": "Shadowrun Hong Kong",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "41470cb5755440b8b55ec3f94351133a",
+      "asset_id": "41470cb5755440b8b55ec3f94351133a",
+      "build_version": "1.0.0",
+      "catalog_item_id": "c8581f13b1b0418e9a7ab712ac6fcd78",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "b57caca2771e4329a27de9119cc5b535"
+      },
+      "namespace": "0d66818e2304485f8dc3ae90c8b622b4"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-18T16:16:14.215Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ShadowrunHongKong"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0d66818e2304485f8dc3ae90c8b622b4"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Shadowrun Hong Kong",
+    "developer": "Paradox Interactive",
+    "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          },
+          {
+            "path": "addons/durable"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2020-08-17T19:05:07.594Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "ShadowrunHKDLC"
+          }
+        },
+        "description": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+        "developer": "Paradox Interactive",
+        "developerId": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+        "endOfSupport": false,
+        "entitlementName": "a6af1505b5714c00bba64fb2ccb677e4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "a6af1505b5714c00bba64fb2ccb677e4",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "81c36e411cbf598de99ae1671044878c",
+            "size": 846398,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-08-27T03:47:52.309Z",
+            "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/item/EGS_ShadowrunHongKongExtendedEditionDeluxeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-81c36e411cbf598de99ae1671044878c.jpg",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2020-09-03T14:48:14.950Z",
+        "longDescription": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+        "mainGameItem": {
+          "id": "c8581f13b1b0418e9a7ab712ac6fcd78",
+          "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+          "unsearchable": false
+        },
+        "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+        "releaseInfo": [
+          {
+            "appId": "fa97850f2c924c7f835ab18f94709e5a",
+            "compatibleApps": [],
+            "dateAdded": "2020-08-17T00:00:00.000Z",
+            "id": "741d20a814f643e08a98c843305e3a73",
+            "platform": [
+              "Windows"
+            ],
+            "releaseNote": "",
+            "versionTitle": ""
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "c8581f13b1b0418e9a7ab712ac6fcd78",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && paradoxinteractive)"
+    ],
+    "id": "c8581f13b1b0418e9a7ab712ac6fcd78",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "8800b84ba18dc04405dbdf27d6c00299",
+        "size": 985717,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-08-20T02:19:46.871Z",
+        "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/item/EGS_ShadowrunHongKongExtendedEdition_HarebrainedSchemes_S1-2560x1440-8800b84ba18dc04405dbdf27d6c00299.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9a14a369cd83dd9f3a84c2b7e51d8e63",
+        "size": 823923,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-08-20T02:20:01.462Z",
+        "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/item/EGS_ShadowrunHongKongExtendedEdition_HarebrainedSchemes_S2-1200x1600-9a14a369cd83dd9f3a84c2b7e51d8e63.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-02T16:25:25.582Z",
+    "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+    "releaseInfo": [
+      {
+        "appId": "41470cb5755440b8b55ec3f94351133a",
+        "dateAdded": "2020-06-18T00:00:00.000Z",
+        "id": "2f0b15b644e44033b4ba502759fb2667",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Shadowrun Hong Kong",
+    "unsearchable": false
+  }
+}

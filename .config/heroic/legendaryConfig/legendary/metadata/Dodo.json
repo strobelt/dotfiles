@@ -1,0 +1,272 @@
+{
+  "app_name": "Dodo",
+  "app_title": "Borderlands 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Dodo",
+      "asset_id": "Dodo",
+      "build_version": "2.0.2_BN347_CL2863302",
+      "catalog_item_id": "445a01ff01344692a69a092595849f03",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "0a923f47a17f4303b52c4560364c408a"
+      },
+      "namespace": "f4a7772a4da24870a3ea6dfb8aeac662"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-10T14:45:27.990Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{UserDir}/My Games/Borderlands 2/WillowGame/SaveData/{EpicId}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Borderlands2"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "10000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "f4a7772a4da24870a3ea6dfb8aeac662"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Borderlands 2",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "developer"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-10T15:38:16.572Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "CommanderLilithDLC"
+          }
+        },
+        "description": "Commander Lilith DLC",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "3475e0d5f87f4e9c9932a71be1066c8a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3475e0d5f87f4e9c9932a71be1066c8a",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "002105a833091caf94efd12de6e6d5bb",
+            "size": 986780,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-09-01T12:47:44.697Z",
+            "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/EGS_CommanderLiliththeWide-2560x1440-002105a833091caf94efd12de6e6d5bb.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "19350814b699d534577da5e40f16972e",
+            "size": 928925,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-09-01T12:48:00.399Z",
+            "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/CommanderLilithtDLCTall-1200x1600-19350814b699d534577da5e40f16972e.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-09-01T12:50:50.712Z",
+        "mainGameItem": {
+          "id": "445a01ff01344692a69a092595849f03",
+          "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+          "unsearchable": false
+        },
+        "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+        "releaseInfo": [
+          {
+            "appId": "DodoDLC1Anemone",
+            "dateAdded": "2019-07-10T00:00:00.000Z",
+            "id": "39e23d64522f43daacc7d7f6e98ba26a",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Commander Lilith DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "games"
+          },
+          {
+            "path": "developer"
+          },
+          {
+            "path": "applications"
+          }
+        ],
+        "creationDate": "2019-07-10T15:39:48.384Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "Borderlands2HDPack"
+          }
+        },
+        "description": "Ultra HD Texture Pack",
+        "developer": "2K Games, Inc.",
+        "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+        "endOfSupport": false,
+        "entitlementName": "d6593a369f774d7dae0edebb965a25cc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d6593a369f774d7dae0edebb965a25cc",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 180,
+            "md5": "3578903b4ae29b5443d2587862ef0713",
+            "size": 24348,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-05-27T19:08:19.053Z",
+            "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/EGS_Borderlands2UltraHDTexturePack_GearboxSoftware_AddOn_IC1_A-320x180-3578903b4ae29b5443d2587862ef0713.jpg",
+            "width": 320
+          },
+          {
+            "height": 1600,
+            "md5": "cded5587c40dfd68097dd1fcaa589a8a",
+            "size": 990104,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-05-27T19:08:32.720Z",
+            "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/EGS_Borderlands2UltraHDTexturePack_GearboxSoftware_AddOn_S2-1200x1600-cded5587c40dfd68097dd1fcaa589a8a.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-05-28T14:30:39.506Z",
+        "mainGameItem": {
+          "id": "445a01ff01344692a69a092595849f03",
+          "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+          "unsearchable": false
+        },
+        "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+        "releaseInfo": [
+          {
+            "appId": "DodoDLC2Mancana",
+            "dateAdded": "2019-07-10T00:00:00.000Z",
+            "id": "eb36615d2b434317a97e05ae56107072",
+            "platform": [
+              "Windows"
+            ]
+          }
+        ],
+        "status": "ACTIVE",
+        "title": "Ultra HD Texture Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "445a01ff01344692a69a092595849f03",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "(egstore && amaranth)"
+    ],
+    "id": "445a01ff01344692a69a092595849f03",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "e4f153cd792f973e00583178d8408128",
+        "size": 495970,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-22T18:22:00.301Z",
+        "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/BL2_Wide-2560x1440-e4f153cd792f973e00583178d8408128.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "5fac54ddb8789d5c4bf354100058ca67",
+        "size": 472912,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-22T18:22:19.264Z",
+        "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/item/BL2_Tall-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2021-02-19T20:19:03.416Z",
+    "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+    "releaseInfo": [
+      {
+        "appId": "Dodo",
+        "dateAdded": "2019-07-23T00:00:00.000Z",
+        "id": "65ed0b3edf804ac3a49c8954b7a99983",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Borderlands 2",
+    "unsearchable": false
+  }
+}

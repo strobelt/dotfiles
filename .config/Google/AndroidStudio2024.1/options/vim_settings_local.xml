@@ -1,0 +1,123 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="Notii-349ac8b1">
+      <jump line="12" column="34" filename="$USER_HOME$/git/notii/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="13" column="19" filename="$USER_HOME$/git/notii/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="18" column="42" filename="$USER_HOME$/git/notii/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/notii/app/src/main/res/values/strings.xml" protocol="file" />
+      <jump line="2" column="49" filename="$USER_HOME$/git/notii/app/src/main/res/values/strings.xml" protocol="file" />
+      <jump line="17" column="35" filename="$USER_HOME$/git/notii/app/src/main/AndroidManifest.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.java" protocol="file" />
+      <jump line="2" column="26" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.kt" protocol="file" />
+      <jump line="2" column="36" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.kt" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.kt" protocol="file" />
+      <jump line="10" column="50" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.kt" protocol="file" />
+      <jump line="13" column="4" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.kt" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/notii/app/src/main/res/layout/activity_main.xml" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/MainActivity.kt" protocol="file" />
+      <jump line="17" column="8" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/MainActivity.kt" protocol="file" />
+      <jump line="18" column="4" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/MainActivity.kt" protocol="file" />
+      <jump line="36" column="35" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/MainActivity.kt" protocol="file" />
+      <jump line="41" column="15" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/MainActivity.kt" protocol="file" />
+      <jump line="43" column="23" filename="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/MainActivity.kt" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.java" timestamp="1724373457580">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/notii/app/src/main/res/values/strings.xml" timestamp="1724373418921">
+        <mark key="&quot;" line="2" column="49" />
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="50" />
+      </file>
+      <file name="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/MainActivity.kt" timestamp="1724374228239">
+        <mark key="[" line="43" column="18" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="23" />
+        <mark key="^" line="43" column="24" />
+      </file>
+      <file name="$USER_HOME$/git/notii/app/src/main/AndroidManifest.xml" timestamp="1724373422406">
+        <mark key="&quot;" line="17" column="35" />
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="43" />
+      </file>
+      <file name="$USER_HOME$/git/notii/app/src/main/java/com/example/notii/AppNotificationListenerService.kt" timestamp="1724373569526">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="4" />
+        <mark key="^" line="13" column="5" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">U3RyaW5n</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIGZ1bgo=</text>
+      </register>
+      <register name="3" type="CHARACTER_WISE">
+        <text encoding="base64">IHsKfQ==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <keys>
+          <key char="65535" code="91" mods="130" />
+          <key char="32" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="10" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">U3RyaW5n</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">c3RyaW5nIiJOb3RpaQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

@@ -1,0 +1,143 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "gog-redist",
+				"runner": "gog",
+				"path": "/home/strobelt/.config/heroic/tools/redist/gog",
+				"platformToInstall": "windows",
+				"gameInfo": {
+					"app_name": "gog-redist",
+					"runner": "gog",
+					"title": "Galaxy Common Redistributables",
+					"canRunOffline": true,
+					"install": {
+						"is_dlc": true
+					},
+					"is_installed": true,
+					"art_cover": "https://images.gog-statics.com/516af877f6a03199526d1ce5a76358b8f85f6b828764cf46c820f77ae8832fc5.jpg",
+					"art_square": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5fa80a0fb5ff0b2aaca6730ba213219b.png"
+				},
+				"size": "?? MB",
+				"dependencies": [
+					"DirectX",
+					"MSVC2019_x64",
+					"MSVC2017_x64",
+					"MSVC2015_x64",
+					"dotNet47"
+				]
+			},
+			"addToQueueTime": 1723422696670,
+			"startTime": 1723422696676,
+			"endTime": 1723422749674,
+			"type": "update",
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "2102122491",
+				"path": "/home/strobelt/Games/Heroic",
+				"installDlcs": [
+					"1938055224",
+					"1855458475",
+					"1590284319"
+				],
+				"sdlList": [],
+				"installLanguage": "en-US",
+				"runner": "gog",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"runner": "gog",
+					"developer": "Flaming Fowl Studios",
+					"app_name": "2102122491",
+					"art_cover": "https://images.gog.com/9fc13cf403170af60068e0116075487cb6defce979fa5857a367d03771974e81.webp?namespace=gamesdb",
+					"art_square": "https://images.gog.com/a102d30f0eaafe51d70e0e4cef000c92918b0f5f044899eb3bc6ab249f288aaf.jpg?namespace=gamesdb",
+					"art_background": "https://images.gog.com/9fc13cf403170af60068e0116075487cb6defce979fa5857a367d03771974e81.webp?namespace=gamesdb",
+					"cloud_save_enabled": false,
+					"art_icon": "https://images.gog.com/1ae7e08a37a1f0d360dd1ade9df815b1ea7aea6cf5a42c09e64715be1c318a39.jpg?namespace=gamesdb",
+					"extra": {
+						"about": {
+							"description": "\"In Gloomhaven, you play as a team of mercenaries on their own personal quests to go conquer a world of gloomy and wicked decadence. Choose your group members wisely, because in the turmoil of battle you can only rely on your wits, skills and spells to fight your way through the putrid dungeons and forgotten ruins. In this rogue-like dungeon-crawling adaptation of the famous board game, you will journey through terrifying randomly generated dungeons, fight against increasingly horrific and powerful foes…or die trying. \"",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"genres": [
+							"Role-playing (RPG)",
+							"Adventure",
+							"Strategy",
+							"Turn-based strategy (TBS)",
+							"Tactical"
+						]
+					},
+					"folder_name": "",
+					"install": {
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"save_folder": "",
+					"title": "Gloomhaven",
+					"canRunOffline": true,
+					"is_mac_native": true,
+					"is_linux_native": false
+				},
+				"size": "14.49 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1723422696669,
+			"endTime": 1723424631036,
+			"startTime": 1723422749681,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "1453375253",
+				"path": "/home/strobelt/Games/Heroic",
+				"installDlcs": [],
+				"sdlList": [],
+				"installLanguage": "en",
+				"runner": "gog",
+				"platformToInstall": "linux",
+				"gameInfo": {
+					"runner": "gog",
+					"developer": "ConcernedApe",
+					"app_name": "1453375253",
+					"art_cover": "https://images.gog.com/56113607c375b5510d8e33841a8d62dca407afed07d06095ce9d76a0101d45c0.jpg?namespace=gamesdb",
+					"art_square": "https://images.gog.com/77fef322229973b009db0cac533afbee2a72e61d257486412e3f3020f86c7487.jpg?namespace=gamesdb",
+					"art_background": "https://images.gog.com/2b2e640399113e8d67a701e5aa0aec73edec64d34de3bdb4314d51ab1c14cbfb.webp?namespace=gamesdb",
+					"cloud_save_enabled": false,
+					"art_icon": "https://images.gog.com/c14220f6b09fc9b728bea2091d99d2d5aa2186fa77151644d1205f81bbacff40.jpg?namespace=gamesdb",
+					"extra": {
+						"about": {
+							"description": "Stardew Valley is an open-ended country-life RPG! You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won’t be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town’s most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!",
+							"shortDescription": ""
+						},
+						"reqs": [],
+						"genres": [
+							"Role-playing (RPG)",
+							"Strategy",
+							"Indie",
+							"Simulator"
+						]
+					},
+					"folder_name": "",
+					"install": {
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"save_folder": "",
+					"title": "Stardew Valley",
+					"canRunOffline": true,
+					"is_mac_native": true,
+					"is_linux_native": true
+				},
+				"size": "463.03 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1723423606616,
+			"endTime": 1723424771624,
+			"startTime": 1723424631049,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

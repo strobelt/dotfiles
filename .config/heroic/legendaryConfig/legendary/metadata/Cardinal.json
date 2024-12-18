@@ -1,0 +1,355 @@
+{
+  "app_name": "Cardinal",
+  "app_title": "This War of Mine",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Cardinal",
+      "asset_id": "Cardinal",
+      "build_version": "6.0.7.3",
+      "catalog_item_id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "91189432bbad4478afd611edff7f0339"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567QOVswifVLLEnW2NNF1mGJN0X",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-07-10T17:36:07.016Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../Roaming/11BitStudios/This War Of Mine/iPhoneDefUser/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ThisWarOfMine"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "1000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "91189432bbad4478afd611edff7f0339"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "This War of Mine",
+    "developer": "11 Bit Studios",
+    "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-07-15T23:28:17.079Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Stories - Season Pass",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "2470356bea7b44478440fc976e114146",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "2470356bea7b44478440fc976e114146",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-02T13:52:03.971Z",
+        "mainGameItem": {
+          "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+          "namespace": "91189432bbad4478afd611edff7f0339",
+          "unsearchable": false
+        },
+        "namespace": "91189432bbad4478afd611edff7f0339",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Stories - Season Pass",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-07-15T23:18:00.505Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Stories - The Last Broadcast (ep. 2) DLC",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "851440d850694cd2a67ff66f1ca7d1c3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "851440d850694cd2a67ff66f1ca7d1c3",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-02T13:31:43.934Z",
+        "mainGameItem": {
+          "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+          "namespace": "91189432bbad4478afd611edff7f0339",
+          "unsearchable": false
+        },
+        "namespace": "91189432bbad4478afd611edff7f0339",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Stories - The Last Broadcast (ep. 2) DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-07-15T23:27:33.259Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Fading Embers (ep.3) DLC",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "6e2b7797a74e4a0c95fddb4dd11e650a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "6e2b7797a74e4a0c95fddb4dd11e650a",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-02T13:32:06.465Z",
+        "mainGameItem": {
+          "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+          "namespace": "91189432bbad4478afd611edff7f0339",
+          "unsearchable": false
+        },
+        "namespace": "91189432bbad4478afd611edff7f0339",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Fading Embers (ep.3) DLC",
+        "unsearchable": false
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-07-15T23:16:03.589Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "The Little Ones DLC",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "66c99fdee11a4ac692e1451f91f7afa9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "66c99fdee11a4ac692e1451f91f7afa9",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2019-08-06T13:01:15.312Z",
+        "mainGameItem": {
+          "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+          "namespace": "91189432bbad4478afd611edff7f0339",
+          "unsearchable": false
+        },
+        "namespace": "91189432bbad4478afd611edff7f0339",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "The Little Ones DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-07-15T23:17:22.920Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Stories - Father's Promise (ep.1) DLC",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "bff1a0056b6c4dcab66cc13b3b8482c7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "bff1a0056b6c4dcab66cc13b3b8482c7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2024-04-02T13:52:03.935Z",
+        "mainGameItem": {
+          "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+          "namespace": "91189432bbad4478afd611edff7f0339",
+          "unsearchable": false
+        },
+        "namespace": "91189432bbad4478afd611edff7f0339",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Stories - Father's Promise (ep.1) DLC",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T13:48:40.767Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "ep.1 DLC Buffer Sub-Offer",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "1003c03c2c02436ebb7b6d8bc125028f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1003c03c2c02436ebb7b6d8bc125028f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-02T13:50:04.093Z",
+        "mainGameItem": {
+          "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+          "namespace": "91189432bbad4478afd611edff7f0339",
+          "unsearchable": false
+        },
+        "namespace": "91189432bbad4478afd611edff7f0339",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ep.1 DLC Buffer Sub-Offer",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "d6c4defc748b4026bb6b00aa4d0d7c0c",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "117bcceb7b116f21e4935b154a9867e7",
+        "size": 723181,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-04-24T21:05:40.812Z",
+        "url": "https://cdn1.epicgames.com/item/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S4_1200x1600-117bcceb7b116f21e4935b154a9867e7",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "9da5d195855aae604c15df4dd745b999",
+        "size": 814806,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-04-24T21:05:43.548Z",
+        "url": "https://cdn1.epicgames.com/item/91189432bbad4478afd611edff7f0339/EGS_ThisWarofMine_11bitstudiosSA_S3_2560x1440-9da5d195855aae604c15df4dd745b999",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2024-04-02T13:48:40.777Z",
+    "namespace": "91189432bbad4478afd611edff7f0339",
+    "releaseInfo": [
+      {
+        "appId": "Cardinal",
+        "dateAdded": "2019-07-10T00:00:00.000Z",
+        "id": "0d1aa34f34ac41e0bfc638eb9155c2e5",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "This War of Mine",
+    "unsearchable": false
+  }
+}

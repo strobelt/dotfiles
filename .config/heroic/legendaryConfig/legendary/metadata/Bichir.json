@@ -1,0 +1,109 @@
+{
+  "app_name": "Bichir",
+  "app_title": "Towerfall Ascension",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Bichir",
+      "asset_id": "Bichir",
+      "build_version": "1.3.3.1-installer",
+      "catalog_item_id": "62cd2e5126504e07a769993f17694557",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8e66d3f552b448afb1889c32ac855fc9"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-12-03T01:38:33.873Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TowerfallAscension"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8e66d3f552b448afb1889c32ac855fc9"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Towerfall Ascension",
+    "developer": "Maddy Makes Games",
+    "developerId": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+    "endOfSupport": false,
+    "entitlementName": "62cd2e5126504e07a769993f17694557",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "62cd2e5126504e07a769993f17694557",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "392f023a86c14fc47df342a2c209c17b",
+        "size": 321353,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-16T21:04:12.276Z",
+        "url": "https://cdn1.epicgames.com/8e66d3f552b448afb1889c32ac855fc9/item/EGS_MattMakesGames_TowerFall_G1C_00-1920x1080-392f023a86c14fc47df342a2c209c17b.jpg",
+        "width": 1920
+      },
+      {
+        "height": 680,
+        "md5": "23e38145d628e5686c9b9ca20589f21d",
+        "size": 77230,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-16T21:04:53.105Z",
+        "url": "https://cdn1.epicgames.com/8e66d3f552b448afb1889c32ac855fc9/item/EGS_MattMakesGames_TowerFall_S4-510x680-23e38145d628e5686c9b9ca20589f21d.jpg",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2023-08-17T19:33:45.808Z",
+    "namespace": "8e66d3f552b448afb1889c32ac855fc9",
+    "releaseInfo": [
+      {
+        "appId": "Bichir",
+        "dateAdded": "2019-12-13T00:00:00.000Z",
+        "id": "2d358490292348e1b28601c2ad182976",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Towerfall Ascension",
+    "unsearchable": false
+  }
+}

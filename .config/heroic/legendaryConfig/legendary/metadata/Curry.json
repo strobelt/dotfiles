@@ -1,0 +1,109 @@
+{
+  "app_name": "Curry",
+  "app_title": "ABZU",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Curry",
+      "asset_id": "Curry",
+      "build_version": "1.0",
+      "catalog_item_id": "1e4e727584484401ac62b2b513419a52",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "7af7476ff9eb4a8d9cd9d6486224de76"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-06-03T20:59:05.267Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "ABZU"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "7af7476ff9eb4a8d9cd9d6486224de76"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "ABZU",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "endOfSupport": false,
+    "entitlementName": "1e4e727584484401ac62b2b513419a52",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "1e4e727584484401ac62b2b513419a52",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a0bfb5f58d2c4282591408cb1d38f391",
+        "size": 889754,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-11-09T14:57:29.282Z",
+        "url": "https://cdn1.epicgames.com/item/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Landscape_Image_2560X1440_2560x1440-a0bfb5f58d2c4282591408cb1d38f391",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "61df06244a496c82f3ac231174c1b1f5",
+        "size": 603920,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-11-09T14:57:26.176Z",
+        "url": "https://cdn1.epicgames.com/item/7af7476ff9eb4a8d9cd9d6486224de76/ABZU_Portrait_Storefront_1200X1600_1200x1600-61df06244a496c82f3ac231174c1b1f5",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-09T14:57:35.126Z",
+    "namespace": "7af7476ff9eb4a8d9cd9d6486224de76",
+    "releaseInfo": [
+      {
+        "appId": "Curry",
+        "dateAdded": "2019-06-03T00:00:00.000Z",
+        "id": "c0400362097645f98534e5bf03ede07c",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "ABZU",
+    "unsearchable": false
+  }
+}

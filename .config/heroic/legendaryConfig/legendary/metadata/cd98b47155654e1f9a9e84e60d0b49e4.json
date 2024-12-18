@@ -1,0 +1,111 @@
+{
+  "app_name": "cd98b47155654e1f9a9e84e60d0b49e4",
+  "app_title": "The First Tree",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "cd98b47155654e1f9a9e84e60d0b49e4",
+      "asset_id": "cd98b47155654e1f9a9e84e60d0b49e4",
+      "build_version": "1.0.0.32",
+      "catalog_item_id": "351343f16d5d4a759cbbee4a62d4f07b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "489c2ca47aaa4190b694184b979d3b23"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567o5Uh67kBnmd1Opk2iqkuNLLx",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-08-18T21:24:49.784Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheFirstTree"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "489c2ca47aaa4190b694184b979d3b23"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The First Tree",
+    "developer": "David Wehle, LLC",
+    "developerId": "o-qq7pjsuevjj5zeqyl7pj97dtlvd62h",
+    "endOfSupport": false,
+    "entitlementName": "351343f16d5d4a759cbbee4a62d4f07b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "351343f16d5d4a759cbbee4a62d4f07b",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "3cef372ae8bfa16b7a713999f46c2fba",
+        "size": 971856,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-03-31T17:12:27.666Z",
+        "url": "https://cdn1.epicgames.com/489c2ca47aaa4190b694184b979d3b23/item/EGS_TheFirstTree_DavidWehle_S1-2560x1440-3cef372ae8bfa16b7a713999f46c2fba.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4f04f881988fdcf35257acdbfd98727e",
+        "size": 373276,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-03-31T17:12:31.892Z",
+        "url": "https://cdn1.epicgames.com/489c2ca47aaa4190b694184b979d3b23/item/EGS_TheFirstTree_DavidWehle_S2-1200x1600-4f04f881988fdcf35257acdbfd98727e.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-09-21T21:47:08.704Z",
+    "namespace": "489c2ca47aaa4190b694184b979d3b23",
+    "releaseInfo": [
+      {
+        "appId": "cd98b47155654e1f9a9e84e60d0b49e4",
+        "compatibleApps": [],
+        "dateAdded": "2020-10-19T00:00:00.000Z",
+        "id": "f50611f3679445848d12bbf9e53648a3",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "The First Tree",
+    "unsearchable": true
+  }
+}

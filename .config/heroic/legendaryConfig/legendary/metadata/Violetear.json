@@ -1,0 +1,110 @@
+{
+  "app_name": "Violetear",
+  "app_title": "Costume Quest",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Violetear",
+      "asset_id": "Violetear",
+      "build_version": "1",
+      "catalog_item_id": "00071b7175d04d1d88975d3901002dfc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-10-04T22:04:57.965Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "CostumeQuest"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d1479d6f93fa4e6ca4415e83a7a5d703"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Costume Quest",
+    "developer": "Double Fine",
+    "developerId": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
+    "endOfSupport": false,
+    "entitlementName": "00071b7175d04d1d88975d3901002dfc",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "00071b7175d04d1d88975d3901002dfc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4931d496c5b86ffdc64226814666bb1b",
+        "size": 957894,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-02-22T18:10:51.310Z",
+        "url": "https://cdn1.epicgames.com/item/d1479d6f93fa4e6ca4415e83a7a5d703/landscape1_2560x1440-4931d496c5b86ffdc64226814666bb1b",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "6f8c8a9155ebaff95f53b91647b86f77",
+        "size": 397777,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-02-22T18:10:53.684Z",
+        "url": "https://cdn1.epicgames.com/item/d1479d6f93fa4e6ca4415e83a7a5d703/portrait1_1200x1600-6f8c8a9155ebaff95f53b91647b86f77",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-02-22T18:11:01.339Z",
+    "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+    "releaseInfo": [
+      {
+        "appId": "Violetear",
+        "dateAdded": "2019-10-14T00:00:00.000Z",
+        "id": "b286f4b4e3f948ca9da5f5bd7e37c72b",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Costume Quest",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "app_name": "a434dcb20f0d439b93aaa31dac9e3210",
+  "app_title": "Defense Grid: The Awakening",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "a434dcb20f0d439b93aaa31dac9e3210",
+      "asset_id": "a434dcb20f0d439b93aaa31dac9e3210",
+      "build_version": "1.263117",
+      "catalog_item_id": "51ee5fe4709c473696a36376e90845d2",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "cb5e906fc2fd4d6cb62b0750f15c5e92"
+      },
+      "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567VIFBmumlGbrBBoZrCLYfgDIb",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-15T17:08:42.606Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/DefenseGrid/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DefenseGrid"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "0dabb0f14acf4fef84bd2b2bf3085dfc"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Defense Grid: The Awakening",
+    "developer": "Hidden Path",
+    "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2020-09-03T16:41:42.558Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DefenseGridDLC"
+          }
+        },
+        "description": "Defense Grid: DLC Bundle",
+        "developer": "Hidden Path",
+        "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+        "endOfSupport": false,
+        "entitlementName": "b24097fca5194e5993f035f44240d4e8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b24097fca5194e5993f035f44240d4e8",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "e3026e7e857b5fa910a2e1d2e225b644",
+            "size": 783027,
+            "type": "DieselGameBox",
+            "uploadedDate": "2020-12-18T01:29:13.656Z",
+            "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S1-2560x1440-e3026e7e857b5fa910a2e1d2e225b644.jpg",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "fa42b40f0ec83781b95cf22331805b9e",
+            "size": 544220,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2020-12-18T01:29:27.058Z",
+            "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridDLCBundle_HiddenPathEntertainment_DLC_S2-1200x1600-fa42b40f0ec83781b95cf22331805b9e.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2020-12-20T15:06:56.867Z",
+        "mainGameItem": {
+          "id": "51ee5fe4709c473696a36376e90845d2",
+          "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+          "unsearchable": false
+        },
+        "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+        "releaseInfo": [
+          {
+            "appId": "7a14f048a99f4eaa890ea684d13ab0cf",
+            "dateAdded": "2020-07-21T00:00:00.000Z",
+            "id": "2e19b5d4a29145268433a2097a98ae9a",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Defense Grid: DLC Bundle",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "public"
+          },
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2020-09-03T16:42:07.467Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          },
+          "FolderName": {
+            "type": "STRING",
+            "value": "DLCCom"
+          }
+        },
+        "description": "Defense Grid: Community Levels DLC",
+        "developer": "Hidden Path",
+        "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+        "endOfSupport": false,
+        "entitlementName": "a751a0aabf604db4bbacae8a1e15195d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a751a0aabf604db4bbacae8a1e15195d",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1080,
+            "md5": "5478c8962bd2453a082aa392d2176acd",
+            "size": 640358,
+            "type": "DieselGameBox",
+            "uploadedDate": "2021-01-06T01:34:52.418Z",
+            "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/dg1-community-level-dlc-1920x1080-1920x1080-5478c8962bd2453a082aa392d2176acd.jpg",
+            "width": 1920
+          },
+          {
+            "height": 1600,
+            "md5": "b65b59d389f18f9e433b20ad6d4f25c7",
+            "size": 536552,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-01-06T01:35:06.452Z",
+            "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/dg1-community-levels-dlc-1200x1600-1200x1600-b65b59d389f18f9e433b20ad6d4f25c7.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2021-01-06T01:35:16.643Z",
+        "mainGameItem": {
+          "id": "51ee5fe4709c473696a36376e90845d2",
+          "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+          "unsearchable": false
+        },
+        "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+        "releaseInfo": [
+          {
+            "appId": "167f11a7b253408c8ff0ed43cea260d4",
+            "dateAdded": "2020-07-21T00:00:00.000Z",
+            "id": "2e19b5d4a29145268433a2097a98ae9a",
+            "platform": [
+              "Windows",
+              "Win32"
+            ]
+          }
+        ],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Defense Grid: Community Levels DLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T19:54:21.730Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "DLC01StagingAudience Buffer Sub-Offer",
+        "developer": "Hidden Path",
+        "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+        "endOfSupport": false,
+        "entitlementName": "436385ec14c44b519da7e78e1e289d71",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "436385ec14c44b519da7e78e1e289d71",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-01T19:57:40.976Z",
+        "mainGameItem": {
+          "id": "51ee5fe4709c473696a36376e90845d2",
+          "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+          "unsearchable": false
+        },
+        "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLC01StagingAudience Buffer Sub-Offer",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T19:55:18.362Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "DevAmaryllisAudience Buffer Sub-Offer",
+        "developer": "Hidden Path",
+        "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+        "endOfSupport": false,
+        "entitlementName": "fa14a7562bbc4666bf9476ef65079f0c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fa14a7562bbc4666bf9476ef65079f0c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-01T19:59:50.229Z",
+        "mainGameItem": {
+          "id": "51ee5fe4709c473696a36376e90845d2",
+          "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+          "unsearchable": false
+        },
+        "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DevAmaryllisAudience Buffer Sub-Offer",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-01T19:55:52.884Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "DLCComStagingAudience Buffer Sub-Offer",
+        "developer": "Hidden Path",
+        "developerId": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+        "endOfSupport": false,
+        "entitlementName": "17a995be1e3f430e85538c60ef10a8b2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "17a995be1e3f430e85538c60ef10a8b2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-01T20:07:09.825Z",
+        "mainGameItem": {
+          "id": "51ee5fe4709c473696a36376e90845d2",
+          "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+          "unsearchable": false
+        },
+        "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "DLCComStagingAudience Buffer Sub-Offer",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "51ee5fe4709c473696a36376e90845d2",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "51ee5fe4709c473696a36376e90845d2",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1080,
+        "md5": "7b6cc3b4533d512f4e58800527b1c0a0",
+        "size": 542121,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-12-18T00:24:40.265Z",
+        "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_G2_00-1920x1080-7b6cc3b4533d512f4e58800527b1c0a0.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1600,
+        "md5": "7f6d059571b0e4b72947ae5e9faf0e3b",
+        "size": 475389,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-12-18T00:24:53.829Z",
+        "url": "https://cdn1.epicgames.com/0dabb0f14acf4fef84bd2b2bf3085dfc/item/EGS_DefenseGridTheAwakening_HiddenPathEntertainment_S4-1200x1600-7f6d059571b0e4b72947ae5e9faf0e3b.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-01T19:55:52.892Z",
+    "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+    "releaseInfo": [
+      {
+        "appId": "a434dcb20f0d439b93aaa31dac9e3210",
+        "dateAdded": "2020-07-21T00:00:00.000Z",
+        "id": "dd836dc7a0cd4ef997bb04cd617f2879",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Defense Grid: The Awakening",
+    "unsearchable": false
+  }
+}

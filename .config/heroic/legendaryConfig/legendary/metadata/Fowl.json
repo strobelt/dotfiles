@@ -1,0 +1,314 @@
+{
+  "app_name": "Fowl",
+  "app_title": "The Escapists 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Fowl",
+      "asset_id": "Fowl",
+      "build_version": "0.24",
+      "catalog_item_id": "481004e1785e4a2eb98e63b11797aa9a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "115577f4ef1e4055aaf0da534fdfe81e"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T19:34:25.282Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../LocalLow/Team 17 Digital ltd_/The Escapists 2/Saves/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheEscapists2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "115577f4ef1e4055aaf0da534fdfe81e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Escapists 2",
+    "developer": "Team17 Digital Ltd",
+    "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-21T20:10:19.930Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Wicked Ward Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "72620675f0e549f39d8e28b77fb88303",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "72620675f0e549f39d8e28b77fb88303",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-05T03:39:18.644Z",
+        "mainGameItem": {
+          "id": "481004e1785e4a2eb98e63b11797aa9a",
+          "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+          "unsearchable": false
+        },
+        "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+        "status": "ACTIVE",
+        "title": "Wicked Ward Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-21T20:12:18.315Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Season Pass Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "a377cf92916e4a2893d1a972bbd40669",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a377cf92916e4a2893d1a972bbd40669",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-05T03:39:18.645Z",
+        "mainGameItem": {
+          "id": "481004e1785e4a2eb98e63b11797aa9a",
+          "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+          "unsearchable": false
+        },
+        "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+        "status": "ACTIVE",
+        "title": "Season Pass Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-21T19:58:52.210Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dungeons and Duct Tape Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "89867f8b0e79421698e4705a72a48b49",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "89867f8b0e79421698e4705a72a48b49",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-05T03:39:18.645Z",
+        "mainGameItem": {
+          "id": "481004e1785e4a2eb98e63b11797aa9a",
+          "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+          "unsearchable": false
+        },
+        "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+        "status": "ACTIVE",
+        "title": "Dungeons and Duct Tape Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-21T20:06:49.992Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Big Top Breakout Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "fa7463c069a74d07aadf315df9b4e28b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fa7463c069a74d07aadf315df9b4e28b",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-05T03:39:18.645Z",
+        "mainGameItem": {
+          "id": "481004e1785e4a2eb98e63b11797aa9a",
+          "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+          "unsearchable": false
+        },
+        "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+        "status": "ACTIVE",
+        "title": "Big Top Breakout Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2019-10-21T20:08:02.605Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "The Glorious Regime Prison Audience",
+        "developer": "Team17 Digital Ltd",
+        "developerId": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+        "endOfSupport": false,
+        "entitlementName": "f462bd795cc04772b0c285349bd61cc6",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f462bd795cc04772b0c285349bd61cc6",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2020-08-05T03:39:18.645Z",
+        "mainGameItem": {
+          "id": "481004e1785e4a2eb98e63b11797aa9a",
+          "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+          "unsearchable": false
+        },
+        "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+        "status": "ACTIVE",
+        "title": "The Glorious Regime Prison Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "481004e1785e4a2eb98e63b11797aa9a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "481004e1785e4a2eb98e63b11797aa9a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 765,
+        "md5": "5e7a7db47fdfb418519b2b6eccec0fed",
+        "size": 145053,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-06-10T03:36:29.280Z",
+        "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/item/egs-theescapists2-team17andmouldytoofstudios-s5-1360x765-1360x765-5e7a7db47fdfb418519b2b6eccec0fed.jpg",
+        "width": 1360
+      },
+      {
+        "height": 680,
+        "md5": "22e26fa7753b9b80df8d3ec01dee3e2f",
+        "size": 169642,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-06-10T03:36:36.274Z",
+        "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/item/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2020-07-16T20:21:42.752Z",
+    "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+    "releaseInfo": [
+      {
+        "appId": "Fowl",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "7265eed7616b444b863d06826f355203",
+        "platform": [
+          "Windows",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "The Escapists 2",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "app_name": "KingletAztec",
+  "app_title": "Civilization VI : Aztec DLC",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "KingletAztec",
+      "asset_id": "KingletAztec",
+      "build_version": "1.0.12.951533_nebraska_update1_KingletAztec",
+      "catalog_item_id": "cd9e44a9d1b14b8d84923bb985bc1636",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "bc47459de63f47e488df23ef03f99a20"
+      },
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "addons"
+      }
+    ],
+    "creationDate": "2020-01-16T20:37:57.498Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "AztecDLC"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "cd14dcaa4f3443f19f7169a980559c62"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Civilization VI : Aztec DLC",
+    "developer": "2K Games, Inc.",
+    "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "endOfSupport": false,
+    "entitlementName": "cd9e44a9d1b14b8d84923bb985bc1636",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "cd9e44a9d1b14b8d84923bb985bc1636",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 766,
+        "md5": "43ec615712394b3c4acbe77bce54975c",
+        "size": 475027,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-05-19T21:43:51.113Z",
+        "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+        "width": 1360
+      },
+      {
+        "height": 680,
+        "md5": "7bca651712a1c939a86f767c65160461",
+        "size": 309610,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-05-19T21:43:59.650Z",
+        "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+        "width": 510
+      }
+    ],
+    "lastModifiedDate": "2022-12-06T22:26:06.019Z",
+    "mainGameItem": {
+      "ageGatings": {},
+      "applicationId": "",
+      "categories": [
+        {
+          "path": "public"
+        },
+        {
+          "path": "games"
+        },
+        {
+          "path": "applications"
+        }
+      ],
+      "creationDate": "2019-08-19T19:51:13.782Z",
+      "customAttributes": {
+        "BackgroundProcessNames": {
+          "type": "STRING",
+          "value": "LauncherPatcher.exe"
+        },
+        "CanRunOffline": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "CanSkipKoreanIdVerification": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "FolderName": {
+          "type": "STRING",
+          "value": "SidMeiersCivilizationVI"
+        },
+        "MonitorPresence": {
+          "type": "STRING",
+          "value": "true"
+        },
+        "PresenceId": {
+          "type": "STRING",
+          "value": "cd14dcaa4f3443f19f7169a980559c62"
+        },
+        "RequirementsJson": {
+          "type": "STRING",
+          "value": "{}"
+        },
+        "UseAccessControl": {
+          "type": "STRING",
+          "value": "false"
+        }
+      },
+      "description": "Sid Meier's Civilization VI",
+      "developer": "2K Games, Inc.",
+      "developerId": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+      "endOfSupport": false,
+      "entitlementName": "42ac1ee840304cb1807172a9b47dc8e3",
+      "entitlementType": "EXECUTABLE",
+      "eulaIds": [
+        "(egstore && amaranth)"
+      ],
+      "id": "42ac1ee840304cb1807172a9b47dc8e3",
+      "itemType": "DURABLE",
+      "keyImages": [
+        {
+          "height": 766,
+          "md5": "43ec615712394b3c4acbe77bce54975c",
+          "size": 475027,
+          "type": "DieselGameBox",
+          "uploadedDate": "2020-05-19T21:15:38.509Z",
+          "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S5-1360x766-43ec615712394b3c4acbe77bce54975c.jpg",
+          "width": 1360
+        },
+        {
+          "height": 680,
+          "md5": "7bca651712a1c939a86f767c65160461",
+          "size": 309610,
+          "type": "DieselGameBoxTall",
+          "uploadedDate": "2020-05-19T21:15:50.022Z",
+          "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/item/EGS_SidMeiersCivilizationVI_FiraxisGames_S6-510x680-7bca651712a1c939a86f767c65160461.jpg",
+          "width": 510
+        }
+      ],
+      "lastModifiedDate": "2023-02-01T20:14:53.413Z",
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "releaseInfo": [
+        {
+          "appId": "Kinglet",
+          "dateAdded": "2019-08-19T00:00:00.000Z",
+          "id": "74653a0fa4f34d43ab506f50266816a2",
+          "platform": [
+            "Windows"
+          ]
+        }
+      ],
+      "status": "ACTIVE",
+      "title": "Sid Meier's Civilization VI",
+      "unsearchable": true
+    },
+    "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+    "releaseInfo": [
+      {
+        "appId": "KingletAztec",
+        "dateAdded": "2019-08-19T00:00:00.000Z",
+        "id": "ed7d946319cb4a10a4574f47b5ff4029",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Civilization VI : Aztec DLC",
+    "unsearchable": true
+  }
+}
