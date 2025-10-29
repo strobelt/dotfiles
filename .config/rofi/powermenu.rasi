@@ -1,0 +1,72 @@
+@import "colors.rasi"
+
+#window {
+    background-color: @background-solid;
+    padding: 10px;
+    location: center;
+    anchor: center;
+    width: 15%;
+}
+
+#mainbox {
+    border:  0;
+    padding: 0;
+    children: [listview];
+    background-color: @background-solid;
+}
+
+#listview {
+    layout: vertical;
+    lines: 6;
+    background-color: transparent;
+    extend: true;
+}
+
+element {
+    margin: 3px;
+    padding: 5px;
+    border-radius: 8px;
+    orientation: horizontal;
+}
+
+element-text {
+    horizontal-align: 0.5;
+    vertical-align: 0.5;
+}
+
+#element.normal.normal, element.alternate.normal {
+    background-color: @unselected-background;
+    text-color:       @foreground;
+    size: 0px;
+}
+
+#element-text {
+    padding: 0.5% 1% 0.5% 1%;
+}
+
+#element-text.normal, element-icon.normal {
+    background-color: transparent;
+}
+
+#element.selected.normal {
+    background-image: @selected-background-gradient;
+    text-color:       @selected-foreground;
+    border-color: #d07ef2;
+}
+
+#button {
+    spacing:    0;
+    text-color: @foreground;
+}
+
+#button.selected {
+    background-color: @selected-background;
+    text-color:       @selected-foreground;
+}
+
+element-text, element-icon {
+    background-color: inherit;
+    text-color: inherit;
+    horizontal-align: 0.5;
+    vertical-align: 0.5;
+}

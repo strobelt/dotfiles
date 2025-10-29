@@ -300,7 +300,7 @@
 #qt-fs-controller=1
 
 # Save the recently played items in the menu (boolean)
-#qt-recentplay=1
+qt-recentplay=0
 
 # List of words separated by | to filter (string)
 #qt-recentplay-filter=
@@ -691,6 +691,29 @@ qt-privacy-ask=0
 
 # Password (string)
 #sout-rtsp-pwd=
+
+[stream_out_chromecast] # Chromecast stream output
+
+# ? (string)
+#sout-chromecast-ip=
+
+# ? (integer)
+#sout-chromecast-port=8009
+
+# ? (boolean)
+#sout-chromecast-video=1
+
+# HTTP port (integer)
+#sout-chromecast-http-port=8010
+
+# Performance warning (integer)
+#sout-chromecast-show-perf-warning=1
+
+# Enable Audio passthrough (boolean)
+#sout-chromecast-audio-passthrough=0
+
+# Conversion quality (integer)
+#sout-chromecast-conversion-quality=1
 
 [stream_out_transcode] # Transcode stream output
 
@@ -1866,11 +1889,6 @@ qt-privacy-ask=0
 # Sample rate (integer)
 #alsa-samplerate=48000
 
-[nfs] # NFS input
-
-# Set NFS uid/guid automatically (boolean)
-#nfs-auto-guid=1
-
 [linsys_hdsdi] # HD-SDI Input
 
 # Link # (integer)
@@ -2014,6 +2032,17 @@ qt-privacy-ask=0
 
 # Continuous 22kHz tone (integer)
 #dvb-tone=-1
+
+[smb] # SMB input
+
+# Username (string)
+#smb-user=
+
+# Password (string)
+#smb-pwd=
+
+# SMB domain (string)
+#smb-domain=
 
 [dvb] # DVB input with v4l2 support
 

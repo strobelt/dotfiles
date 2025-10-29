@@ -1,0 +1,25 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/git/farm-game/Farm Game.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Farm Game – Test.cs" opened="true" projectWorkspaceId="2o2assU4kySTNCEipV7hB4GoyZU">
+              <option name="activationTimestamp" value="1747538901640" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-243.22562.171" />
+              <option name="buildTimestamp" value="1733856000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="2559" y="185" width="1922" height="1076" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1734488591958" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/git/farm-game/Farm Game.sln" />
+  </component>
+</application>
