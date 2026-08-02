@@ -1,9 +1,0 @@
-2025/04/13-22:26:01.049 6ca2 Reusing MANIFEST /home/strobelt/.config/Dawnmaker/Local Storage/leveldb/MANIFEST-000001
-2025/04/13-22:26:01.063 6ca2 Recovering log #71
-2025/04/13-22:26:01.064 6ca2 Level-0 table #74: started
-2025/04/13-22:26:01.068 6ca2 Level-0 table #74: 80736 bytes OK
-2025/04/13-22:26:01.068 6ca2 Recovering log #73
-2025/04/13-22:26:01.069 6ca2 Level-0 table #75: started
-2025/04/13-22:26:01.072 6ca2 Level-0 table #75: 42924 bytes OK
-2025/04/13-22:26:01.075 6ca2 Delete type=0 #73
-2025/04/13-22:26:01.075 6ca2 Delete type=0 #71
