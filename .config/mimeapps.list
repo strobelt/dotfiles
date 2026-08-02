@@ -1,3 +1,6 @@
-
 [Default Applications]
 x-scheme-handler/discord-402572971681644545=discord-402572971681644545.desktop
+x-scheme-handler/lens=OpenLens.desktop
+
+[Added Associations]
+image/jpeg=firefox-developer-edition.desktop;
