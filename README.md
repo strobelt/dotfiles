@@ -24,6 +24,7 @@ Clone into `~/git/dotfiles` and symlink the configs you want into your home dire
 ```bash
 ln -s ~/git/dotfiles/.zshrc ~/.zshrc
 ln -s ~/git/dotfiles/.tmux.conf ~/.tmux.conf
+ln -s ~/git/dotfiles/nvim ~/.config/nvim
 # ... etc
 ```
 
